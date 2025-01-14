@@ -20,29 +20,38 @@ Fogarty International Center, National Institutes of Health, United States<br/>
 ## Education
 
 `2018`
-**Ph.D., Ecology, Evolution, and Behavior**, *The University of Texas at Austin*, Austin, TX, USA<br/>
+**Ph.D., Ecology, Evolution, and Behavior**, The University of Texas at Austin, Austin, TX, USA<br/>
 Advisor: Lauren Ancel Meyers<br/>
 Dissertation: *Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals*
 
 `2009`
-**B.Sc., Biology, B.Sc., Ecology**, *University of Georgia*, Athens, GA, USA.
+**B.Sc., Biology, B.Sc., Ecology**, University of Georgia, Athens, GA, USA.<br/>
+*Summa cum laude* with Highest Honors
 
 ## Research Experience
 
 `Apr 2021-present`
-**Guest Researcher**, *Division of International Epidemiology and Population Studies, Fogarty International Center, National Institutes of Health*, Bethesda, MD.
+**Guest Researcher**<br/>
+Fogarty International Center, National Institutes of Health, Bethesda, MD<br/>
+Division of International Epidemiology and Population Studies
 
 `Apr 2021-Jan 2025`
-**Epidemiological Data Scientist (Research Scientist/Engineer 3)**, *Brotman Baty Institute for Precision Medicine, University of Washington*, Seattle, WA.
+**Epidemiological Data Scientist (Research Scientist/Engineer 3)** <br/>
+Brotman Baty Institute for Precision Medicine, University of Washington, Seattle, WA
 
 `Sep 2018-Apr 2021`
-**Postdoctoral Research Fellow**, *Division of International Epidemiology and Population Studies, Fogarty International Center, National Institutes of Health*, Bethesda, MD.
+**Postdoctoral Research Fellow** <br/>
+Fogarty International Center, National Institutes of Health*, Bethesda, MD<br/>
+Division of International Epidemiology and Population Studies
 
 `Jan 2010-Aug 2011`
-**Postbaccalaureate IRTA Fellow**, *Adeno-Associated Virus Biology Section, National Institute of Dental and Craniofacial Research, National Institutes of Health*, Bethesda, MD.
+**Postbaccalaureate IRTA Fellow** <br/>
+National Institute of Dental and Craniofacial Research, National Institutes of Health, Bethesda, MD<br/>
+Adeno-Associated Virus Biology Section, Molecular Physiology and Therapeutics Branch
 
 `Aug 2009-Dec 2009`
-**Research Assistant**, *Odum School of Ecology, University of Georgia*, Athens, GA.
+**Research Assistant**<br/>
+Odum School of Ecology, University of Georgia, Athens, GA
 
 ## Publications
 
@@ -98,83 +107,81 @@ Dissertation: *Ecological, Evolutionary, and Behavioral Determinants of Gut Micr
 **National Science Foundation Graduate Research Fellowship**, $124,500. (awarded in 2012)
 
 `2011-2012`
-**Graduate Recruitment Fellowship**, *Department of Integrative Biology, The University of Texas at Austin*, $32,869.
+**Graduate Recruitment Fellowship**, Department of Integrative Biology, The University of Texas at Austin, $32,869.
 
 `2010-2011`
-**Postbaccalaureate Intramural Research Training Award (IRTA) Fellowship**, *National Institutes of Health*, $56,000.
+**Postbaccalaureate Intramural Research Training Award (IRTA) Fellowship**, National Institutes of Health, $56,000.
 
 ### Grants
 
 `2018`
-**Research Exchange Grant, NSF Infectious Disease Evolution Across Scales Research Coordination Network**, $2800.<br/>
-How does influenza evolution impact the epidemiology of annual epidemics?
+**Research Exchange Grant, NSF Infectious Disease Evolution Across Scales Research Coordination Network**, $2800. *How does influenza evolution impact the epidemiology of annual epidemics?*
 
 `2015-2017`
-**Research Grant DBI-0939454**, *NSF BEACON Center for the Study of Evolution in Action*, $16,000. Co-PI with L. Ancel Meyers and R.J. Lewis.<br/>
-Factors that influence gut microbiota diversity and intestinal bacteria transmission dynamics in wild lemurs.
+**Research Grant DBI-0939454**, NSF BEACON Center for the Study of Evolution in Action, $16,000. *Factors that influence gut microbiota diversity and intestinal bacteria transmission dynamics in wild lemurs.* <br/> 
+Co-PI with L. Ancel Meyers and R.J. Lewis.<br/>
 
 `2015-2017`
-**Dissertation Improvement Grant**, *Ecology, Evolution, & Behavior Graduate Program, The University of Texas at Austin*, $8000.
+**Dissertation Improvement Grant**, Ecology, Evolution, & Behavior Graduate Program, The University of Texas at Austin, $8000.
 
 `2012`
-**Small Research Grant**, *American Society of Primatologists*, $2000.
+**Small Research Grant**, American Society of Primatologists, $2000.
 
 `2012`
-**Small Research Grant**, *International Primatological Society*, $1500.
+**Small Research Grant**, International Primatological Society, $1500.
 
 `2011`
-**Startup Grant**, *Ecology, Evolution, & Behavior Graduate Program, The University of Texas at Austin*, $2000.
+**Startup Grant**, Ecology, Evolution, & Behavior Graduate Program, The University of Texas at Austin, $2000.
 
 `2008`
-**NSF Research Experiences for Undergraduates (REU) Internship**, *NSF Coweeta Long Term Ecological Research Program*, Otto, NC. $3600.
+**NSF Research Experiences for Undergraduates (REU) Internship**, NSF Coweeta Long Term Ecological Research Program, Otto, NC. $3600.
 
 ## Honors and Awards
 
 `2023`
-**Director's Individual Merit Award**, *Fogarty International Center, National Institutes of Health*<br/>
-For excellence in scientific research in epidemiological modeling with a focus on influenza antigenic evolution and the role of human mobility in COVID-19 disease dynamics.
+**Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health<br/>
+*For excellence in scientific research in epidemiological modeling with a focus on influenza antigenic evolution and the role of human mobility in COVID-19 disease dynamics.*
 
 `2020, 2021`	
-**Director’s Group Merit Award**, *Fogarty International Center, National Institutes of Health*<br/> 
-For outstanding modeling work to support the COVID-19 pandemic response domestically and internationally.
+**Director’s Group Merit Award**, Fogarty International Center, National Institutes of Health<br/> 
+*For outstanding modeling work to support the COVID-19 pandemic response domestically and internationally.*
 
 `2020`	
-**Young Scientist Award**, *European Scientific Working group on Influenza (ESWI) Conference*
+**Young Scientist Award**, European Scientific Working group on Influenza (ESWI) Conference
 
 `2019`
-**Director's Individual Merit Award**, *Fogarty International Center, NIH*<br/>
-For outstanding efforts to forecast weekly influenza-like illness activity in 27 U.S. military facilities in collaboration with DoD.
+**Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health<br/>
+*For outstanding efforts to forecast weekly influenza-like illness activity in 27 U.S. military facilities in collaboration with DoD.*
 
 `2017, 2018`	
-**Graduate School Summer Semester Continuing Fellowship**, *The University of Texas at Austin*, Austin, TX
+**Graduate School Summer Semester Continuing Fellowship**, The University of Texas at Austin, Austin, TX
 
 `2017`	
-**Network Modeling for Epidemics Course Fellowship**, *University of Washington*, Seattle, WA
+**Course Fellowship, Network Modeling for Epidemics**, University of Washington, Seattle, WA
 
 `2017`
-**Graduate Student Professional Development Award**, *College of Natural Sciences, The University of Texas at Austin*, Austin, TX
+**Graduate Student Professional Development Award**, College of Natural Sciences, The University of Texas at Austin, Austin, TX
 
 `2014, 2015`	
-**Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID) Scholarship and Travel Award**, *University of Washington*, Seattle, WA
+**Scholarship and Travel Award, Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)**, University of Washington, Seattle, WA
 
 `2011`
-**Meaningful Modeling of Epidemiological Data (MMED) Clinic Scholarship and Travel Award**, *African Institute for Mathematical Sciences*, Cape Town, South Africa
+**Scholarship and Travel Award, Meaningful Modeling of Epidemiological Data (MMED) Clinic**, African Institute for Mathematical Sciences, Cape Town, South Africa
 
-`2011`
-**Ecology and Evolution of Infectious Diseases (EEID) Conference Workshop Scholarship and Travel Award**, *University of California, Santa Barbara*, Isla Vista, CA
-
-`2010`
-**Ecology and Evolution of Infectious Diseases (EEID) Conference Workshop Scholarship and Travel Award**, *Cornell University*, Ithaca, NY
+`2010, 2011`
+**Scholarship and Travel Award, Ecology and Evolution of Infectious Diseases (EEID) Conference Workshop**.<br/>
+Cornell University, Ithaca, NY (2010)<br/> 
+University of California, Santa Barbara, Isla Vista, CA (2011)
 
 `2009`	
-**Center for Undergraduate Research (CURO) Scholar distinction**, *University of Georgia*, Athens, GA
+**Center for Undergraduate Research (CURO) Scholar distinction**, University of Georgia, Athens, GA
 
 `2008`	
 **Elected, Phi Beta Kappa Honors Society**
 
 `2007` 	
-**Honors International Scholarship**, *University of Georgia Honors Program*, Athens, GA<br/>
-Travel and tuition support to attend UGA tropical field ecology course in Costa Rica.
+**Honors International Scholarship**, University of Georgia Honors Program, Athens, GA<br/>
+UGA tropical field ecology course in Costa Rica
 
 `2005-2009`
 **Georgia Governor's Scholarship**<br/>
@@ -338,26 +345,30 @@ Trained Elvis Rakotomalala in field research techniques, data collection, and sp
 ### Short courses
 
 `Sep 2019`
-**Co-Instructor, Fogarty International Center-DIVERGE Training Workshop on RSV Genomics and Evolution**, *National Institutes of Health*, Bethesda, MD.
+**Co-Instructor, Fogarty International Center-DIVERGE Training Workshop on RSV Genomics and Evolution**, National Institutes of Health, Bethesda, MD.
 
 `Dec 2018`
-**Co-Instructor, Fogarty International Center-NICD Training Workshop on Infectious Disease Dynamics and Evolution**, *National Institutes of Communicable Diseases*, Johannesburg, South Africa.
+**Co-Instructor, Fogarty International Center-NICD Training Workshop on Infectious Disease Dynamics and Evolution**, National Institutes of Communicable Diseases, Johannesburg, South Africa.
 
 ### Assistant Teaching
 
 `Fall 2016, Fall 2017`
-**Graduate Teaching Assistant, Scientific Inquiry Across Disciplines**, *The University of Texas at Austin*, Austin, TX.
+**Scientific Inquiry Across Disciplines**, The University of Texas at Austin, Austin, TX.<br/>
+Instructor: Katie Hampson
 
 `Spring 2013`
-**Graduate Teaching Assistant, Social Networks and Infectious Diseases**, *The University of Texas at Austin*, Austin, TX. 
+**Social Networks and Infectious Diseases**, The University of Texas at Austin, Austin, TX.<br/>
+Instructor: Lauren Ancel Meyers
 
 ### Guest Lectures
 
 `Nov 2015`
-**Biological Networks and Social Network Analysis**, *Introduction to Biological Statistics Course, Center for Computational Biology and Bioinformatics, The University of Texas at Austin*, Austin, TX.
+**Biological Networks and Social Network Analysis**, Introduction to Biological Statistics Course <br/> 
+Center for Computational Biology and Bioinformatics, The University of Texas at Austin, Austin, TX.
 
 `Nov 2014`
-**Introduction to Networks**, *Introduction to Biological Statistics Course, Center for Computational Biology and Bioinformatics, The University of Texas at Austin*, Austin, TX.
+**Introduction to Networks**, Introduction to Biological Statistics Course<br/>
+Center for Computational Biology and Bioinformatics, The University of Texas at Austin, Austin, TX.
 
 ### Professional training
 
@@ -368,25 +379,30 @@ Completed 9-week pedagogy course on best practices for teaching and learning in 
 ## Professional activities
 
 `Feb 2023`
-**Working group on the use of human mobility data in infectious disease modeling**, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD.
+**Working group on the use of human mobility data in infectious disease modeling**<br/>
+Johns Hopkins Bloomberg School of Public Health, Baltimore, MD.
 
 `Nov 2022 – Aug 2024`
-**Coordinated and led monthly Seattle Flu Alliance Data Analysis meetings**, *Brotman Baty Institute, University of Washington*, Virtual.
+**Coordinated and led monthly Seattle Flu Study Data Analysis meetings**<br/>
+Brotman Baty Institute for Precision Medicine, University of Washington.
 
 `2022`
-**Invited Panelist, "Reflections on COVID-19"**, *NIH Modeling of Infectious Disease Agent Study (MIDAS) Annual Meeting*, Bethesda, MD.
+**Invited Panelist, "Reflections on COVID-19"** <br/>
+NIH MIDAS Annual Meeting, Bethesda, MD
 
 `2022, 2023, 2024`
-**Abstract reviewer**, *NIH Modeling of Infectious Disease Agent Study (MIDAS) Annual Meetings*.
+**Abstract reviewer**, NIH MIDAS Annual Meetings*.
 
 `Feb 2020`
-**Poster Judge**, *NIH Annual Graduate Student Research Symposium*, Bethesda, MD.
+**Poster Judge**, NIH Annual Graduate Student Research Symposium, Bethesda, MD.
 
 `Oct 2019 – Jul 2021`
-**Essay editor**, *Science Policy for All*. Policy blog with contributors from the Washington, DC area.
+**Essay editor, *Science Policy for All***.<br/>
+Policy blog with contributors from the Washington, DC area.
 
 `Feb 2017`
-**Invited Panelist**, *NSF BEACON Public Engagement Workshop*, Austin, TX.
+**Invited Panelist, NSF BEACON Public Engagement Workshop** <br/>
+The University of Texas at Austin, Austin, TX.
 
 **Ad-hoc peer review** (select journals): *American Journal of Epidemiology, American Journal of Primatology, Animal Behaviour, BMJ Global Health, Ecology and Evolution, Epidemics, The ISME Journal, Molecular Ecology, Nature Communications, Nature Physics, PLOS Computational Biology, PNAS Nexus*
 
@@ -406,21 +422,24 @@ Completed 9-week pedagogy course on best practices for teaching and learning in 
 Biweekly seminar series for early-career scientists focused on the intersection of scientific research and legislative policy. Delivered science policy presentations, invited two guest speakers, and wrote and edited articles for the “Science Policy for All” blog.
 
 `Feb 2018`
-**Selected speaker, American Association for the Advancement of Science (AAAS) Classroom Science Days**, Austin, TX.<br/>
-Outreach lecture (Meet the Lemurs) to middle school students. AAAS article
+**Selected speaker, American Association for the Advancement of Science (AAAS) Classroom Science Days**<br/>
+Outreach lecture ("Meet the Lemurs") to middle school students, Austin, TX. AAAS article
 
 `Nov 2016`
-**Public outreach lecture ("Meet the Lemurs"), Science Under the Stars**, Brackenridge Field Laboratory, Austin, TX. Daily Texan article
+**Public outreach lecture ("Meet the Lemurs"), Science Under the Stars**<br/> 
+Brackenridge Field Laboratory, Austin, TX. Daily Texan article
 
 `Mar 2016`
 **NSF BEACON “Researchers at Work” essay**, *How lemur social networks shape microbial transmission.*
 
 `Jan 2011 – May 2018`
-**Radio DJ and Science Talk Show Co-host, They Blinded Me with Science**, *KVRX 91.7FM, The University of Texas at Austin*, Austin, TX.<br/>
+**Radio DJ and Science Talk Show Co-host, They Blinded Me with Science**<br/>
+KVRX 91.7FM, The University of Texas at Austin, Austin, TX<br/>
 Co-hosted weekly educational talk show that interviewed UT-based and visiting researchers and reviewed science publications and news. Recruited guests, conducted interviews, and produced podcasts.
 
 `Jan 2011 – May 2017`
-**Co-organizer and Volunteer, Science Under the Stars**, Brackenridge Field Laboratory, Austin, TX.<br/>
+**Co-organizer and Volunteer, Science Under the Stars**<br/>
+Brackenridge Field Laboratory, Austin, TX<br/>
 Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.
 
 ## Memberships

@@ -57,6 +57,8 @@ body {
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 p {
@@ -129,19 +131,19 @@ h2 {
 	width: 20%;
 }
 
-/* Updated date styling */
 h3 {
-	font-size: 1.1em;
-	line-height: 1.5em;
-	color: #444;
-	position: relative;
-	top: 1.7em;
-	text-align: right;
-	width: 20%;
-	font-family: "Gill Sans", Avenir, "Helvetica Neue", Calibri, sans-serif;
-	font-weight: 400;
-	letter-spacing: 0.4px;
-	padding-right: 2%;
+    font-size: 1.1em;
+    line-height: 1.5em;
+    color: #444;
+    position: relative;
+    top: 1.7em;
+    text-align: right;
+    width: 20%;
+    font-family: "Garamond", "Hoefler Text", "Times New Roman", serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0.3px;
+    padding-right: 2%;
 }
 
 a {
@@ -150,7 +152,7 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color:#39f;
 }
 
 #webaddress {
@@ -158,8 +160,8 @@ a:hover {
 	position: relative;
 	left: 25%;
 	color: #666;
-	font-family: "Gill Sans", Avenir, "Helvetica Neue", Calibri, sans-serif;
-	font-size: 90%;
+	font-family: "Garamond", "Times New Roman", serif;
+	font-size: 100%;
 }
 
 #webaddress a {
@@ -167,11 +169,11 @@ a:hover {
 }
 
 em {
-	font-style: italic;
+	font-style: italic !important;
 }
 
 strong {
-	font-weight: bold;
+	font-weight: bold !important;
 }
 
 #address {
@@ -182,22 +184,22 @@ strong {
 .publications {
     list-style-type: none;
     margin-bottom: 2em;
-    font-size: 0.9em;
-    line-height: 1.3em;
+    font-size: 0.95em;
+    line-height: 1.4em;
 }
 
 .publications li {
     padding-left: 2.5em;
     text-indent: -2.5em;
-    margin-bottom: 0.8em;
+    margin-bottom: 1em;
 }
 
 .publications strong {
-    font-weight: bold;
+    font-weight: bold !important;
 }
 
 .publications em {
-    font-style: italic;
+    font-style: italic !important;
 }
 
 /* Preprints counter */

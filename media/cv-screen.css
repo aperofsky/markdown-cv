@@ -3,6 +3,7 @@
    License: none (public domain)
 */
 
+/* [Reset CSS section remains unchanged] */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -49,14 +50,11 @@ table {
 
 /* end of reset */
 
-
-
 body {
 	font: normal normal 400;
 	font-size: 100%;
 	line-height: 1.5em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
+	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
 }
@@ -72,7 +70,6 @@ p {
 code {
 	font: normal normal;
 	font-size: 90%;
-	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
 }
@@ -83,7 +80,6 @@ p code {
 	right: -20%;
 }
 
-
 ul { 
 	position: relative;
 	left: 25%;
@@ -92,18 +88,9 @@ ul {
 	margin-top: -0.5em;
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
-
 li {
-	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	/*color: #777;*/
 }
 
 li ul {
@@ -115,7 +102,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
+	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
 	width: 80%;
 }
 
@@ -128,7 +115,6 @@ h1 {
 }
 
 h1+p { 
-	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
 }
@@ -136,25 +122,31 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #bc412b;
-	margin-top: 3em;
+	margin-top: 2em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
 	width: 20%;
 }
 
+/* Updated date styling */
 h3 {
-	font-size: 1em;
-	line-height: 2em; 
+	font-size: 1.1em;
+	line-height: 1.5em;
+	color: #444;
 	position: relative;
 	top: 1.7em;
 	text-align: right;
 	width: 20%;
+	font-family: "Gill Sans", Avenir, "Helvetica Neue", Calibri, sans-serif;
+	font-weight: 400;
+	letter-spacing: 0.4px;
+	padding-right: 2%;
 }
 
 a {
 	color: inherit;
-	/*text-decoration:none*/
+	text-decoration: none;
 }
 
 a:hover {
@@ -165,9 +157,9 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #bc412b;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 100%;
+	color: #666;
+	font-family: "Gill Sans", Avenir, "Helvetica Neue", Calibri, sans-serif;
+	font-size: 90%;
 }
 
 #webaddress a {
@@ -175,7 +167,6 @@ a:hover {
 }
 
 em {
-	/* font-weight: bold; */
 	font-style: italic;
 }
 
@@ -187,9 +178,58 @@ strong {
 	display: none;
 }
 
+/* Publications section styling */
+.publications {
+    list-style-type: none;
+    margin-bottom: 2em;
+    font-size: 0.9em;
+    line-height: 1.3em;
+}
 
+.publications li {
+    padding-left: 2.5em;
+    text-indent: -2.5em;
+    margin-bottom: 0.8em;
+}
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+.publications strong {
+    font-weight: bold;
+}
+
+.publications em {
+    font-style: italic;
+}
+
+/* Preprints counter */
+.publications.preprints {
+    counter-reset: preprint-counter;
+}
+
+.publications.preprints li {
+    counter-increment: preprint-counter;
+}
+
+.publications.preprints li:before {
+    content: counter(preprint-counter) ".";
+    display: inline-block;
+    width: 2em;
+    margin-right: 0.5em;
+    text-align: right;
+}
+
+/* Journal articles counter */
+.publications.articles {
+    counter-reset: article-counter;
+}
+
+.publications.articles li {
+    counter-increment: article-counter;
+}
+
+.publications.articles li:before {
+    content: counter(article-counter) ".";
+    display: inline-block;
+    width: 2em;
+    margin-right: 0.5em;
+    text-align: right;
+}

@@ -139,7 +139,7 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 `2008`
 **NSF Research Experiences for Undergraduates (REU) Internship**, NSF Coweeta Long Term Ecological Research Program, Otto, NC. $3600
 
-### Contributions to Other Grants<br/><sup>*</sup>Non PI-status<br/>
+### Contributions to other grants<br/><sup>*</sup>Non PI-status<br/>
 
 `2022-2024`
 **BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program. *Collaborative technology development, and analyses to support genetic epidemiology in Washington State*, $2M<br/>
@@ -277,7 +277,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 **Epidemics<sup>5</sup> International Conference on Infectious Disease Dynamics**, Clearwater Beach, FL. *Social network structure shapes gut microbial communities in wild Verreaux’s sifaka.*
 
 ## Seminar Presentations
-### Invited Talks
+### Invited talks
 `2024`	
 **Yale School of Public Health**, New Haven, CT. *Impacts of human mobility on the citywide transmission dynamics of respiratory viruses:  Insights from the Seattle Flu Study and high-resolution mobile phone data.*
 
@@ -349,7 +349,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 `Dec 2018`
 **Co-Instructor, Fogarty International Center-NICD Training Workshop on Infectious Disease Dynamics and Evolution**, National Institutes of Communicable Diseases, Johannesburg, South Africa.
 
-### Assistant Teaching
+### Assistant teaching
 `Fall 2016, Fall 2017`
 **Scientific Inquiry Across Disciplines**, University of Texas at Austin<br/>
 Instructor: Katie Hansen, Assistant Professor of Practice
@@ -358,7 +358,7 @@ Instructor: Katie Hansen, Assistant Professor of Practice
 **Social Networks and Infectious Diseases**, University of Texas at Austin<br/>
 Instructor: Lauren Ancel Meyers, Professor
 
-### Guest Lectures
+### Guest lectures
 `Nov 2015`
 **Biological Networks and Social Network Analysis**, Introduction to Biological Statistics Course, Center for Computational Biology and Bioinformatics, University of Texas at Austin.
 
@@ -369,7 +369,7 @@ Instructor: Lauren Ancel Meyers, Professor
 `Spring 2020`
 **Scientists Teaching Science**, U.S. National Institutes of Health. Completed 9-week pedagogy course on best practices for teaching and learning in STEM subjects at the undergraduate level.
 
-## Professional activities
+## Professional Activities
 `Feb 2023`
 **Working group on the use of human mobility data in infectious disease modeling**, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD.
 
@@ -390,7 +390,7 @@ Instructor: Lauren Ancel Meyers, Professor
 
 **Ad-hoc peer review** (select journals): *American Journal of Epidemiology, American Journal of Primatology, Animal Behaviour, BMJ Global Health, Ecology and Evolution, Epidemics, The ISME Journal, Molecular Ecology, Nature Communications, Nature Physics, PLOS Computational Biology, PNAS Nexus*
 
-## Science communication and outreach
+## Science Outreach
 `Apr 2024`
 ***Elife* podcast interview**, [*Flu virus evolution: Combining antibody responses and genetic data can help gauge the threats posed by evolving flu strains.*](https://elifesciences.org/podcast/episode92#1373)
 

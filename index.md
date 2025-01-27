@@ -341,8 +341,8 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 
 `2012, 2016`
 **Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo, Madagascar**. Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
-+ Summer 2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior
-+ Summer 2012: Elvis Rakotomalala, Lepilemur tree hole characteristics (published in [_Folia Primatologica_](https://doi.org/10.1159/000464406))
+- Summer 2012: Elvis Rakotomalala, [_Lepilemur_ tree hole characteristics](https://doi.org/10.1159/000464406)
+- Summer 2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior
 
 ### Short courses
 `Sep 2019`
@@ -422,7 +422,7 @@ Coordinated and led monthly [Seattle Flu Study](https://seattleflu.org/) Data An
 
 `2011–2017`
 **Co-organizer and Volunteer, [Science Under the Stars](https://scienceunderthestars.org/)**, Brackenridge Field Laboratory, Austin, TX. Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.
-
+<!---
 ## Memberships
 `2024–present`
 Women in Network Science
@@ -432,5 +432,5 @@ The Network Science Society (NetSci)
 
 `2020–present`
 NIH Modeling of Infectious Disease Agent Study (MIDAS)
-
-<br/>Last updated: January 2025<br/><br/>
+-->
+<br/>Last updated: January 2025<br/>

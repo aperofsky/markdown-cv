@@ -144,12 +144,13 @@ h3 {
 }
 
 a {
-	color: inherit;
+	color: #0066cc;  /* Changed to blue for better visibility */
 	text-decoration: none;
 }
 
 a:hover {
-	color:#39f;
+	color: #39f;
+	text-decoration: underline;
 }
 
 #webaddress {
@@ -171,6 +172,12 @@ em {
 
 strong {
     font-weight: bold !important;
+}
+
+/* Ensure italics in publication lists */
+.publications em {
+    font-style: italic !important;
+    font-weight: normal;  /* Prevent bold italic */
 }
 
 .publications strong {

@@ -334,7 +334,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 `2015`
 **Department of Integrative Biology, University of Texas at Austin**, Austin, TX. *Social networks shape the gut microbial communities of wild Verreaux’s sifaka.*
 
-## Teaching and mentoring experience
+## Teaching and Mentoring Experience
 ### Student mentoring
 `Jun 2024`
 **Tutor, [Complexity 72h](https://complexity72h.com/): *Interdisciplinary workshop for young researchers in complex systems***, Carlos III University de Madrid, Spain. Led a team of 5 graduate students in carrying out a research project within 3 days (i.e., 72h). Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses.” [*medRxiv* preprint](https://doi.org/10.1101/2024.09.13.24313667)
@@ -422,5 +422,3 @@ Coordinated and led monthly [Seattle Flu Study](https://seattleflu.org/) Data An
 
 `2011–2017`
 **Co-organizer and Volunteer, [Science Under the Stars](https://scienceunderthestars.org/)**, Brackenridge Field Laboratory, Austin, TX. Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.
-
-<br/>Last updated: January 2025<br/>

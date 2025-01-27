@@ -51,44 +51,31 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 12pt;
+	font-size: 11pt; /* Slightly smaller font size for the entire document */
 	line-height: 1.5em;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-	margin: 1in 0.75in; /* Slightly increased left margin */
+	margin: 1in 0.75in; /* Adjusted left margin */
 }
 
 p {
 	position: relative;
-	left: 15%; /* Reduced left alignment */
+	left: 10%; /* Reduced left margin for alignment */
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 75%; /* Adjust width for proper alignment */
-}
-
-code {
-	font: normal normal;
-	font-size: 90%;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
-}
-
-p code {
-	position: absolute;
-	text-align: right;
-	right: -18%;
+	width: 80%; /* Increased width to fit content */
 }
 
 ul { 
 	position: relative;
-	left: 15%; /* Match paragraph alignment */
-	width: 85%; /* Adjust width */
+	left: 10%; /* Match paragraph alignment */
+	width: 85%; /* Adjust width for consistency */
 	margin-bottom: 1.5em;
 }
 
 li {
-	padding-left: 1.5em; /* Adjust padding for better alignment */
+	padding-left: 1.5em; /* Proper spacing for list items */
 	text-indent: -1.5em;
-	margin-bottom: 0.7em;
+	margin-bottom: 0.5em; /* Reduced space between items */
 }
 
 li ul {
@@ -98,52 +85,46 @@ li ul {
 	margin-top: 0.25em;
 }
 
-h1,h2,h3,h4 {
+h1, h2, h3, h4 {
 	font-weight: 400;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-	width: 85%;
 }
 
 h1 {
 	text-align: left;
-	font-size: 3em;
-	line-height: 1em;
+	font-size: 2.5em; /* Reduced size to avoid overlapping */
+	line-height: 1.2em;
 	position: relative;
-	left: 15%;
+	left: 10%; /* Align with reduced margin */
 	margin-bottom: 0.5em;
 }
 
-h1+p { 
-	font-style: italic;
-	font-size: 110%;
-}
-
 h2 {
-	font-size: 1.1em;
+	font-size: 1.2em; /* Slightly smaller subheading size */
 	color: #a00;
-	margin-top: 2em;
-	margin-bottom: 0.7em;
+	margin-top: 1.5em; /* Reduced spacing above */
+	margin-bottom: 0.5em; /* Reduced spacing below */
 	position: relative;
-	left: 15%; /* Align with reduced margin */
-	width: 85%;
+	left: 10%; /* Align with body text */
+	width: 80%;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
 	border-bottom: 1px solid #a00;
-	padding-bottom: 0.2em;
+	padding-bottom: 0.1em;
+	page-break-after: avoid; /* Prevent subheadings from causing blank pages */
 }
 
 h3 {
     font-size: 1.1em;
-    line-height: 1.5em;
+    line-height: 1.3em; /* Tighter spacing to prevent overlap */
     color: #444;
     position: relative;
-    top: 1.7em;
-    text-align: right;
-    width: 20%; /* Adjusted width for better fit */
-    padding-right: 2%;
-    font-family: Avenir, "Helvetica Neue", Arial, sans-serif !important;
+    left: 10%;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    width: 70%;
+    padding-right: 0;
+    font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
     font-weight: 400;
-    font-style: normal;
-    letter-spacing: 0.3px;
 }
 
 a {
@@ -157,14 +138,14 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
-	margin-bottom: 1em;
+	margin-top: 0.5em; /* Reduced space above */
+	margin-bottom: 0.5em; /* Reduced space below */
 	position: relative;
-	left: 15%; /* Align with reduced margin */
+	left: 10%; /* Align with reduced margin */
 	color: #a00; /* Match the section heading color */
 	font-family: Monaco, Menlo, monospace, sans-serif;
-	font-size: 80%; /* Reduced font size to fit in one line */
-	line-height: 1.2; /* Slightly tighter spacing */
+	font-size: 70%; /* Smaller font size for websites */
+	line-height: 1; /* Single-line spacing to avoid wrapping */
 }
 
 #webaddress a {
@@ -184,26 +165,10 @@ strong {
     font-weight: bold !important;
 }
 
-/* Ensure italics in publication lists */
-.publications em {
-    font-style: italic !important;
-    font-weight: normal; /* Prevent bold italic */
-}
-
-.publications strong {
-    font-weight: bold !important;
-    display: inline !important;
-}
-
-#ghbutton {
-	display: none;
-	visibility: hidden;
-}
-
 /* Publications section styling */
 .publications {
     list-style-type: none;
-    margin-bottom: 1.5em;
+    margin-bottom: 1em; /* Reduced spacing to prevent blank pages */
     font-size: 0.95em;
     line-height: 1.3em;
     margin-left: 0; /* Align with main headings */
@@ -216,9 +181,9 @@ strong {
     counter-reset: preprint-counter article-counter;
 }
 
-/* Preprints List Items */
-.publications.preprints li {
-    counter-increment: preprint-counter;
+.publications.preprints li,
+.publications.articles li {
+    counter-increment: preprint-counter article-counter;
     margin-left: 0; /* Align with headings */
     position: relative;
     padding-left: 2.5em; /* Slight indentation for numbers */
@@ -227,33 +192,13 @@ strong {
     page-break-inside: avoid; /* Prevent page breaks */
 }
 
-.publications.preprints li:before {
-    content: counter(preprint-counter) ". ";
+.publications.preprints li:before,
+.publications.articles li:before {
+    content: counter(preprint-counter, decimal) ". ";
     position: absolute;
     left: 0;
     top: 0;
     width: 2em; /* Ensure numbers are close to text */
-    text-align: right;
-    color: #444;
-}
-
-/* Articles List Items */
-.publications.articles li {
-    counter-increment: article-counter;
-    margin-left: 0;
-    position: relative;
-    padding-left: 2.5em;
-    text-indent: 0;
-    line-height: 1.5em;
-    page-break-inside: avoid; /* Prevent page breaks */
-}
-
-.publications.articles li:before {
-    content: counter(article-counter) ". ";
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 2em;
     text-align: right;
     color: #444;
 }
@@ -271,15 +216,15 @@ strong {
 /* Print-specific rules */
 @media print {
     body {
-        margin: 1in 0.75in; /* Increased left margin */
+        margin: 1in 0.75in; /* Adjusted left margin for print */
     }
     
     h2, h3 {
-        page-break-after: avoid;
+        page-break-after: avoid; /* Avoid subheading page breaks */
     }
     
     p, ul {
-        page-break-inside: avoid;
+        page-break-inside: avoid; /* Prevent list splitting */
     }
 
     h2 {
@@ -291,14 +236,5 @@ strong {
         font-family: Avenir, "Helvetica Neue", Arial, sans-serif !important;
         font-weight: 400 !important;
         font-size: 1.1em !important;
-    }
-    
-    .publications strong {
-        font-weight: bold !important;
-        display: inline !important;
-    }
-    
-    em {
-        font-style: italic !important;
     }
 }

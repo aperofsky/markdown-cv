@@ -2,7 +2,7 @@
 layout: cv
 title: Amanda Perofsky's CV
 ---
-# Amanda Perofsky, PhD
+# Amanda C. Perofsky, PhD
 Fogarty International Center, U.S. National Institutes of Health<br/>
 <a href="amanda.perofsky@nih.gov">amanda.perofsky@nih.gov</a>
 
@@ -116,14 +116,17 @@ Supervisor: Andrew Park
 
 ### Grants
 `2018`
-**Research Exchange Grant**, NSF Infectious Disease Evolution Across Scales Research Coordination Network. "How does influenza evolution impact the epidemiology of annual epidemics?", $2800
+**Research Exchange Grant**, NSF Infectious Disease Evolution Across Scales Research Coordination Network, $2800<br/>
+"How does influenza evolution impact the epidemiology of annual epidemics?"
 
 `2015`
-**Research Grant DBI-0939454**, BEACON: An NSF Science and Technology Center for the Study of Evolution in Action. "Factors that influence gut microbiota diversity and intestinal bacteria transmission dynamics in wild lemurs", $16,000<br/>
+**Research Grant DBI-0939454**, BEACON: An NSF Science and Technology Center for the Study of Evolution in Action, $16,000<br/>
+"Factors that influence gut microbiota diversity and intestinal bacteria transmission dynamics in wild lemurs"<br/>
 Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 
 `2015`
-**Dissertation Improvement Grant**, Ecology, Evolution, & Behavior Graduate Program, University of Texas at Austin. "A Network-based Study of Gut Bacteria Transmission in Wild Verreaux’s Sifaka", $8000
+**Dissertation Improvement Grant**, Ecology, Evolution, & Behavior Graduate Program, University of Texas at Austin, $8000<br/>
+"A network-based study of gut bacteria transmission in wild Verreaux’s sifaka"
 
 `2012`
 **Small Research Grant**, American Society of Primatologists. $2000
@@ -135,16 +138,19 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 **Startup Grant**, Ecology, Evolution, & Behavior Graduate Program, University of Texas at Austin. $2000
 
 `2008`
-**NSF Research Experiences for Undergraduates (REU) Internship**, NSF Coweeta Long Term Ecological Research Program, Otto, NC. $3600
+**NSF Research Experiences for Undergraduates (REU) Award**, NSF Coweeta Long Term Ecological Research Program, Otto, NC. $3600
 
-## Contributions to other grants (<sup>*</sup>Non PI-status)
+## Contributions to other grants (<sup>*</sup>non PI-status)
 `2022-2024`
-**BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program. "Collaborative technology development, and analyses to support genetic epidemiology in Washington State", $2M<br/>
+**BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program, $2M<br/>
+"Collaborative technology development, and analyses to support genetic epidemiology in Washington State"<br/>
+PIs: Lea Starita (UW) and Trevor Bedford (Fred Hutch)<br/>
 Role: <ins>Epidemiology Lead</ins>. Created public real-time dashboard of [SARS-CoV-2 variant forecasts](https://seattleflu.org/sars-cov-2-forecasts). Led research aim linking demographic and behavioral data to SARS-CoV-2 and endemic virus transmission. Contributed to quarterly reports and presented to CDC program officers.
 
 `2021-2022`
-**Seattle Flu Study and Seattle Coronavirus Assessment Network**, Gates Ventures. $11.6M (Y3-Y4)<br/> 
-Role: <ins>Staff Scientist</ins>. Led research aim linking human mobility to transmission dynamics of 17 endemic respiratory viruses and SARS-CoV-2. Contributed to grant proposals and quarterly and annual reports and presented to funders at monthly meetings. Awarded 3-month funding extension to model the post-pandemic reemergence of RSV in Seattle.
+**Seattle Flu Study and Seattle Coronavirus Assessment Network**, Gates Ventures, $11.6M (Y3-Y4)<br/>
+PIs: Trevor Bedford, Michael Boeckh, Helen Chu, Janet Englund, Tina Lockwood, Barry Lutz, Jay Shendure, Lea Starita, Cécile Viboud, Alpana Waghmare<br/>
+Role: <ins>Staff Scientist</ins>. Led research aim linking human mobility to transmission dynamics of endemic respiratory viruses and SARS-CoV-2. Contributed to grant proposals and quarterly and annual reports and presented to funders at monthly meetings. Awarded 3-month funding extension to model the post-pandemic reemergence of RSV in Seattle.
 
 ## Honors and Awards
 ### Postgraduate
@@ -332,12 +338,14 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 ## Teaching and mentoring experience
 ### Student mentoring
 `Jun 2024`
-**Tutor, [Complexity 72h](https://complexity72h.com/): *Interdisciplinary workshop for young researchers in complex systems***, Carlos III University de Madrid, Spain. Led a team of 5 graduate students in carrying out a research project within 3 days (i.e., 72h). Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses.” [*medRxiv* preprint](https://doi.org/10.1101/2024.09.13.24313667)
+**Tutor, [Complexity 72h](https://complexity72h.com/): *Interdisciplinary workshop for young researchers in complex systems***, Carlos III University de Madrid, Spain.</br>
+Led a team of 5 graduate students in carrying out a research project within 3 days (i.e., 72h). Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses.” [*medRxiv* preprint](https://doi.org/10.1101/2024.09.13.24313667)
 
 `2012, 2016`
-**Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo**, Madagascar. Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
+**Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo, Madagascar**</br>
+Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
 + Summer 2016: Safidy Rasolonjatovo: Verreaux's sifaka scent marking behavior<br/>
-+ Summer 2012: Elvis Rakotomalala: Lepilemur tree hole characteristics ([published in _Folia Primatologica_](https://doi.org/10.1159/000464406))
++ Summer 2012: Elvis Rakotomalala: Lepilemur tree hole characteristics (published in [_Folia Primatologica_](https://doi.org/10.1159/000464406))
 
 ### Short courses
 `Sep 2019`
@@ -364,7 +372,7 @@ Instructor: Lauren Ancel Meyers, Professor
 
 ### Professional training
 `Spring 2020`
-**Scientists Teaching Science**, U.S. National Institutes of Health. Completed 9-week pedagogy course on best practices for teaching and learning in STEM subjects at the undergraduate level.
+**Scientists Teaching Science**, National Institutes of Health. Completed 9-week pedagogy course on best practices for teaching and learning in STEM subjects at the undergraduate level.
 
 ## Professional Activities
 `Feb 2023`
@@ -398,7 +406,7 @@ Coordinated and led monthly [Seattle Flu Study](https://seattleflu.org/) Data An
 ***Science Policy for All* blogpost**, [The Use of COVID-19 Prediction Models in Guiding Policy Decisions.](https://sciencepolicyforall.wordpress.com/2020/05/22/the-use-of-covid-19-prediction-models-in-guiding-policy-decisions/)
 
 `2019–2021`
-**Member, U.S. National Institutes of Health Science Policy Discussion Group**. Biweekly seminar series for early-career scientists focused on the intersection of scientific research and legislative policy. Delivered science policy presentations, invited two guest speakers, and wrote and edited articles for the [Science Policy for All](https://www.linkedin.com/in/scipolicyforall/) blog.
+**Member, NIH Science Policy Discussion Group**. Biweekly seminar series for early-career scientists focused on the intersection of scientific research and legislative policy. Delivered science policy presentations, invited two guest speakers, and wrote and edited articles for the [Science Policy for All](https://www.linkedin.com/in/scipolicyforall/) blog.
 
 `Feb 2018`
 **Selected speaker, American Association for the Advancement of Science (AAAS) Classroom Science Days**,  Austin, TX. Outreach lecture "Meet the Lemurs" to middle school students. [AAAS coverage](https://www.aaas.org/news/aaas-connects-scientists-and-students-classroom-science-days)
@@ -413,10 +421,10 @@ Coordinated and led monthly [Seattle Flu Study](https://seattleflu.org/) Data An
 **NSF BEACON “Researchers at Work” essay**, [How lemur social networks shape microbial transmission.](https://www3.beacon-center.org/blog/2016/03/14/how-lemur-social-networks-shape-microbial-transmission/)
 
 `2011–2018`
-**Radio DJ and Science Talk Show Co-host**, [They Blinded Me with Science](https://www.facebook.com/tbmwskvrx) on [KVRX 91.7FM](https://kvrx.org/app/), University of Texas at Austin. Co-hosted weekly educational talk show that interviewed UT-based and visiting researchers and reviewed science publications and news. Recruited guests, conducted interviews, and produced podcasts.
+**Radio DJ and Science Talk Show Co-host, [They Blinded Me with Science](https://www.facebook.com/tbmwskvrx)** on [KVRX 91.7FM](https://kvrx.org/app/), University of Texas at Austin. Co-hosted weekly educational talk show that interviewed UT-based and visiting researchers and reviewed science publications and news. Recruited guests, conducted interviews, and produced podcasts.
 
 `2011–2017`
-**Co-organizer and Volunteer**, [Science Under the Stars](https://scienceunderthestars.org/), Brackenridge Field Laboratory, Austin, TX. Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.
+**Co-organizer and Volunteer, [Science Under the Stars](https://scienceunderthestars.org/)**, Brackenridge Field Laboratory, Austin, TX. Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.
 
 ## Memberships
 `2024–present`

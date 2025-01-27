@@ -26,42 +26,38 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 **Guest Researcher**<br/>
 Fogarty International Center, U.S. National Institutes of Health<br/>
 Division of International Epidemiology and Population Studies<br/>
-Supervisor: Cécile Viboud, Senior Staff Scientist
+Supervisor: Cécile Viboud
 
 `Apr 2021–Jan 2025`
 **Epidemiological Data Scientist (Research Scientist/Engineer 3)** <br/>
 Seattle Flu Study, Brotman Baty Institute for Precision Medicine, University of Washington<br/>
-Project: *The effects of population mobility, COVID-19 restrictions, and masking behavior on respiratory pathogen transmission in Seattle, Washington*<br/>
-Supervisors: Cécile Viboud, Senior Staff Scientist (NIH) and Robin Prentice, Director of Program Operations (BBI, UW)
+Supervisors: Cécile Viboud (NIH) and Robin Prentice (BBI, UW)
 
 `Sep 2018–Apr 2021`
 **Postdoctoral Research Fellow**<br/>
 Fogarty International Center, U.S. National Institutes of Health<br/>
 Division of International Epidemiology and Population Studies<br/>
-Projects: *Respiratory virus epidemiology, ecology, and transmission patterns in human and animal populations*<br/>
-Advisor: Cécile Viboud, Senior Staff Scientist
+Advisor: Cécile Viboud
 
 `Aug 2011–Aug 2018`
 **Doctoral Research**<br/>
 Department of Integrative Biology, University of Texas at Austin<br/>
-Dissertation: *Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals*<br/>
-Advisor: Lauren Ancel Meyers, Professor
+Dissertation: "Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals"<br/>
+Advisor: Lauren Ancel Meyers
 
 `Jan 2010–Aug 2011`
 **Postbaccalaureate IRTA Fellow**<br/>
 National Institute of Dental and Craniofacial Research, U.S. National Institutes of Health<br/>
 Adeno-Associated Virus Biology Section<br/>
-Project: *Viral infection profiles unique to Sjögren’s Syndrome patients*<br/>
-Supervisor: John Chiorini, Senior Investigator
+Supervisor: John Chiorini
 
 `Aug 2009–Dec 2009`
 **Research Assistant**<br/>
 Odum School of Ecology, University of Georgia<br/>
-Project: *Environmental drivers of epizootic hemorrhagic disease virus (EHDV) outbreaks in white-tailed deer*<br/>
-Supervisor: Andrew Park, Professor
+Supervisor: Andrew Park
 
 ## Publications
-*Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=8K-upW0AAAAJ&hl). † = shared first authorship.*
+Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=8K-upW0AAAAJ&hl). † = shared first authorship.
 
 ### Published preprints
 <ul class="publications preprints">
@@ -120,14 +116,14 @@ Supervisor: Andrew Park, Professor
 
 ### Grants
 `2018`
-**Research Exchange Grant**, NSF Infectious Disease Evolution Across Scales Research Coordination Network. *How does influenza evolution impact the epidemiology of annual epidemics?*, $2800
+**Research Exchange Grant**, NSF Infectious Disease Evolution Across Scales Research Coordination Network. "How does influenza evolution impact the epidemiology of annual epidemics?", $2800
 
 `2015`
-**Research Grant DBI-0939454**, BEACON: An NSF Science and Technology Center for the Study of Evolution in Action. *Factors that influence gut microbiota diversity and intestinal bacteria transmission dynamics in wild lemurs*, $16,000<br/>
+**Research Grant DBI-0939454**, BEACON: An NSF Science and Technology Center for the Study of Evolution in Action. "Factors that influence gut microbiota diversity and intestinal bacteria transmission dynamics in wild lemurs", $16,000<br/>
 Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 
 `2015`
-**Dissertation Improvement Grant**, Ecology, Evolution, & Behavior Graduate Program, University of Texas at Austin. *A Network-based Study of Gut Bacteria Transmission in Wild Verreaux’s Sifaka*, $8000
+**Dissertation Improvement Grant**, Ecology, Evolution, & Behavior Graduate Program, University of Texas at Austin. "A Network-based Study of Gut Bacteria Transmission in Wild Verreaux’s Sifaka", $8000
 
 `2012`
 **Small Research Grant**, American Society of Primatologists. $2000
@@ -143,12 +139,12 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 
 ## Contributions to other grants (<sup>*</sup>Non PI-status)
 `2022-2024`
-**BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program. *Collaborative technology development, and analyses to support genetic epidemiology in Washington State*, $2M<br/>
-Role: <ins>Epidemiology Lead</ins>. Created public real-time dashboard of [SARS-CoV-2 variant forecasts](https://seattleflu.org/sars-cov-2-forecasts) for Washington and other U.S. states, with input from the [*Nextstrain*](https://nextstrain.org/) and Washington Department of Health. Led research aim linking demographic and behavioral data to SARS-CoV-2 and endemic virus transmission. Contributed to quarterly reports and presented to CDC program officers.
+**BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program. "Collaborative technology development, and analyses to support genetic epidemiology in Washington State", $2M<br/>
+Role: <ins>Epidemiology Lead</ins>. Created public real-time dashboard of [SARS-CoV-2 variant forecasts](https://seattleflu.org/sars-cov-2-forecasts). Led research aim linking demographic and behavioral data to SARS-CoV-2 and endemic virus transmission. Contributed to quarterly reports and presented to CDC program officers.
 
 `2021-2022`
 **Seattle Flu Study and Seattle Coronavirus Assessment Network**, Gates Ventures. $11.6M (Y3-Y4)<br/> 
-Role: <ins>Staff Scientist</ins>. Led research aim linking human mobility to transmission dynamics of 17 endemic respiratory viruses and SARS-CoV-2, contrasting patterns observed in pre- and post-COVID-19 pandemic years. Contributed to grant proposals and quarterly and annual reports and presented to funders at monthly meetings. Awarded 3-month funding extension to model the post-pandemic reemergence of RSV in Seattle.
+Role: <ins>Staff Scientist</ins>. Led research aim linking human mobility to transmission dynamics of 17 endemic respiratory viruses and SARS-CoV-2. Contributed to grant proposals and quarterly and annual reports and presented to funders at monthly meetings. Awarded 3-month funding extension to model the post-pandemic reemergence of RSV in Seattle.
 
 ## Honors and Awards
 ### Postgraduate
@@ -156,13 +152,13 @@ Role: <ins>Staff Scientist</ins>. Led research aim linking human mobility to tra
 **Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health. *For excellence in scientific research in epidemiological modeling with a focus on influenza antigenic evolution and the role of human mobility in COVID-19 disease dynamics.*
 
 `2020, 2021`	
-**Director’s Group Merit Award**, Fogarty International Center, National Institutes of Health. *For outstanding modeling work to support the COVID-19 pandemic response domestically and internationally.*
+**Director’s Group Merit Award**, Fogarty International Center, National Institutes of Health. "For outstanding modeling work to support the COVID-19 pandemic response domestically and internationally."
 
 `2020`	
 **Young Scientist Award**, European Scientific Working group on Influenza (ESWI) Conference
 
 `2019`
-**Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health. *For outstanding efforts to forecast weekly influenza-like illness activity in 27 U.S. military facilities in collaboration with DoD.*
+**Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health. "For outstanding efforts to forecast weekly influenza-like illness activity in 27 U.S. military facilities in collaboration with DoD."
 
 ## Graduate
 `2017, 2018`	
@@ -180,9 +176,8 @@ Role: <ins>Staff Scientist</ins>. Led research aim linking human mobility to tra
 `2011`
 **Scholarship and Travel Award, Meaningful Modeling of Epidemiological Data (MMED) Clinic**, African Institute for Mathematical Sciences, Cape Town, South Africa
 
-**Scholarship and Travel Award, Ecology and Evolution of Infectious Diseases (EEID) Conference Workshop**<br/>
-`2010` Cornell University, Ithaca, NY<br/>
-`2011` University of California, Santa Barbara, Isla Vista, CA
+`2010, 2011`
+**Scholarship and Travel Award, Ecology and Evolution of Infectious Diseases (EEID) Conference Workshop**. Cornell University, Ithaca, NY (2010) and University of California, Santa Barbara, Isla Vista, CA (2011)
 
 ## Undergraduate
 `2009`	
@@ -209,14 +204,14 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 ## Conferences
 ### Organization
 `2025`
-**Lead Co-organizer**, [EpiMob Satellite (*Epidemic control: from mobility data to public health)*](https://epimob.weebly.com/), NetSci International Conference on Network Science, Maastricht, the Netherlands. (upcoming, June 2025)
+**Lead Co-organizer**, [EpiMob Satellite ("Epidemic control: from mobility data to public health)"](https://epimob.weebly.com/), NetSci International Conference on Network Science, Maastricht, the Netherlands. (upcoming, June 2025)
 
 `2024`
-**Co-organizer**, [EpiMob Satellite (*Epidemic control: from mobility data to public health)*](https://epimob.weebly.com/), NetSci International Conference on Network Science, Québec City, Canada.
+**Co-organizer**, [EpiMob Satellite ("Epidemic control: from mobility data to public health)"](https://epimob.weebly.com/), NetSci International Conference on Network Science, Québec City, Canada.
 
 ### Panels
 `2022`
-**Invited Panelist**, *Reflections on COVID-19*, NIH Modeling of Infectious Disease Agent Study (MIDAS) Annual Meeting, Bethesda, MD.
+**Invited Panelist**, "Reflections on COVID-19," NIH Modeling of Infectious Disease Agent Study (MIDAS) Annual Meeting, Bethesda, MD.
 
 ### Oral presentations
 `2025`
@@ -339,9 +334,10 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 `Jun 2024`
 **Tutor, [Complexity 72h](https://complexity72h.com/): *Interdisciplinary workshop for young researchers in complex systems***, Carlos III University de Madrid, Spain. Led a team of 5 graduate students in carrying out a research project within 3 days (i.e., 72h). Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses.” [*medRxiv* preprint](https://doi.org/10.1101/2024.09.13.24313667)
 
+`2012, 2016`
 **Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo**, Madagascar. Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
-`Summer 2016`: Safidy Rasolonjatovo: Verreaux's sifaka scent marking behavior<br/>
-`Summer 2012`: Elvis Rakotomalala: Lepilemur tree hole characteristics ([Publication](https://doi.org/10.1159/000464406))
+Summer 2016: Safidy Rasolonjatovo: Verreaux's sifaka scent marking behavior<br/>
+Summer 2012: Elvis Rakotomalala: Lepilemur tree hole characteristics ([Publication](https://doi.org/10.1159/000464406))
 
 ### Short courses
 `Sep 2019`
@@ -384,7 +380,7 @@ Instructor: Lauren Ancel Meyers, Professor
 **Poster Judge**, NIH Annual Graduate Student Research Symposium, Bethesda, MD.
 
 `2019–2021`
-**Policy essay editor**, [*Science Policy for All*](https://www.linkedin.com/in/scipolicyforall/recent-activity/all/?trk=article-ssr-frontend-pulse_more-articles). Policy blog with contributors from the Washington, DC area.
+**Policy essay editor**, [Science Policy for All](https://www.linkedin.com/in/scipolicyforall/recent-activity/all/?trk=article-ssr-frontend-pulse_more-articles). Policy blog with contributors from the Washington, DC area.
 
 `Feb 2017`
 **Invited Panelist**, [NSF BEACON Public Engagement Workshop](https://guides.lib.utexas.edu/c.php?g=631094&p=5639699), University of Texas at Austin, Austin, TX.
@@ -393,28 +389,28 @@ Instructor: Lauren Ancel Meyers, Professor
 
 ## Science Outreach
 `Apr 2024`
-***Elife* podcast interview**, [*Flu virus evolution: Combining antibody responses and genetic data can help gauge the threats posed by evolving flu strains.*](https://elifesciences.org/podcast/episode92#1373)
+***Elife* podcast interview**, [Flu virus evolution: Combining antibody responses and genetic data can help gauge the threats posed by evolving flu strains.](https://elifesciences.org/podcast/episode92#1373)
 
 `Jun 2021`
-***Science Policy for All* blogpost**, [*Can the United States achieve herd immunity? Vaccine mandates and other policies to increase COVID-19 vaccination.*](https://sciencepolicyforall.wordpress.com/2021/06/10/can-the-united-states-achieve-herd-immunity-vaccine-mandates-and-other-policies-to-increase-covid-19-vaccination/)
+***Science Policy for All* blogpost**, [Can the United States achieve herd immunity? Vaccine mandates and other policies to increase COVID-19 vaccination.](https://sciencepolicyforall.wordpress.com/2021/06/10/can-the-united-states-achieve-herd-immunity-vaccine-mandates-and-other-policies-to-increase-covid-19-vaccination/)
 
 `May 2020`
-***Science Policy for All* blogpost**, [*The Use of COVID-19 Prediction Models in Guiding Policy Decisions.*](https://sciencepolicyforall.wordpress.com/2020/05/22/the-use-of-covid-19-prediction-models-in-guiding-policy-decisions/)
+***Science Policy for All* blogpost**, [The Use of COVID-19 Prediction Models in Guiding Policy Decisions.](https://sciencepolicyforall.wordpress.com/2020/05/22/the-use-of-covid-19-prediction-models-in-guiding-policy-decisions/)
 
 `2019–2021`
-**Member, U.S. National Institutes of Health Science Policy Discussion Group**. Biweekly seminar series for early-career scientists focused on the intersection of scientific research and legislative policy. Delivered science policy presentations, invited two guest speakers, and wrote and edited articles for the [*Science Policy for All*](https://www.linkedin.com/in/scipolicyforall/) blog.
+**Member, U.S. National Institutes of Health Science Policy Discussion Group**. Biweekly seminar series for early-career scientists focused on the intersection of scientific research and legislative policy. Delivered science policy presentations, invited two guest speakers, and wrote and edited articles for the [Science Policy for All](https://www.linkedin.com/in/scipolicyforall/) blog.
 
 `Feb 2018`
-**Selected speaker, American Association for the Advancement of Science (AAAS) Classroom Science Days**,  Austin, TX. Outreach lecture *Meet the Lemurs* to middle school students. [AAAS coverage](https://www.aaas.org/news/aaas-connects-scientists-and-students-classroom-science-days)
+**Selected speaker, American Association for the Advancement of Science (AAAS) Classroom Science Days**,  Austin, TX. Outreach lecture "Meet the Lemurs" to middle school students. [AAAS coverage](https://www.aaas.org/news/aaas-connects-scientists-and-students-classroom-science-days)
 
 `2016–2017`
 **Member, Austin Science Advocates**, University of Texas at Austin. Student group aimed at improving communication between scientists, the public, and policymakers.
 
 `Nov 2016`
-**Public outreach lecture *Meet the Lemurs*, Science Under the Stars**, Brackenridge Field Laboratory, Austin, TX. [*Daily Texan* coverage](https://thedailytexan.com/2016/11/14/science-under-the-stars-lecture-features-lemurs/)
+**Public outreach lecture "Meet the Lemurs", Science Under the Stars**, Brackenridge Field Laboratory, Austin, TX. [*Daily Texan* coverage](https://thedailytexan.com/2016/11/14/science-under-the-stars-lecture-features-lemurs/)
 
 `Mar 2016`
-**NSF BEACON “Researchers at Work” essay**, [*How lemur social networks shape microbial transmission.*](https://www3.beacon-center.org/blog/2016/03/14/how-lemur-social-networks-shape-microbial-transmission/)
+**NSF BEACON “Researchers at Work” essay**, [How lemur social networks shape microbial transmission.](https://www3.beacon-center.org/blog/2016/03/14/how-lemur-social-networks-shape-microbial-transmission/)
 
 `2011–2018`
 **Radio DJ and Science Talk Show Co-host, [They Blinded Me with Science](https://www.facebook.com/tbmwskvrx)** on [KVRX 91.7FM](https://kvrx.org/app/), University of Texas at Austin. Co-hosted weekly educational talk show that interviewed UT-based and visiting researchers and reviewed science publications and news. Recruited guests, conducted interviews, and produced podcasts.

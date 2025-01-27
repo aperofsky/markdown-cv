@@ -95,13 +95,25 @@ h3 {
     page-break-after: avoid;
 }
 
+/* Main Links: Nice Blue */
 a {
-    color: #bc412b;
+    color: #3b82f6; /* Nice readable blue */
     text-decoration: none;
 }
 
 a:hover {
-    color: #39f;
+    color: #2563eb; /* Darker blue for hover */
+    text-decoration: underline;
+}
+
+/* Links in the Top Section */
+#webaddress a {
+    color: #bc412b; /* Keep red for top links */
+    text-decoration: none;
+}
+
+#webaddress a:hover {
+    color: #9e2c1f; /* Darker red on hover */
     text-decoration: underline;
 }
 
@@ -112,10 +124,6 @@ a:hover {
     color: #bc412b;
     font-family: Monaco, Menlo, monospace, sans-serif;
     font-size: 80%;
-}
-
-#webaddress a {
-    text-decoration: none;
 }
 
 em {

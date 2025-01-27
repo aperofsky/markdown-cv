@@ -71,21 +71,6 @@ Publication list also available in [Google Scholar](https://scholar.google.com/c
 </ul>
 
 ### Journal articles
-## Publications
-Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=8K-upW0AAAAJ&hl). † = shared first authorship.
-
-### Published preprints
-<ul class="publications preprints">
-<li>Tran-Kiem, C., M.I. Paredes, <strong>A.C. Perofsky</strong>, L.A. Frisbie, H. Xie, K. Kong, A. Weixler, A.L. Greninger, P. Roychoudhury, J.M. Peterson, A. Delgado, H. Halstead, D. MacKellar, P. Dykema, L. Gamboa, C.D. Frazar, E. Ryke, J. Stone, D. Reinhart, L. Starita, A. Thibodeau, C. Yun, F. Aragona, A. Black, C. Viboud, & T. Bedford. (2024) <strong>Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences.</strong> <em>medRxiv</em> 2024.05.24.24307811. doi: <a href="https://doi.org/10.1101/2024.05.24.24307811">10.1101/2024.05.24.24307811</a>. (In press, <em>Nature</em>)</li>
-  
-<li>Kostandova, N., R. Corgel, S. Bansal, S. Bérubé, E. Cleary, C. Hansen, M.D.T. Hitchings, B. García-Carreras, L. Gardner, M.U.G. Kraemer, S. Lai, Y. Li, <strong>A.C. Perofsky</strong>, G. Pullano, J.M. Read, G. Ribeiro dos Santos, H. Salje, S. Takahashi, C. Viboud, J. Wang, D.A.T. Cummings, & A. Wesolowski. (2024) <strong>Data and model needs for generalizable inferences linking human mobility and infectious disease transmission.</strong> doi: <a href="https://osf.io/y9mzd/download">OSF Preprint</a>. (In press, <em>Nature Human Behavior</em>)</li>
-
-<li>Hansen, C. L., Lee, L., Bents, S. J., <strong>Perofsky, A. C.</strong>, Sun, K., Starita, L. M., Adler, A., Englund, J. A., Chow, E. J., Chu, H. Y., & Viboud, C. (2024) <strong>Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025.</strong> <em>medRxiv</em> 2024.12.13.24319008. doi: <a href="https://doi.org/10.1101/2024.12.13.24319008">10.1101/2024.12.13.24319008</a>. (In review, <em>JAMA Network Open</em>)</li>
-
-<li>Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) <strong>Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington.</strong> <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. ([Complexity 72h](https://complexity72h.com/) report, in prep for submission)</li>
-</ul>
-
-### Journal articles
 <ul class="publications articles">
 <li><strong>Perofsky, A.C.</strong>, J. Huddleston, C. Hansen, J.R. Barnes, T. Rowe, X. Xu, R. Kondor, D.E. Wentworth, N. Lewis, L. Whittaker, B. Ermetal, R. Harvey, M. Galiano, R. Stuart Daniels, J.W. McCauley, S. Fujisaki, K. Nakamura, N. Kishida, S. Watanabe, H. Hasegawa, S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, & C. Viboud. (2024) <strong>Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States.</strong> <em>eLife</em> 13:RP91849. doi: <a href="https://doi.org/10.7554/eLife.91849">10.7554/eLife.91849</a>.</li>
 

@@ -3,14 +3,14 @@
 body {
     font: normal 400 11pt "Avenir", "Helvetica Neue", Arial, sans-serif;
     line-height: 1.5em;
-    margin: 1in 0.5in; /* Balanced left and right margins */
+    margin: 1in 0.25in; /* Reduced left and right margins */
 }
 
 p {
     position: relative;
-    left: 10%; /* Reduced left margin */
+    left: 5%; /* Reduced left margin for content alignment */
     margin-bottom: 0.7em;
-    width: 80%; /* Increased width for content */
+    width: 90%; /* Increased width for content */
     font-size: 10pt; /* Slightly smaller font for subheading content */
 }
 
@@ -29,8 +29,8 @@ p code {
 
 ul {
     position: relative;
-    left: 10%; /* Match paragraph alignment */
-    width: 80%; /* Adjust width for consistency */
+    left: 5%; /* Match paragraph alignment */
+    width: 90%; /* Adjust width for consistency */
     margin-bottom: 1.5em;
     font-size: 10pt; /* Slightly smaller font for lists */
 }
@@ -50,7 +50,7 @@ li ul {
 h1, h2, h3, h4 {
     font-weight: 400;
     font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-    width: 80%;
+    width: 90%;
 }
 
 h1 {
@@ -58,7 +58,7 @@ h1 {
     font-size: 2em; /* Reduced size for the name */
     line-height: 1em;
     position: relative;
-    left: 10%; /* Align with reduced margin */
+    left: 5%; /* Align with reduced margin */
 }
 
 h1 + p {
@@ -68,24 +68,26 @@ h1 + p {
 
 h2 {
     font-size: 1.2em; /* Original size for subheading titles */
-    color: #bc412b;
+    font-weight: bold; /* Bold for better visibility */
+    color: #a00; /* Darker red for subheadings */
     margin-top: 2em; /* Reduced spacing */
     position: relative;
     text-align: left; /* Align with content */
-    left: 10%;
-    width: 80%;
-    border-bottom: 1px solid #bc412b;
+    left: 5%;
+    width: 90%;
+    border-bottom: 1px solid #a00;
     padding-bottom: 0.1em;
     page-break-after: avoid; /* Prevents breaking after a heading */
 }
 
 h3 {
     font-size: 1.1em; /* Original size for subheading titles */
+    font-weight: bold; /* Bold for better visibility */
+    color: #444; /* Darker gray for subheadings */
     line-height: 1.4em;
-    color: #444;
     position: relative;
     text-align: left; /* Align with content */
-    left: 10%;
+    left: 5%;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
 }
@@ -103,7 +105,7 @@ a:hover {
 #webaddress {
     margin-top: 1em;
     position: relative;
-    left: 10%; /* Align with reduced margin */
+    left: 5%; /* Align with reduced margin */
     color: #bc412b;
     font-family: Monaco, Menlo, monospace, sans-serif;
     font-size: 80%; /* Smaller font size for compactness */
@@ -177,7 +179,7 @@ strong {
 /* Print-specific rules */
 @media print {
     body {
-        margin: 1in 0.5in; /* Restored margins */
+        margin: 1in 0.25in; /* Restored smaller margins */
     }
     h2, h3 {
         page-break-after: avoid;

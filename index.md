@@ -413,10 +413,10 @@ Coordinated and led monthly [Seattle Flu Study](https://seattleflu.org/) Data An
 **NSF BEACON “Researchers at Work” essay**, [How lemur social networks shape microbial transmission.](https://www3.beacon-center.org/blog/2016/03/14/how-lemur-social-networks-shape-microbial-transmission/)
 
 `2011–2018`
-**Radio DJ and Science Talk Show Co-host, [They Blinded Me with Science](https://www.facebook.com/tbmwskvrx)** on [KVRX 91.7FM](https://kvrx.org/app/), University of Texas at Austin. Co-hosted weekly educational talk show that interviewed UT-based and visiting researchers and reviewed science publications and news. Recruited guests, conducted interviews, and produced podcasts.
+**Radio DJ and Science Talk Show Co-host**, [They Blinded Me with Science](https://www.facebook.com/tbmwskvrx) on [KVRX 91.7FM](https://kvrx.org/app/), University of Texas at Austin. Co-hosted weekly educational talk show that interviewed UT-based and visiting researchers and reviewed science publications and news. Recruited guests, conducted interviews, and produced podcasts.
 
 `2011–2017`
-**Co-organizer and Volunteer, [Science Under the Stars](https://scienceunderthestars.org/)**, Brackenridge Field Laboratory, Austin, TX. Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.
+**Co-organizer and Volunteer**, [Science Under the Stars](https://scienceunderthestars.org/), Brackenridge Field Laboratory, Austin, TX. Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.
 
 ## Memberships
 `2024–present`

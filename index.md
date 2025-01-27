@@ -209,10 +209,10 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 ## Conferences
 ### Organization
 `2025`
-**Lead Co-organizer**, [EpiMob Satellite ("Epidemic control: from mobility data to public health)"](https://epimob.weebly.com/), NetSci International Conference on Network Science, Maastricht, the Netherlands. (upcoming, June 2025)
+**Lead Co-organizer**, [EpiMob Satellite ("Epidemic control: from mobility data to public health")](https://epimob.weebly.com/), NetSci International Conference on Network Science, Maastricht, the Netherlands. (upcoming, June 2025)
 
 `2024`
-**Co-organizer**, [EpiMob Satellite ("Epidemic control: from mobility data to public health)"](https://epimob.weebly.com/), NetSci International Conference on Network Science, Québec City, Canada.
+**Co-organizer**, [EpiMob Satellite ("Epidemic control: from mobility data to public health")](https://epimob.weebly.com/), NetSci International Conference on Network Science, Québec City, Canada.
 
 ### Panels
 `2022`

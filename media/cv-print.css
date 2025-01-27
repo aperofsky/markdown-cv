@@ -41,9 +41,10 @@ ul, li {
 
 /* Dates (Right-aligned) */
 .dates {
-    float: right; /* Align dates to the right */
+    position: absolute;
+    right: 0; /* Align dates to the right */
     text-align: right;
-    width: 20%; /* Allocate space for the dates */
+    width: 15%; /* Allocate space for the dates */
     font-size: 10pt;
     color: #666;
     line-height: 1.5em;
@@ -52,7 +53,7 @@ ul, li {
 
 /* Content adjacent to dates */
 .content {
-    margin-right: 22%; /* Ensure content doesn't overlap with dates */
+    margin-right: 18%; /* Ensure content doesn't overlap with dates */
 }
 
 /* Publications */

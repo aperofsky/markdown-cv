@@ -3,6 +3,7 @@
    License: none (public domain)
 */
 
+/* [Reset CSS section remains unchanged] */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -49,17 +50,12 @@ table {
 
 /* end of reset */
 
-
-
 body {
 	font: normal normal 400;
 	font-size: 12pt;
 	line-height: 1.35em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
-	margin: 2em 3em;  /* Added margin to ensure content doesn't touch page edges */
+	margin: 2em 3em;
 }
 
 p {
@@ -73,7 +69,6 @@ p {
 code {
 	font: normal normal;
 	font-size: 90%;
-	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #ccc;
 }
@@ -84,27 +79,16 @@ p code {
 	right: -18%;
 }
 
-
 ul { 
 	position: relative;
 	left: 20%;
 	width: 70%;
 	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
-
 li {
-	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	/*color: #777;*/
 }
 
 li ul {
@@ -116,8 +100,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;
+	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
 }
 
 h1 {
@@ -129,27 +112,28 @@ h1 {
 }
 
 h1+p { 
-	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
 }
 
-
+/* Modified h2 to span full width */
 h2 {
-	font-size: 0.9em;
-	color: #555;
+	font-size: 1.6em;
+	color: #a00;
 	margin-top: 2em;
+	margin-bottom: 1em;
 	position: relative;
-	top: 1.2em;
-	text-align: right;
-	width: 15%;
-	padding-right: 2%;
-	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;  /* Changed font */
+	left: 20%;
+	width: 70%;
+	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
+	border-bottom: 1px solid #a00;
+	padding-bottom: 0.2em;
+	font-weight: 300;  /* Making it slightly lighter for elegance */
 }
 
-
+/* Kept h3 in margin */
 h3 {
-	font-size: 0.9em;
+	font-size: 0.85em;
 	line-height: 2em;
 	color: #666;
 	position: relative;
@@ -157,16 +141,19 @@ h3 {
 	text-align: right;
 	width: 15%;
 	padding-right: 2%;
-	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;  /* Changed font */
+	font-family: "Gill Sans", "Gill Sans MT", Avenir, "Helvetica Neue", sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	letter-spacing: 0.5px;  /* Adding slight letter spacing for elegance */
 }
 
 a {
 	color: inherit;
-	text-decoration:none
+	text-decoration: none;
 }
 
 a:hover {
-	color:#39f
+	color: #39f;
 }
 
 #webaddress {
@@ -184,7 +171,7 @@ a:hover {
 
 em {
 	font-style: normal;
-	color: #2d4e5e 
+	color: #2d4e5e;
 }
 
 strong {
@@ -196,19 +183,22 @@ strong {
 	visibility: hidden;
 }
 
-/* Add print-specific rules */
+/* Print-specific rules */
 @media print {
     body {
-        margin: 1em 2em;  /* Slightly smaller margins for print */
+        margin: 1em 2em;
     }
     
     h2, h3 {
-        page-break-after: avoid;  /* Prevent headings from being separated from their content */
+        page-break-after: avoid;
     }
     
     p, ul {
-        page-break-inside: avoid;  /* Try to keep content blocks together */
+        page-break-inside: avoid;
+    }
+
+    h2 {
+        color: #a00 !important;  /* Ensure red color prints */
+        border-bottom-color: #a00 !important;
     }
 }
-
-

@@ -137,8 +137,10 @@ strong {
 .publications {
     list-style-type: none; /* Remove bullet points */
     counter-reset: publication-counter; /* Reset numbering */
-    margin: 0; /* Remove all margins */
-    padding: 0; /* Remove all padding */
+    margin-top: 0; /* No margin above */
+    margin-bottom: 0; /* No margin below */
+    padding-top: 0; /* No padding above */
+    padding-bottom: 0; /* No padding below */
     page-break-inside: avoid; /* Prevent splitting list across pages */
 }
 
@@ -160,14 +162,15 @@ strong {
     color: #666; /* Optional: Gray color for numbers */
 }
 
-/* Remove any gap between preprints and journal articles */
+/* Ensure no gap between preprints and journal articles */
 .publications + .publications {
-    margin-top: 0; /* No top margin between sections */
-    padding-top: 0; /* No padding */
+    margin-top: 0 !important; /* Remove top margin between subsequent lists */
+    padding-top: 0 !important;
 }
 
-/* Prevent page breaks in publications */
+/* Prevent page breaks */
 .publications {
+    page-break-before: auto;
     page-break-inside: avoid;
 }
 
@@ -175,15 +178,11 @@ strong {
     page-break-inside: avoid;
 }
 
-/* Ensure headings stay together */
-h2, h3 {
-    page-break-after: avoid;
-}
-
-/* Force page break removal between sections */
+/* Force continuity between headings and lists */
 h2 + .publications {
-    page-break-before: auto; /* Avoid breaking before publications */
-    margin-top: 0; /* Prevent added space */
+    page-break-before: auto;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
 }
 
 /* Print-specific rules */

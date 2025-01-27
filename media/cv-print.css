@@ -67,10 +67,12 @@ h1 + p {
     font-size: 110%;
 }
 
+/* Major Headings: Reduced Spacing */
 h2 {
     font-size: 1.2em;
     font-weight: 400;
-    margin-top: 2em;
+    margin-top: 1.5em; /* Reduced from 2em */
+    margin-bottom: 1em; /* Added bottom margin for balance */
     position: relative;
     text-align: left;
     left: 5%;
@@ -80,6 +82,7 @@ h2 {
     page-break-after: avoid;
 }
 
+/* Subheadings: Consistent Spacing */
 h3 {
     font-size: 1.1em;
     font-weight: 400;
@@ -87,9 +90,8 @@ h3 {
     position: relative;
     text-align: left;
     left: 5%;
-    margin-top: 0 !important; /* Remove top margin */
-    margin-bottom: 0 !important; /* Remove bottom margin */
-    padding: 0 !important; /* Remove padding */
+    margin-top: 0.5em; /* Compact spacing */
+    margin-bottom: 0.5em;
     page-break-after: avoid; /* Prevent page breaks */
 }
 

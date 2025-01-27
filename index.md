@@ -422,15 +422,5 @@ Coordinated and led monthly [Seattle Flu Study](https://seattleflu.org/) Data An
 
 `2011–2017`
 **Co-organizer and Volunteer, [Science Under the Stars](https://scienceunderthestars.org/)**, Brackenridge Field Laboratory, Austin, TX. Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.
-<!---
-## Memberships
-`2024–present`
-Women in Network Science
 
-`2023–present`
-The Network Science Society (NetSci)
-
-`2020–present`
-NIH Modeling of Infectious Disease Agent Study (MIDAS)
--->
 <br/>Last updated: January 2025<br/>

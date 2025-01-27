@@ -207,24 +207,42 @@ strong {
     counter-reset: preprint-counter article-counter;
 }
 
-.publications.preprints li,
-.publications.articles li {
-    counter-increment: preprint-counter article-counter;
-    position: relative;
-    padding-left: 2.5em;
-    text-indent: -2.5em;
-    margin-bottom: 0.7em;
+/* Preprints Section */
+.publications.preprints li {
+    padding-left: 3em; /* Increased padding for text alignment */
+    text-indent: -3em; /* Matches the padding for proper indentation */
+    margin-bottom: 0.7em; /* Maintain consistent spacing between items */
+    line-height: 1.4; /* Improved readability */
 }
 
-.publications.preprints li:before,
-.publications.articles li:before {
-    content: counter(preprint-counter, decimal) ". ";
+.publications.preprints li:before {
+    content: counter(preprint-counter, decimal) ". "; /* Sequential numbering */
     position: absolute;
     left: 0;
     top: 0;
-    width: 2em;
+    width: 2.5em; /* Increased width to prevent overlap */
+    text-align: right; /* Align numbers properly */
+    margin-right: 0.5em; /* Space between number and text */
+    color: #444; /* Number styling (optional) */
+}
+
+/* Journal Articles Section */
+.publications.articles li {
+    padding-left: 3em; /* Same as preprints for uniformity */
+    text-indent: -3em;
+    margin-bottom: 0.7em;
+    line-height: 1.4;
+}
+
+.publications.articles li:before {
+    content: counter(article-counter, decimal) ". "; /* Separate numbering for articles */
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 2.5em;
     text-align: right;
     margin-right: 0.5em;
+    color: #444;
 }
 
 .publications.articles li:before {

@@ -1,74 +1,13 @@
-/* Reset rules */
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
-/* General layout settings */
+/* General layout */
 body {
 	font: normal normal 400;
-	font-size: 11pt;
+	font-size: 11pt; /* Standard font size */
 	line-height: 1.5em;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-	margin: 1in 0.75in; /* Balanced margins */
-}
-
-p, ul, li {
-	margin-bottom: 0.5em;
-}
-
-ul {
-	padding-left: 2em; /* Indent list items */
-}
-
-li {
-	text-indent: 0;
-	line-height: 1.4em;
+	margin: 1in 0.75in; /* Restored balanced margins */
 }
 
 /* Headings */
-h1, h2, h3 {
-	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-}
-
 h1 {
 	font-size: 2.5em;
 	margin-bottom: 0.5em;
@@ -92,34 +31,14 @@ h3 {
 	line-height: 1.3em;
 }
 
-/* Date alignment */
-.dates {
-	position: absolute;
-	right: 0; /* Align dates to the far right */
-	width: 20%; /* Ensure sufficient space */
-	text-align: right;
-	font-size: 10pt;
-	color: #666;
+/* Paragraphs and lists */
+p {
+	margin-bottom: 0.5em;
 }
 
-/* Section content layout */
-.entry {
-	position: relative;
-	padding-left: 2.5em; /* Space for bullet or number */
-	margin-bottom: 1em;
-}
-
-.entry .content {
-	width: 75%; /* Main content width */
-	display: inline-block;
-	vertical-align: top;
-}
-
-.entry .dates {
-	position: absolute;
-	right: 0; /* Align dates */
-	text-align: right;
-	width: 20%; /* Ensure space for dates */
+ul, li {
+	margin-bottom: 0.5em;
+	padding-left: 1.5em; /* Adjusted for proper indentation */
 }
 
 /* Publications */
@@ -146,10 +65,20 @@ h3 {
 	color: #444;
 }
 
-/* Website and link styling */
+/* Dates */
+.dates {
+	position: absolute;
+	right: 0;
+	text-align: right;
+	width: 20%; /* Ensures ample space for dates */
+	font-size: 10pt;
+	color: #666;
+}
+
+/* Web address */
 #webaddress {
 	font-family: Monaco, Menlo, monospace;
-	font-size: 9pt; /* Smaller font size for website */
+	font-size: 9pt; /* Reduced font size for websites */
 	color: #a00;
 	margin-bottom: 1em;
 }
@@ -163,10 +92,10 @@ h3 {
 	text-decoration: underline;
 }
 
-/* Print-specific adjustments */
+/* Print-specific rules */
 @media print {
 	body {
-		margin: 1in 0.75in; /* Adjust margins for printing */
+		margin: 1in 0.75in; /* Restored margins */
 	}
 	h2, h3 {
 		page-break-after: avoid;
@@ -175,6 +104,6 @@ h3 {
 		page-break-inside: avoid;
 	}
 	.dates {
-		font-size: 10pt;
+		font-size: 10pt; /* Readable date font for print */
 	}
 }

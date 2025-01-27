@@ -51,7 +51,7 @@ Advisor: Lauren Ancel Meyers, Professor
 **Postbaccalaureate IRTA Fellow**<br/>
 National Institute of Dental and Craniofacial Research, U.S. National Institutes of Health, Bethesda, MD<br/>
 Adeno-Associated Virus Biology Section<br/>
-Project: *Viral profiles unique to Sjögren’s Syndrome patients*<br/>
+Project: *Viral infection profiles unique to Sjögren’s Syndrome patients*<br/>
 Supervisor: John Chiorini, Senior Investigator
 
 `Aug 2009–Dec 2009`
@@ -63,7 +63,7 @@ Supervisor: Andrew Park, Professor
 ## Publications
 *Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=8K-upW0AAAAJ&hl). † = shared first authorship.*
 
-### Published Preprints
+### Published preprints
 
 1. Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, L.A. Frisbie, H. Xie, K. Kong, A. Weixler, A.L. Greninger, P. Roychoudhury, J.M. Peterson, A. Delgado, H. Halstead, D. MacKellar, P. Dykema, L. Gamboa, C.D. Frazar, E. Ryke, J. Stone, D. Reinhart, L. Starita, A. Thibodeau, C. Yun, F. Aragona, A. Black, C. Viboud, & T. Bedford. (2024) **Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences.** _medRxiv_ 2024.05.24.24307811. doi: [10.1101/2024.05.24.24307811](https://doi.org/10.1101/2024.05.24.24307811). (In press, *Nature*)
 
@@ -139,7 +139,7 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 `2008`
 **NSF Research Experiences for Undergraduates (REU) Internship**, NSF Coweeta Long Term Ecological Research Program, Otto, NC. $3600
 
-### Contributions to Other Grants <sup>*</sup>Non PI-status<br/>
+### Contributions to Other Grants<br/><sup>*</sup>Non PI-status<br/>
 
 `2022-2024`
 **BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program. *Collaborative technology development, and analyses to support genetic epidemiology in Washington State*, $2M<br/>
@@ -152,19 +152,16 @@ Role: <ins>Staff Scientist</ins>. Led research aim linking human mobility to tra
 ## Honors and Awards
 ### Postgraduate
 `2023`
-**Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health<br/>
-*For excellence in scientific research in epidemiological modeling with a focus on influenza antigenic evolution and the role of human mobility in COVID-19 disease dynamics.*
+**Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health. *For excellence in scientific research in epidemiological modeling with a focus on influenza antigenic evolution and the role of human mobility in COVID-19 disease dynamics.*
 
 `2020, 2021`	
-**Director’s Group Merit Award**, Fogarty International Center, National Institutes of Health<br/> 
-*For outstanding modeling work to support the COVID-19 pandemic response domestically and internationally.*
+**Director’s Group Merit Award**, Fogarty International Center, National Institutes of Health. *For outstanding modeling work to support the COVID-19 pandemic response domestically and internationally.*
 
 `2020`	
 **Young Scientist Award**, European Scientific Working group on Influenza (ESWI) Conference
 
 `2019`
-**Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health<br/>
-*For outstanding efforts to forecast weekly influenza-like illness activity in 27 U.S. military facilities in collaboration with DoD.*
+**Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health. *For outstanding efforts to forecast weekly influenza-like illness activity in 27 U.S. military facilities in collaboration with DoD.*
 
 ## Graduate
 `2017, 2018`	
@@ -182,7 +179,7 @@ Role: <ins>Staff Scientist</ins>. Led research aim linking human mobility to tra
 `2011`
 **Scholarship and Travel Award, Meaningful Modeling of Epidemiological Data (MMED) Clinic**, African Institute for Mathematical Sciences, Cape Town, South Africa
 
-**Scholarship and Travel Award, Ecology and Evolution of Infectious Diseases (EEID) Conference Workshop**
+**Scholarship and Travel Award, Ecology and Evolution of Infectious Diseases (EEID) Conference Workshop**<br/>
 `2010` Cornell University, Ithaca, NY<br/>
 `2011` University of California, Santa Barbara, Isla Vista, CA
 
@@ -211,14 +208,14 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 ## Conferences
 ### Organization
 `2025`
-Lead Co-organizer, **EpiMob Satellite (Epidemic control: from mobility data to public health), NetSci International Conference on Network Science**, Maastricht, the Netherlands. (upcoming, June 2025)
+**Lead Co-organizer**, [EpiMob Satellite (*Epidemic control: from mobility data to public health)*](https://epimob.weebly.com/), NetSci International Conference on Network Science, Maastricht, the Netherlands. (upcoming, June 2025)
 
 `2024`
-Co-organizer, **EpiMob Satellite (Epidemic control: from mobility data to public health), NetSci International Conference on Network Science**, Québec City, Canada.
+**Co-organizer**, [EpiMob Satellite (*Epidemic control: from mobility data to public health)*](https://epimob.weebly.com/), NetSci International Conference on Network Science, Québec City, Canada.
 
 ### Panels
 `2022`
-**Invited Panelist, *Reflections on COVID-19***, NIH Modeling of Infectious Disease Agent Study (MIDAS) Annual Meeting, Bethesda, MD.
+**Invited Panelist**, *Reflections on COVID-19*, NIH Modeling of Infectious Disease Agent Study (MIDAS) Annual Meeting, Bethesda, MD.
 
 ### Oral presentations
 `2025`

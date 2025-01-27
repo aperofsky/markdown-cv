@@ -57,7 +57,7 @@ Odum School of Ecology, University of Georgia<br/>
 Supervisor: Andrew Park
 
 ## Publications
-Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=8K-upW0AAAAJ&hl). † = shared first authorship.
+*Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=8K-upW0AAAAJ&hl).* † = shared first authorship.
 
 ### Published preprints
 <ul class="publications preprints">
@@ -67,7 +67,7 @@ Publication list also available in [Google Scholar](https://scholar.google.com/c
 
 <li>Hansen, C. L., Lee, L., Bents, S. J., <strong>Perofsky, A. C.</strong>, Sun, K., Starita, L. M., Adler, A., Englund, J. A., Chow, E. J., Chu, H. Y., & Viboud, C. (2024) <strong>Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025.</strong> <em>medRxiv</em> 2024.12.13.24319008. doi: <a href="https://doi.org/10.1101/2024.12.13.24319008">10.1101/2024.12.13.24319008</a>. (In review, <em>JAMA Network Open</em>)</li>
 
-<li>Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) <strong>Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington.</strong> <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. ([Complexity 72h](https://complexity72h.com/) report, in prep for submission)</li>
+<li>Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) <strong>Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington.</strong> <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report, in prep for submission)</li>
 </ul>
 
 ### Journal articles
@@ -149,7 +149,7 @@ Role: <ins>Staff Scientist</ins>. Led research aim linking human mobility to tra
 ## Honors and Awards
 ### Postgraduate
 `2023`
-**Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health. *For excellence in scientific research in epidemiological modeling with a focus on influenza antigenic evolution and the role of human mobility in COVID-19 disease dynamics.*
+**Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health. "For excellence in scientific research in epidemiological modeling with a focus on influenza antigenic evolution and the role of human mobility in COVID-19 disease dynamics."
 
 `2020, 2021`	
 **Director’s Group Merit Award**, Fogarty International Center, National Institutes of Health. "For outstanding modeling work to support the COVID-19 pandemic response domestically and internationally."
@@ -336,8 +336,8 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 
 `2012, 2016`
 **Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo**, Madagascar. Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
-Summer 2016: Safidy Rasolonjatovo: Verreaux's sifaka scent marking behavior<br/>
-Summer 2012: Elvis Rakotomalala: Lepilemur tree hole characteristics ([Publication](https://doi.org/10.1159/000464406))
++ Summer 2016: Safidy Rasolonjatovo: Verreaux's sifaka scent marking behavior<br/>
++ Summer 2012: Elvis Rakotomalala: Lepilemur tree hole characteristics ([published in _Folia Primatologica_](https://doi.org/10.1159/000464406))
 
 ### Short courses
 `Sep 2019`
@@ -371,7 +371,7 @@ Instructor: Lauren Ancel Meyers, Professor
 **Working group on the use of human mobility data in infectious disease modeling**, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD.
 
 `2022–2024`
-**Coordinated and led monthly [Seattle Flu Study](https://seattleflu.org/) Data Analysis meetings**, Brotman Baty Institute for Precision Medicine, University of Washington.
+Coordinated and led monthly [Seattle Flu Study](https://seattleflu.org/) Data Analysis meetings
 
 `2022, 2023, 2024`
 **Abstract reviewer**, NIH Modeling of Infectious Disease Agent Study (MIDAS) Annual Meetings

@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 
-/* [Reset CSS section - keeping it unchanged] */
+/* [Reset CSS section remains unchanged] */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -53,9 +53,11 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 12pt;
-	line-height: 1.35em;
-	font-family: Avenir, Verdana, sans-serif;
-	margin: 3em 3em;
+	line-height: 1.5em;
+	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
+	margin: 2em 3em;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 p {
@@ -69,8 +71,8 @@ p {
 code {
 	font: normal normal;
 	font-size: 90%;
-	font-family: Monaco, Menlo, monospace, sans-serif;
-	color: #ccc;
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	color: #aaa;
 }
 
 p code {
@@ -83,13 +85,13 @@ ul {
 	position: relative;
 	left: 20%;
 	width: 70%;
-	margin-bottom: 1em;
+	margin-bottom: 1.5em;
 }
 
 li {
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	margin-bottom: 1em;
+	margin-bottom: 0.7em;
 }
 
 li ul {
@@ -102,6 +104,7 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
+	width: 80%;
 }
 
 h1 {
@@ -119,35 +122,31 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.6em;
+	font-size: 1.1em;
 	color: #a00;
-	margin-top: 1.2em;     /* Reduced spacing */
-	margin-bottom: 0.7em;  /* Reduced spacing */
+	margin-top: 2em;
+	margin-bottom: 0.7em;
 	position: relative;
 	left: 20%;
 	width: 70%;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
 	border-bottom: 1px solid #a00;
 	padding-bottom: 0.2em;
-	font-weight: 300;
 }
 
 h3 {
-    font-size: 1.1em;      /* Increased size */
+    font-size: 1.1em;
     line-height: 1.5em;
-    color: #222;           /* Darkened color */
+    color: #444;
     position: relative;
-    top: 1.4em;            /* Reduced spacing */
+    top: 1.7em;
     text-align: right;
     width: 15%;
     padding-right: 2%;
-    font-family: "Gill Sans", Avenir, "Helvetica Neue", Calibri, sans-serif !important;
-    font-weight: 500 !important;
-    font-style: normal !important;
-    letter-spacing: 0.4px;
-    word-wrap: break-word;
-    hyphens: auto;
-    margin-bottom: 0.5em;
+    font-family: "Garamond", "Hoefler Text", "Times New Roman", serif !important;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0.3px;
 }
 
 a {
@@ -165,8 +164,8 @@ a:hover {
 	position: relative;
 	left: 20%;
 	color: #666;
-	font-family: "Gill Sans", Avenir, Calibri, sans-serif;
-	font-size: 90%;
+	font-family: "Garamond", "Times New Roman", serif;
+	font-size: 100%;
 }
 
 #webaddress a {
@@ -174,12 +173,11 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e;
+	font-style: italic !important;
 }
 
 strong {
-	font-weight: bold;
+	font-weight: bold !important;
 }
 
 #ghbutton {
@@ -191,22 +189,22 @@ strong {
 .publications {
     list-style-type: none;
     margin-bottom: 2em;
-    font-size: 0.9em;     /* Smaller font size */
-    line-height: 1.3em;   /* Tighter line height */
+    font-size: 0.95em;
+    line-height: 1.4em;
 }
 
 .publications li {
     padding-left: 2.5em;
     text-indent: -2.5em;
-    margin-bottom: 0.8em;  /* Reduced spacing */
+    margin-bottom: 1em;
 }
 
 .publications strong {
-    font-weight: bold;
+    font-weight: bold !important;
 }
 
 .publications em {
-    font-style: italic;
+    font-style: italic !important;
 }
 
 /* Preprints counter */
@@ -259,13 +257,23 @@ strong {
 
     h2 {
         color: #a00 !important;
-        border-bottom-color: #a00 !important;
     }
 
     h3 {
-        color: #222 !important;
-        font-family: "Gill Sans", Avenir, "Helvetica Neue", Calibri, sans-serif !important;
-        font-weight: 500 !important;
-        font-size: 1.1em !important;
+        color: #444 !important;
+        font-family: "Garamond", "Hoefler Text", "Times New Roman", serif !important;
+        font-weight: 400 !important;
+    }
+    
+    .publications {
+        font-size: 0.95em !important;
+    }
+    
+    strong {
+        font-weight: bold !important;
+    }
+    
+    em {
+        font-style: italic !important;
     }
 }

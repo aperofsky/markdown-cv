@@ -190,15 +190,31 @@ strong {
 /* Publications section styling */
 .publications {
     list-style-type: none;
-    margin-bottom: 2em;
+    margin-bottom: 1.5em;    /* Reduced from 2em */
     font-size: 0.95em;
-    line-height: 1.4em;
+    line-height: 1.3em;      /* Slightly reduced */
 }
 
 .publications li {
     padding-left: 2.5em;
     text-indent: -2.5em;
-    margin-bottom: 1em;
+    margin-bottom: 0.7em;    /* Reduced from 1em */
+}
+
+/* Print-specific rules */
+@media print {
+    .publications {
+        page-break-inside: auto;    /* Allow breaks within publication lists */
+    }
+    
+    .publications li {
+        page-break-inside: avoid;   /* Keep individual entries together */
+        margin-bottom: 0.6em;       /* Even tighter spacing in print */
+    }
+    
+    h2 + .publications {
+        margin-top: 1em;           /* Space after section headers */
+    }
 }
 
 /* Preprints counter */

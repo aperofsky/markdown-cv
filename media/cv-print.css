@@ -11,6 +11,7 @@ p {
     left: 10%; /* Reduced left margin */
     margin-bottom: 0.7em;
     width: 80%; /* Increased width for content */
+    font-size: 10pt; /* Slightly smaller font for subheading content */
 }
 
 code {
@@ -31,6 +32,7 @@ ul {
     left: 10%; /* Match paragraph alignment */
     width: 80%; /* Adjust width for consistency */
     margin-bottom: 1.5em;
+    font-size: 10pt; /* Slightly smaller font for lists */
 }
 
 li {
@@ -53,7 +55,7 @@ h1, h2, h3, h4 {
 
 h1 {
     text-align: left;
-    font-size: 2.5em;
+    font-size: 2em; /* Reduced size for the name */
     line-height: 1em;
     position: relative;
     left: 10%; /* Align with reduced margin */
@@ -65,7 +67,7 @@ h1 + p {
 }
 
 h2 {
-    font-size: 1.2em;
+    font-size: 1.2em; /* Original size for subheading titles */
     color: #bc412b;
     margin-top: 2em; /* Reduced spacing */
     position: relative;
@@ -78,8 +80,8 @@ h2 {
 }
 
 h3 {
-    font-size: 1.1em;
-    line-height: 1.5em;
+    font-size: 1.1em; /* Original size for subheading titles */
+    line-height: 1.4em;
     color: #444;
     position: relative;
     text-align: left; /* Align with content */
@@ -104,7 +106,7 @@ a:hover {
     left: 10%; /* Align with reduced margin */
     color: #bc412b;
     font-family: Monaco, Menlo, monospace, sans-serif;
-    font-size: 90%; /* Adjusted size for compact layout */
+    font-size: 80%; /* Smaller font size for compactness */
 }
 
 #webaddress a {
@@ -146,6 +148,7 @@ strong {
     padding-left: 2.5em; /* Space for numbers */
     margin-bottom: 0.5em; /* Add spacing between items */
     text-indent: 0; /* Prevent text from overlapping numbers */
+    font-size: 10pt; /* Smaller font size for publication entries */
 }
 
 .publications li:before {

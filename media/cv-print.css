@@ -3,7 +3,6 @@
    License: none (public domain)
 */
 
-/* [Reset CSS section remains unchanged] */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -175,7 +174,12 @@ em {
 }
 
 strong {
-	font-weight: bold !important;
+    font-weight: bold !important;
+}
+
+.publications strong {
+    font-weight: bold !important;
+    display: inline !important;
 }
 
 #ghbutton {
@@ -195,15 +199,6 @@ strong {
     padding-left: 2.5em;
     text-indent: -2.5em;
     margin-bottom: 1em;
-}
-
-.publications strong {
-    font-weight: bold !important;
-    display: inline !important;
-}
-
-.publications em {
-    font-style: italic !important;
 }
 
 /* Preprints counter */

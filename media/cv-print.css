@@ -3,7 +3,7 @@
 body {
     font: normal 400 11pt "Avenir", "Helvetica Neue", Arial, sans-serif;
     line-height: 1.5em;
-    margin: 1in 0.5in; /* Adjusted right margin for dates */
+    margin: 1in 0.5in; /* Adjusted margins */
 }
 
 p {
@@ -137,8 +137,8 @@ strong {
 .publications {
     list-style-type: none; /* Remove bullet points */
     counter-reset: publication-counter; /* Reset numbering */
-    margin-top: 0.5em; /* Reduce spacing above publications */
-    margin-bottom: 0em; /* Ensure no gap between sections */
+    margin-top: 0em; /* Remove top margin between sections */
+    margin-bottom: 0em; /* Ensure no gap below */
     padding-left: 0; /* Align list to the left edge */
     page-break-inside: avoid; /* Prevent splitting list across pages */
 }
@@ -161,6 +161,12 @@ strong {
     color: #666; /* Optional: Gray color for numbers */
 }
 
+/* Remove any gap between preprints and journal articles */
+.publications + .publications {
+    margin-top: 0em; /* Ensure no top margin between subsequent sections */
+    padding-top: 0em;
+}
+
 /* Prevent page breaks in publications */
 .publications {
     page-break-inside: avoid;
@@ -168,11 +174,6 @@ strong {
 
 .publications li {
     page-break-inside: avoid;
-}
-
-/* Ensure no gap between Preprints and Journal Articles */
-.publications + .publications {
-    margin-top: 0; /* Remove extra space between subsequent lists */
 }
 
 /* Print-specific rules */

@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 
-/* [Reset CSS remains unchanged] */
+/* [Reset CSS section - keeping it unchanged] */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -54,8 +54,8 @@ body {
 	font: normal normal 400;
 	font-size: 12pt;
 	line-height: 1.35em;
-	font-family: Avenir,Verdana,sans-serif;
-	margin: 3em 3em;  /* Added margin */
+	font-family: Avenir, Verdana, sans-serif;
+	margin: 3em 3em;
 }
 
 p {
@@ -69,7 +69,7 @@ p {
 code {
 	font: normal normal;
 	font-size: 90%;
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-family: Monaco, Menlo, monospace, sans-serif;
 	color: #ccc;
 }
 
@@ -83,14 +83,13 @@ ul {
 	position: relative;
 	left: 20%;
 	width: 70%;
-	margin-bottom: 2em;
+	margin-bottom: 1em;
 }
 
 li {
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	margin-bottom: 1.2em;  /* Added spacing between items */
-	line-height: 1.4em;
+	margin-bottom: 1em;
 }
 
 li ul {
@@ -122,8 +121,8 @@ h1+p {
 h2 {
 	font-size: 1.6em;
 	color: #a00;
-	margin-top: 2em;
-	margin-bottom: 1em;
+	margin-top: 1.2em;     /* Reduced spacing */
+	margin-bottom: 0.7em;  /* Reduced spacing */
 	position: relative;
 	left: 20%;
 	width: 70%;
@@ -134,16 +133,16 @@ h2 {
 }
 
 h3 {
-    font-size: 0.95em;
+    font-size: 1.1em;      /* Increased size */
     line-height: 1.5em;
-    color: #444;
+    color: #222;           /* Darkened color */
     position: relative;
-    top: 1.6em;
+    top: 1.4em;            /* Reduced spacing */
     text-align: right;
     width: 15%;
     padding-right: 2%;
     font-family: "Gill Sans", Avenir, "Helvetica Neue", Calibri, sans-serif !important;
-    font-weight: 400 !important;
+    font-weight: 500 !important;
     font-style: normal !important;
     letter-spacing: 0.4px;
     word-wrap: break-word;
@@ -192,13 +191,22 @@ strong {
 .publications {
     list-style-type: none;
     margin-bottom: 2em;
+    font-size: 0.9em;     /* Smaller font size */
+    line-height: 1.3em;   /* Tighter line height */
 }
 
 .publications li {
     padding-left: 2.5em;
     text-indent: -2.5em;
-    margin-bottom: 1em;
-    line-height: 1.4em;
+    margin-bottom: 0.8em;  /* Reduced spacing */
+}
+
+.publications strong {
+    font-weight: bold;
+}
+
+.publications em {
+    font-style: italic;
 }
 
 /* Preprints counter */
@@ -235,16 +243,6 @@ strong {
     text-align: right;
 }
 
-/* Links within publications */
-.publications a {
-    color: inherit;
-    text-decoration: none;
-}
-
-.publications a:hover {
-    color: #39f;
-}
-
 /* Print-specific rules */
 @media print {
     body {
@@ -265,8 +263,9 @@ strong {
     }
 
     h3 {
-        color: #444 !important;
+        color: #222 !important;
         font-family: "Gill Sans", Avenir, "Helvetica Neue", Calibri, sans-serif !important;
-        font-weight: 400 !important;
+        font-weight: 500 !important;
+        font-size: 1.1em !important;
     }
 }

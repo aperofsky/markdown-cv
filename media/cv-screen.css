@@ -196,30 +196,60 @@ li strong {
     list-style-type: none;
     margin-bottom: 1.5em;
     font-size: 0.95em;
-    line-height: 1.3em;
+    line-height: 1.5em; /* Ensure enough spacing */
 }
 
 .publications.preprints,
 .publications.articles {
-    counter-reset: preprint-counter article-counter;
+    counter-reset: preprint-counter article-counter; /* Separate counters */
 }
 
-.publications.preprints li,
+/* Preprints List Items */
+.publications.preprints li {
+    counter-increment: preprint-counter; /* Increment counter */
+    margin-left: 3em; /* Space from the left edge */
+    position: relative; /* Allow absolute positioning for :before */
+    padding-left: 3em; /* Match :before width for proper alignment */
+    text-indent: 0; /* Reset indentation to avoid overlaps */
+    line-height: 1.5em; /* Ensure readability */
+}
+
+.publications.preprints li:before {
+    content: counter(preprint-counter) ". "; /* Add numbering */
+    position: absolute; /* Position relative to parent li */
+    left: 0; /* Align to the edge */
+    top: 0; /* Align to the top of the text */
+    width: 2.5em; /* Adjust to prevent overlap */
+    text-align: right; /* Align numbers right */
+    color: #444; /* Number color (optional) */
+}
+
+/* Articles List Items */
 .publications.articles li {
-    counter-increment: preprint-counter article-counter;
+    counter-increment: article-counter; /* Increment counter */
+    margin-left: 3em;
     position: relative;
     padding-left: 3em;
-    text-indent: -3em;
-    margin-bottom: 0.7em;
+    text-indent: 0;
+    line-height: 1.5em;
 }
 
-.publications.preprints li:before,
 .publications.articles li:before {
-    content: counter(preprint-counter, decimal) ". ";
+    content: counter(article-counter) ". ";
     position: absolute;
     left: 0;
     top: 0;
-    width: 3em;
+    width: 2.5em;
     text-align: right;
-    margin-right: 0.5em;
+    color: #444;
+}
+
+/* Prevent margin issues for nested elements */
+.publications li > * {
+    margin-left: 0; /* Remove extra margin for child elements */
+}
+
+.publications li strong,
+.publications li em {
+    margin-left: 0; /* Align strong/em text */
 }

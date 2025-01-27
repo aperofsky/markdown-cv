@@ -54,15 +54,15 @@ body {
 	font-size: 12pt;
 	line-height: 1.5em;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-	margin: 0.5in 0.5in; /* Reduced left and right margins */
+	margin: 1in 0.75in; /* Slightly increased left margin */
 }
 
 p {
 	position: relative;
-	left: 15%; /* Reduced left margin */
+	left: 15%; /* Reduced left alignment */
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 80%; /* Increased width for better alignment */
+	width: 75%; /* Adjust width for proper alignment */
 }
 
 code {
@@ -147,33 +147,33 @@ h3 {
 }
 
 a {
-	color: #0066cc; /* Changed to blue for better visibility */
+	color: #a00; /* Match section heading red color */
 	text-decoration: none;
 }
 
 a:hover {
-	color: #39f;
+	color: #a00; /* Keep red color on hover */
 	text-decoration: underline;
 }
 
 #webaddress {
-    margin-top: 1em;
-    margin-bottom: 1em;
-    position: relative;
-    left: 15%; /* Align with reduced margin */
-    color: #a00; /* Match the section heading color */
-    font-family: Monaco, Menlo, monospace, sans-serif;
-    font-size: 90%;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	position: relative;
+	left: 15%; /* Align with reduced margin */
+	color: #a00; /* Match the section heading color */
+	font-family: Monaco, Menlo, monospace, sans-serif;
+	font-size: 80%; /* Reduced font size to fit in one line */
+	line-height: 1.2; /* Slightly tighter spacing */
 }
 
 #webaddress a {
-    color: #a00; /* Match section heading red color */
-    text-decoration: none;
+	text-decoration: none;
+	color: #a00; /* Match section heading color */
 }
 
 #webaddress a:hover {
-    color: #a00; /* Keep red color on hover */
-    text-decoration: underline;
+	text-decoration: underline;
 }
 
 em {
@@ -271,7 +271,7 @@ strong {
 /* Print-specific rules */
 @media print {
     body {
-        margin: 0.5in 0.5in; /* Reduced left and right margins */
+        margin: 1in 0.75in; /* Increased left margin */
     }
     
     h2, h3 {

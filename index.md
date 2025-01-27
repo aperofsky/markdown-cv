@@ -22,39 +22,39 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 *Summa cum laude* with Highest Honors, Phi Beta Kappa
 
 ## Research Experience
-`Apr 2021-present`
+`Apr 2021–present`
 **Guest Researcher**<br/>
 Fogarty International Center, U.S. National Institutes of Health (Remote)<br/>
 Division of International Epidemiology and Population Studies<br/>
 Supervisor: Cécile Viboud, Senior Staff Scientist
 
-`Apr 2021-Jan 2025`
+`Apr 2021–Jan 2025`
 **Epidemiological Data Scientist (Research Scientist/Engineer 3), Seattle Flu Study** <br/>
 Brotman Baty Institute for Precision Medicine, University of Washington, Seattle, WA<br/>
 Project: *The effects of population mobility, COVID-19 restrictions, and masking behavior on respiratory pathogen transmission in Seattle, Washington*<br/>
 Supervisors: Cécile Viboud, Senior Staff Scientist (NIH) and Robin Prentice, Director of Program Operations (BBI, UW)
 
-`Sep 2018-Apr 2021`
+`Sep 2018–Apr 2021`
 **Postdoctoral Research Fellow**<br/>
 Fogarty International Center, U.S. National Institutes of Health, Bethesda, MD<br/>
 Division of International Epidemiology and Population Studies<br/>
 Projects: *Respiratory virus epidemiology, ecology, and transmission patterns in human and animal populations*<br/>
 Advisor: Cécile Viboud, Senior Staff Scientist
 
-`Aug 2011-Aug 2018`
+`Aug 2011–Aug 2018`
 **Doctoral Research**<br/>
 Department of Integrative Biology, University of Texas at Austin, Austin, TX<br/>
 Dissertation: *Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals*<br/>
 Advisor: Lauren Ancel Meyers, Professor
 
-`Jan 2010-Aug 2011`
+`Jan 2010–Aug 2011`
 **Postbaccalaureate IRTA Fellow**<br/>
 National Institute of Dental and Craniofacial Research, U.S. National Institutes of Health, Bethesda, MD<br/>
 Adeno-Associated Virus Biology Section<br/>
 Project: *Viral profiles unique to Sjögren’s Syndrome patients*<br/>
 Supervisor: John Chiorini, Senior Investigator
 
-`Aug 2009-Dec 2009`
+`Aug 2009–Dec 2009`
 **Research Assistant**<br/>
 Odum School of Ecology, University of Georgia, Athens, GA<br/>
 Project: *Environmental drivers of epizootic hemorrhagic disease virus (EHDV) outbreaks in white-tailed deer*<br/>
@@ -139,14 +139,15 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 `2008`
 **NSF Research Experiences for Undergraduates (REU) Internship**, NSF Coweeta Long Term Ecological Research Program, Otto, NC. $3600
 
-### Contributions to Other Grants (non PI-status)
+### Contributions to Other Grants <sup>*</sup>Non PI-status<br/>
+
 `2022-2024`
 **BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program. *Collaborative technology development, and analyses to support genetic epidemiology in Washington State*, $2M<br/>
-+ Role: <ins>Epidemiology Lead</ins>. Created public real-time dashboard of [SARS-CoV-2 variant forecasts](https://seattleflu.org/sars-cov-2-forecasts) for Washington and other U.S. states, with input from the [*Nextstrain*](https://nextstrain.org/) and Washington Department of Health. Led research aim linking demographic and behavioral data to SARS-CoV-2 and endemic virus transmission. Contributed to quarterly reports and presented to CDC program officers.
+Role: <ins>Epidemiology Lead</ins>. Created public real-time dashboard of [SARS-CoV-2 variant forecasts](https://seattleflu.org/sars-cov-2-forecasts) for Washington and other U.S. states, with input from the [*Nextstrain*](https://nextstrain.org/) and Washington Department of Health. Led research aim linking demographic and behavioral data to SARS-CoV-2 and endemic virus transmission. Contributed to quarterly reports and presented to CDC program officers.
 
 `2021-2022`
 **Seattle Flu Study and Seattle Coronavirus Assessment Network**, Gates Ventures. $11.6M (Y3-Y4)<br/> 
-+ Role: <ins>Staff Scientist</ins>. Led research aim linking human mobility to transmission dynamics of 17 endemic respiratory viruses and SARS-CoV-2, contrasting patterns observed in pre- and post-COVID-19 pandemic years. Contributed to grant proposals and quarterly and annual reports and presented to funders at monthly meetings. Awarded 3-month funding extension to model the post-pandemic reemergence of RSV in Seattle.
+Role: <ins>Staff Scientist</ins>. Led research aim linking human mobility to transmission dynamics of 17 endemic respiratory viruses and SARS-CoV-2, contrasting patterns observed in pre- and post-COVID-19 pandemic years. Contributed to grant proposals and quarterly and annual reports and presented to funders at monthly meetings. Awarded 3-month funding extension to model the post-pandemic reemergence of RSV in Seattle.
 
 ## Honors and Awards
 ### Postgraduate
@@ -181,9 +182,9 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 `2011`
 **Scholarship and Travel Award, Meaningful Modeling of Epidemiological Data (MMED) Clinic**, African Institute for Mathematical Sciences, Cape Town, South Africa
 
-**Scholarship and Travel Award, Ecology and Evolution of Infectious Diseases (EEID) Conference Workshop**.<br/>
-+ `2010` Cornell University, Ithaca, NY
-+ `2011` University of California, Santa Barbara, Isla Vista, CA
+**Scholarship and Travel Award, Ecology and Evolution of Infectious Diseases (EEID) Conference Workshop**
+`2010` Cornell University, Ithaca, NY<br/>
+`2011` University of California, Santa Barbara, Isla Vista, CA
 
 ## Undergraduate
 `2009`	
@@ -192,11 +193,11 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 `2007` 	
 **Honors International Scholarship**, University of Georgia Honors Program
 
-`2005-2009`
+`2005–2009`
 **Georgia Governor's Scholarship**<br/>
 Awarded to high school valedictorians attending in-state universities. Annual $900 stipend.
 
-`2005-2009`	
+`2005–2009`	
 **Charter Scholarship**, University of Georgia Honors Program<br/>
 Awarded to 200 new students for outstanding achievement in academics. Annual $2000 stipend.
 
@@ -341,10 +342,8 @@ Co-organizer, **EpiMob Satellite (Epidemic control: from mobility data to public
 **Tutor, [Complexity 72h](https://complexity72h.com/): *Interdisciplinary workshop for young researchers in complex systems***, Carlos III University de Madrid, Spain. Led a team of 5 graduate students in carrying out a research project within 3 days (i.e., 72h). Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses.” [*medRxiv* preprint](https://doi.org/10.1101/2024.09.13.24313667)
 
 **Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo**, Madagascar. Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
-+ `Summer 2016`
-Safidy Rasolonjatovo: Verreaux's sifaka scent marking behavior<br/>
-+ `Summer 2012`
-Elvis Rakotomalala: Lepilemur tree hole characteristics ([Publication](https://doi.org/10.1159/000464406))
+`Summer 2016`: Safidy Rasolonjatovo: Verreaux's sifaka scent marking behavior<br/>
+`Summer 2012`: Elvis Rakotomalala: Lepilemur tree hole characteristics ([Publication](https://doi.org/10.1159/000464406))
 
 ### Short courses
 `Sep 2019`
@@ -370,14 +369,14 @@ Instructor: Lauren Ancel Meyers, Professor
 **Introduction to Networks**, Introduction to Biological Statistics Course, Center for Computational Biology and Bioinformatics, University of Texas at Austin.
 
 ### Professional training
-`2020`
+`Spring 2020`
 **Scientists Teaching Science**, U.S. National Institutes of Health. Completed 9-week pedagogy course on best practices for teaching and learning in STEM subjects at the undergraduate level.
 
 ## Professional activities
 `Feb 2023`
 **Working group on the use of human mobility data in infectious disease modeling**, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD.
 
-`Nov 2022 – Aug 2024`
+`2022–2024`
 **Coordinated and led monthly [Seattle Flu Study](https://seattleflu.org/) Data Analysis meetings**, Brotman Baty Institute for Precision Medicine, University of Washington.
 
 `2022, 2023, 2024`
@@ -386,7 +385,7 @@ Instructor: Lauren Ancel Meyers, Professor
 `Feb 2020`
 **Poster Judge**, NIH Annual Graduate Student Research Symposium, Bethesda, MD.
 
-`Oct 2019 – Jul 2021`
+`2019–2021`
 **Policy essay editor**, [*Science Policy for All*](https://www.linkedin.com/in/scipolicyforall/recent-activity/all/?trk=article-ssr-frontend-pulse_more-articles). Policy blog with contributors from the Washington, DC area.
 
 `Feb 2017`
@@ -404,13 +403,13 @@ Instructor: Lauren Ancel Meyers, Professor
 `May 2020`
 ***Science Policy for All* blogpost**, [*The Use of COVID-19 Prediction Models in Guiding Policy Decisions.*](https://sciencepolicyforall.wordpress.com/2020/05/22/the-use-of-covid-19-prediction-models-in-guiding-policy-decisions/)
 
-`Oct 2019 – Jul 2021`
+`2019–2021`
 **Member, U.S. National Institutes of Health Science Policy Discussion Group**. Biweekly seminar series for early-career scientists focused on the intersection of scientific research and legislative policy. Delivered science policy presentations, invited two guest speakers, and wrote and edited articles for the [*Science Policy for All*](https://www.linkedin.com/in/scipolicyforall/) blog.
 
 `Feb 2018`
 **Selected speaker, American Association for the Advancement of Science (AAAS) Classroom Science Days**,  Austin, TX. Outreach lecture *Meet the Lemurs* to middle school students. [AAAS coverage](https://www.aaas.org/news/aaas-connects-scientists-and-students-classroom-science-days)
 
-`2016-2017`
+`2016–2017`
 **Member, Austin Science Advocates**, University of Texas at Austin. Student group aimed at improving communication between scientists, the public, and policymakers.
 
 `Nov 2016`
@@ -419,20 +418,20 @@ Instructor: Lauren Ancel Meyers, Professor
 `Mar 2016`
 **NSF BEACON “Researchers at Work” essay**, [*How lemur social networks shape microbial transmission.*](https://www3.beacon-center.org/blog/2016/03/14/how-lemur-social-networks-shape-microbial-transmission/)
 
-`Jan 2011 – May 2018`
+`2011–2018`
 **Radio DJ and Science Talk Show Co-host, [They Blinded Me with Science](https://www.facebook.com/tbmwskvrx)** on [KVRX 91.7FM](https://kvrx.org/app/), University of Texas at Austin. Co-hosted weekly educational talk show that interviewed UT-based and visiting researchers and reviewed science publications and news. Recruited guests, conducted interviews, and produced podcasts.
 
-`Jan 2011 – May 2017`
+`2011–2017`
 **Co-organizer and Volunteer, [Science Under the Stars](https://scienceunderthestars.org/)**, Brackenridge Field Laboratory, Austin, TX. Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.
 
 ## Memberships
-`2024-present`
+`2024–present`
 Women in Network Science
 
-`2023-present`
+`2023–present`
 The Network Science Society (NetSci)
 
-`2020-present`
+`2020–present`
 NIH Modeling of Infectious Disease Agent Study (MIDAS)
 
 <br/>Last updated: January 2025<br/><br/>

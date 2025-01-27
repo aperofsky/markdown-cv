@@ -198,15 +198,9 @@ li strong {
 /* Publications section styling */
 .publications {
     list-style-type: none;
-    margin-bottom: 1.5em;      /* Reduced from 2em */
+    margin-bottom: 1.5em;
     font-size: 0.95em;
-    line-height: 1.3em;       /* Slightly reduced */
-}
-
-.publications li {
-    padding-left: 2.5em;
-    text-indent: -2.5em;
-    margin-bottom: 0.7em;     /* Reduced from 1em */
+    line-height: 1.3em;
 }
 
 .publications.preprints,
@@ -220,13 +214,15 @@ li strong {
     position: relative;
     padding-left: 2.5em;
     text-indent: -2.5em;
+    margin-bottom: 0.7em;
 }
 
-.publications.preprints li:before {
+.publications.preprints li:before,
+.publications.articles li:before {
     content: counter(preprint-counter, decimal) ". ";
     position: absolute;
     left: 0;
-    display: inline-block;
+    top: 0;
     width: 2em;
     text-align: right;
     margin-right: 0.5em;
@@ -234,10 +230,13 @@ li strong {
 
 .publications.articles li:before {
     content: counter(article-counter, decimal) ". ";
-    position: absolute;
-    left: 0;
-    display: inline-block;
-    width: 2em;
-    text-align: right;
-    margin-right: 0.5em;
+}
+
+.publications li > * {
+    margin-left: 2.5em;
+}
+
+.publications li strong,
+.publications li em {
+    margin-left: 0;
 }

@@ -207,55 +207,35 @@ strong {
     counter-reset: preprint-counter article-counter;
 }
 
-/* Preprints Section */
-.publications.preprints li {
-    padding-left: 3em; /* Increased padding for text alignment */
-    text-indent: -3em; /* Matches the padding for proper indentation */
-    margin-bottom: 0.7em; /* Maintain consistent spacing between items */
-    line-height: 1.4; /* Improved readability */
-}
-
-.publications.preprints li:before {
-    content: counter(preprint-counter, decimal) ". "; /* Sequential numbering */
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 2.5em; /* Increased width to prevent overlap */
-    text-align: right; /* Align numbers properly */
-    margin-right: 0.5em; /* Space between number and text */
-    color: #444; /* Number styling (optional) */
-}
-
-/* Journal Articles Section */
+.publications.preprints li,
 .publications.articles li {
-    padding-left: 3em; /* Same as preprints for uniformity */
-    text-indent: -3em;
+    counter-increment: preprint-counter article-counter;
+    position: relative;
+    padding-left: 3em; /* Adjust for proper spacing */
+    text-indent: -3em; /* Match padding for text alignment */
     margin-bottom: 0.7em;
-    line-height: 1.4;
+    line-height: 1.5; /* Improved readability */
 }
 
+.publications.preprints li:before,
 .publications.articles li:before {
-    content: counter(article-counter, decimal) ". "; /* Separate numbering for articles */
+    content: counter(preprint-counter, decimal) ". "; /* Adjusted for proper numbering */
     position: absolute;
     left: 0;
     top: 0;
-    width: 2.5em;
-    text-align: right;
+    width: 3em; /* Expand for wider numbers */
+    text-align: right; /* Align numbers properly */
     margin-right: 0.5em;
-    color: #444;
-}
-
-.publications.articles li:before {
-    content: counter(article-counter, decimal) ". ";
+    color: #444; /* Optional: Adjust number color */
 }
 
 .publications li > * {
-    margin-left: 2.5em;
+    margin-left: 3em; /* Ensure alignment for child elements */
 }
 
 .publications li strong,
 .publications li em {
-    margin-left: 0;
+    margin-left: 0; /* Align strong/em text with the rest */
 }
 
 /* Print-specific rules */

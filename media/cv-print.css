@@ -125,7 +125,7 @@ strong {
     font-weight: bold !important;
 }
 
-/* Dates (fixed right-alignment) */
+/* Dates (Right-aligned like in cv-screen.css) */
 .dates {
     position: absolute;
     right: 0;
@@ -138,21 +138,47 @@ strong {
 
 /* Publications */
 .publications {
-    counter-reset: publication-counter;
+    list-style-type: none; /* Remove bullet points */
+    counter-reset: publication-counter; /* Reset numbering */
+    margin-top: 1em;
+    margin-bottom: 2em;
+    padding-left: 0; /* Align list to the left edge */
 }
 
 .publications li {
-    counter-increment: publication-counter;
+    counter-increment: publication-counter; /* Increment counter for each item */
     position: relative;
-    padding-left: 2em;
-    text-indent: -2em;
+    padding-left: 2.5em; /* Space for numbers */
+    margin-bottom: 0.5em; /* Add spacing between items */
+    text-indent: 0; /* Prevent text from overlapping numbers */
 }
 
 .publications li:before {
-    content: counter(publication-counter) ". ";
+    content: counter(publication-counter) ". "; /* Display numbering */
     position: absolute;
-    left: 0;
-    width: 1.5em;
-    text-align: right;
-    color: #666;
+    left: 0; /* Align numbers to the left edge of the container */
+    width: 2em; /* Allocate space for numbers */
+    text-align: right; /* Align numbers to the right within their space */
+    color: #666; /* Optional: Gray color for numbers */
+}
+
+/* Ensure proper alignment of nested elements */
+.publications li > * {
+    margin-left: 0; /* Prevent child elements from being indented */
+}
+
+/* Print-specific rules */
+@media print {
+    body {
+        margin: 1in 0.75in; /* Restored margins */
+    }
+    h2, h3 {
+        page-break-after: avoid;
+    }
+    p, ul, li {
+        page-break-inside: avoid;
+    }
+    .dates {
+        font-size: 10pt; /* Readable date font for print */
+    }
 }

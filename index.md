@@ -140,7 +140,7 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 `2008`
 **NSF Research Experiences for Undergraduates (REU) Award**, NSF Coweeta Long Term Ecological Research Program, Otto, NC. $3600
 
-## Contributions to other grants (<sup>*</sup>non PI-status)
+## Contributions to other grants (non PI-status)
 `2022-2024`
 **BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program, $2M<br/>
 "Collaborative technology development, and analyses to support genetic epidemiology in Washington State"<br/>
@@ -148,7 +148,7 @@ PIs: Lea Starita (UW) and Trevor Bedford (Fred Hutch)<br/>
 Role: <ins>Epidemiology Lead</ins>. Created public real-time dashboard of [SARS-CoV-2 variant forecasts](https://seattleflu.org/sars-cov-2-forecasts). Led research aim linking demographic and behavioral data to SARS-CoV-2 and endemic virus transmission. Contributed to quarterly reports and presented to CDC program officers.
 
 `2021-2022`
-**Seattle Flu Study and Seattle Coronavirus Assessment Network**, Gates Ventures, $11.6M (Y3-Y4)<br/>
+**Seattle Flu Study and Seattle Coronavirus Assessment Network**, Gates Ventures, $11.6M<br/>
 PIs: Trevor Bedford, Michael Boeckh, Helen Chu, Janet Englund, Tina Lockwood, Barry Lutz, Jay Shendure, Lea Starita, Cécile Viboud, Alpana Waghmare<br/>
 Role: <ins>Staff Scientist</ins>. Led research aim linking human mobility to transmission dynamics of endemic respiratory viruses and SARS-CoV-2. Contributed to grant proposals and quarterly and annual reports and presented to funders at monthly meetings. Awarded 3-month funding extension to model the post-pandemic reemergence of RSV in Seattle.
 
@@ -338,14 +338,12 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 ## Teaching and mentoring experience
 ### Student mentoring
 `Jun 2024`
-**Tutor, [Complexity 72h](https://complexity72h.com/): *Interdisciplinary workshop for young researchers in complex systems***, Carlos III University de Madrid, Spain.</br>
-Led a team of 5 graduate students in carrying out a research project within 3 days (i.e., 72h). Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses.” [*medRxiv* preprint](https://doi.org/10.1101/2024.09.13.24313667)
+**Tutor, [Complexity 72h](https://complexity72h.com/): *Interdisciplinary workshop for young researchers in complex systems***, Carlos III University de Madrid, Spain. Led a team of 5 graduate students in carrying out a research project within 3 days (i.e., 72h). Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses.” [*medRxiv* preprint](https://doi.org/10.1101/2024.09.13.24313667)
 
 `2012, 2016`
-**Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo, Madagascar**</br>
-Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
-+ Summer 2016: Safidy Rasolonjatovo: Verreaux's sifaka scent marking behavior<br/>
-+ Summer 2012: Elvis Rakotomalala: Lepilemur tree hole characteristics (published in [_Folia Primatologica_](https://doi.org/10.1159/000464406))
+**Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo, Madagascar**. Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
++ Summer 2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior
++ Summer 2012: Elvis Rakotomalala, Lepilemur tree hole characteristics (published in [_Folia Primatologica_](https://doi.org/10.1159/000464406))
 
 ### Short courses
 `Sep 2019`

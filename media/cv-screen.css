@@ -191,15 +191,15 @@ li strong {
 /* Publications section styling */
 .publications {
     list-style-type: none;
-    margin-bottom: 2em;
+    margin-bottom: 1.5em;      /* Reduced from 2em */
     font-size: 0.95em;
-    line-height: 1.4em;
+    line-height: 1.3em;       /* Slightly reduced */
 }
 
 .publications li {
     padding-left: 2.5em;
     text-indent: -2.5em;
-    margin-bottom: 1em;
+    margin-bottom: 0.7em;     /* Reduced from 1em */
 }
 
 /* Preprints counter */

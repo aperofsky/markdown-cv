@@ -87,8 +87,10 @@ h3 {
     position: relative;
     text-align: left;
     left: 5%;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    margin-top: 0 !important; /* Remove top margin */
+    margin-bottom: 0 !important; /* Remove bottom margin */
+    padding: 0 !important; /* Remove padding */
+    page-break-after: avoid; /* Prevent page breaks */
 }
 
 a {
@@ -137,9 +139,9 @@ strong {
 .publications {
     list-style-type: none;
     counter-reset: publication-counter;
-    margin: 0 !important;
-    padding: 0 !important;
-    page-break-inside: avoid !important;
+    margin: 0 !important; /* Remove all margins */
+    padding: 0 !important; /* Remove all padding */
+    page-break-inside: avoid !important; /* Prevent breaking within the list */
 }
 
 .publications li {
@@ -160,12 +162,28 @@ strong {
     color: #666;
 }
 
-.publications + .publications {
+/* Remove any gap between preprints and journal articles */
+.publications.preprints,
+.publications.articles {
     margin: 0 !important;
     padding: 0 !important;
+    page-break-before: auto !important; /* Avoid breaking before */
 }
 
-h2 + .publications {
+/* Ensure no gap between sections */
+h3 + .publications {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+.publications + h3 {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    page-break-before: avoid !important; /* Prevent breaking before a heading */
+}
+
+/* Force continuity between lists */
+.publications + .publications {
     margin: 0 !important;
     padding: 0 !important;
     page-break-before: auto !important;
@@ -176,6 +194,7 @@ h2 + .publications {
     page-break-inside: avoid !important;
 }
 
+/* Print-Specific Rules */
 @media print {
     body {
         margin: 1in 0.5in;
@@ -183,9 +202,24 @@ h2 + .publications {
     h2, h3 {
         page-break-after: avoid !important;
     }
-    .publications, .publications li {
+    .publications,
+    .publications.preprints,
+    .publications.articles {
+        margin: 0 !important;
+        padding: 0 !important;
         page-break-inside: avoid !important;
     }
+
+    h3 + .publications {
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+    }
+
+    .publications + h3 {
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+    }
+
     .publications + .publications {
         margin: 0 !important;
         padding: 0 !important;

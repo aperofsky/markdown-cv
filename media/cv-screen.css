@@ -170,7 +170,18 @@ em {
 }
 
 strong {
-	font-weight: bold !important;
+    font-weight: bold !important;
+}
+
+.publications strong {
+    font-weight: bold !important;
+    display: inline !important;
+}
+
+/* Additional rule to ensure bold text in lists */
+li strong {
+    font-weight: bold !important;
+    display: inline !important;
 }
 
 #address {
@@ -189,15 +200,6 @@ strong {
     padding-left: 2.5em;
     text-indent: -2.5em;
     margin-bottom: 1em;
-}
-
-.publications strong {
-    font-weight: bold !important;
-    display: inline !important;
-}
-
-.publications em {
-    font-style: italic !important;
 }
 
 /* Preprints counter */

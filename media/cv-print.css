@@ -1,117 +1,158 @@
-/* General layout */
+/* Print stylesheet for markdown-cv */
+
 body {
-    font: normal 400 11pt "Avenir", "Helvetica Neue", Arial, sans-serif;
+    font: normal normal 400;
+    font-size: 11pt;
     line-height: 1.5em;
-    margin: 1in 0.75in; /* Balanced margins */
+    font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
+    margin-top: 1em;
+    margin-left: 1em;
 }
 
-/* Headings */
+p {
+    position: relative;
+    left: 25%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 55%;
+}
+
+code {
+    font: normal normal;
+    font-size: 90%;
+    font-family: Monaco, Menlo, monospace, sans-serif;
+    color: #aaa;
+}
+
+p code {
+    position: absolute;
+    text-align: right;
+    right: -20%;
+}
+
+ul {
+    position: relative;
+    left: 25%;
+    width: 75%;
+    margin-bottom: 1.5em;
+    margin-top: -0.5em;
+}
+
+li {
+    padding-left: 1.25em;
+    text-indent: -1.25em;
+}
+
+li ul {
+    position: relative;
+    left: 0;
+    width: 100%;
+    margin-top: 0.25em;
+}
+
+h1, h2, h3, h4 {
+    font-weight: 400;
+    font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
+    width: 80%;
+}
+
 h1 {
-    font-size: 2.5em;
-    margin-bottom: 0.5em;
+    text-align: left;
+    font-size: 3em;
+    line-height: 1em;
+    position: relative;
+    left: 25%;
+}
+
+h1 + p {
+    font-style: italic;
+    font-size: 110%;
 }
 
 h2 {
-    font-size: 1.2em;
-    color: #a00;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-    border-bottom: 1px solid #a00;
-    padding-bottom: 0.1em;
-    page-break-after: avoid;
+    font-size: 1.1em;
+    color: #bc412b;
+    margin-top: 3em;
+    position: relative;
+    top: 1.4em;
+    text-align: right;
+    width: 20%;
 }
 
 h3 {
     font-size: 1.1em;
-    color: #444;
-    margin-top: 1em;
-    margin-bottom: 0.5em;
-    line-height: 1.3em;
-}
-
-/* Paragraphs and lists */
-p {
-    margin-bottom: 0.5em;
-}
-
-ul, li {
-    margin-bottom: 0.5em;
-    padding-left: 1.5em; /* Adjusted for proper indentation */
-}
-
-/* Dates (Right-aligned like in cv-screen.css) */
-.dates {
-    position: absolute; /* Position the dates absolutely */
-    right: 0; /* Align dates to the right */
-    top: 0; /* Align with the top of the text */
-    text-align: right; /* Align text inside dates block to the right */
-    width: 20%; /* Allocate a consistent width for dates */
-    font-size: 10pt; /* Slightly smaller font for dates */
-    color: #666; /* Neutral gray color */
     line-height: 1.5em;
+    color: #444;
+    position: relative;
+    top: 1.7em;
+    text-align: right;
+    width: 20%;
+    font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0.3px;
+    padding-right: 2%;
 }
 
-/* Content adjacent to dates */
-.content {
-    position: relative; /* Ensures content and dates align */
-    margin-right: 22%; /* Prevent overlap with dates */
-    padding-left: 1em; /* Space for content indentation */
+a {
+    color: #bc412b;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #39f;
+    text-decoration: underline;
+}
+
+#webaddress {
+    margin-top: 1em;
+    position: relative;
+    left: 25%;
+    color: #bc412b;
+    font-family: Monaco, Menlo, monospace, sans-serif;
+    font-size: 100%;
+}
+
+#webaddress a {
+    text-decoration: none;
+}
+
+em {
+    font-style: italic !important;
+}
+
+strong {
+    font-weight: bold !important;
+}
+
+/* Dates (fixed right-alignment) */
+.dates {
+    position: absolute;
+    right: 0;
+    text-align: right;
+    width: 20%; /* Consistent date block width */
+    font-size: 10pt;
+    line-height: 1.5em;
+    color: #666;
 }
 
 /* Publications */
 .publications {
-    list-style-type: none;
-    counter-reset: publication-counter; /* Reset the counter for publications */
-    margin-top: 1em;
-    margin-bottom: 2em;
-    padding-left: 2em;
+    counter-reset: publication-counter;
 }
 
 .publications li {
+    counter-increment: publication-counter;
     position: relative;
-    padding-left: 2.5em; /* Space for numbering */
-    margin-bottom: 0.5em;
-    counter-increment: publication-counter; /* Increment the counter */
+    padding-left: 2em;
+    text-indent: -2em;
 }
 
 .publications li:before {
-    content: counter(publication-counter) ". "; /* Display the counter value */
+    content: counter(publication-counter) ". ";
     position: absolute;
     left: 0;
-    width: 2em; /* Space for the number */
+    width: 1.5em;
     text-align: right;
-    color: #444;
-}
-
-/* Web address */
-#webaddress {
-    font-family: Monaco, Menlo, monospace;
-    font-size: 9pt; /* Reduced font size for websites */
-    color: #a00;
-    margin-bottom: 1em;
-}
-
-#webaddress a {
-    color: #a00;
-    text-decoration: none;
-}
-
-#webaddress a:hover {
-    text-decoration: underline;
-}
-
-/* Print-specific rules */
-@media print {
-    body {
-        margin: 1in 0.75in; /* Restored margins */
-    }
-    h2, h3 {
-        page-break-after: avoid;
-    }
-    p, ul, li {
-        page-break-inside: avoid;
-    }
-    .dates {
-        font-size: 10pt; /* Readable date font for print */
-    }
+    color: #666;
 }

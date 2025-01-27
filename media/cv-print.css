@@ -176,6 +176,11 @@ strong {
     page-break-inside: avoid;
 }
 
+/* Ensure headings stay together */
+h2, h3 {
+    page-break-after: avoid;
+}
+
 /* Print-specific rules */
 @media print {
     body {

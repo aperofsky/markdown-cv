@@ -1,4 +1,4 @@
-/* Reset rules (unchanged from previous versions) */
+/* Reset rules */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -42,54 +42,35 @@ table {
 	border-spacing: 0;
 }
 
-/* General body and layout settings */
+/* General layout settings */
 body {
 	font: normal normal 400;
 	font-size: 11pt;
 	line-height: 1.5em;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-	margin: 1in 0.75in;
+	margin: 1in 0.75in; /* Balanced margins */
 }
 
-p {
-	position: relative;
-	left: 10%; /* Align content slightly from the left */
-	margin-bottom: 0.2em;
-	width: 75%; /* Ensure adequate width */
-}
-
-ul {
-	position: relative;
-	left: 10%; /* Match paragraph alignment */
-	width: 85%;
-	margin-bottom: 1.5em;
-}
-
-li {
-	padding-left: 1.5em;
-	text-indent: -1.5em;
+p, ul, li {
 	margin-bottom: 0.5em;
 }
 
-li ul {
-	position: relative;
-	left: 0;
-	width: 100%;
-	margin-top: 0.25em;
+ul {
+	padding-left: 2em; /* Indent list items */
+}
+
+li {
+	text-indent: 0;
+	line-height: 1.4em;
 }
 
 /* Headings */
-h1, h2, h3, h4 {
-	font-weight: 400;
+h1, h2, h3 {
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
 }
 
 h1 {
-	text-align: left;
 	font-size: 2.5em;
-	line-height: 1.2em;
-	position: relative;
-	left: 10%;
 	margin-bottom: 0.5em;
 }
 
@@ -98,9 +79,6 @@ h2 {
 	color: #a00;
 	margin-top: 1.5em;
 	margin-bottom: 0.5em;
-	position: relative;
-	left: 10%;
-	width: 80%;
 	border-bottom: 1px solid #a00;
 	padding-bottom: 0.1em;
 	page-break-after: avoid;
@@ -108,128 +86,95 @@ h2 {
 
 h3 {
 	font-size: 1.1em;
-	line-height: 1.3em;
 	color: #444;
-	position: relative;
-	width: 75%;
-	text-align: left;
-	margin-top: 0.5em;
+	margin-top: 1em;
 	margin-bottom: 0.5em;
-	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
+	line-height: 1.3em;
 }
 
-/* Dates (aligned to the right) */
+/* Date alignment */
 .dates {
 	position: absolute;
-	right: 0; /* Align to the far right */
-	top: 0; /* Align with the text's top */
-	width: 15%; /* Ensure space for dates */
-	text-align: right; /* Right-align dates */
-	font-size: 10pt; /* Slightly smaller font size for dates */
-	color: #444; /* Neutral color for dates */
-	line-height: 1.3em;
+	right: 0; /* Align dates to the far right */
+	width: 20%; /* Ensure sufficient space */
+	text-align: right;
+	font-size: 10pt;
+	color: #666;
 }
 
-/* Links and website settings */
-a {
-	color: #a00;
-	text-decoration: none;
-}
-
-a:hover {
-	color: #a00;
-	text-decoration: underline;
-}
-
-#webaddress {
-	margin-top: 0.5em;
-	margin-bottom: 0.5em;
+/* Section content layout */
+.entry {
 	position: relative;
-	left: 10%;
+	padding-left: 2.5em; /* Space for bullet or number */
+	margin-bottom: 1em;
+}
+
+.entry .content {
+	width: 75%; /* Main content width */
+	display: inline-block;
+	vertical-align: top;
+}
+
+.entry .dates {
+	position: absolute;
+	right: 0; /* Align dates */
+	text-align: right;
+	width: 20%; /* Ensure space for dates */
+}
+
+/* Publications */
+.publications {
+	list-style-type: none;
+	margin-top: 1em;
+	margin-bottom: 2em;
+	padding-left: 2em;
+}
+
+.publications li {
+	position: relative;
+	padding-left: 2.5em; /* Space for numbering */
+	margin-bottom: 0.5em;
+}
+
+.publications li:before {
+	content: counter(item) ". ";
+	counter-increment: item;
+	position: absolute;
+	left: 0;
+	width: 2em; /* Space for the number */
+	text-align: right;
+	color: #444;
+}
+
+/* Website and link styling */
+#webaddress {
+	font-family: Monaco, Menlo, monospace;
+	font-size: 9pt; /* Smaller font size for website */
 	color: #a00;
-	font-family: Monaco, Menlo, monospace, sans-serif;
-	font-size: 70%;
-	line-height: 1;
+	margin-bottom: 1em;
 }
 
 #webaddress a {
-	text-decoration: none;
 	color: #a00;
+	text-decoration: none;
 }
 
 #webaddress a:hover {
 	text-decoration: underline;
 }
 
-/* Publications */
-.publications {
-	list-style-type: none;
-	margin-bottom: 1em;
-	font-size: 0.95em;
-	line-height: 1.3em;
-	margin-left: 0;
-	padding-left: 0;
-	page-break-inside: avoid;
-}
-
-.publications.preprints,
-.publications.articles {
-	counter-reset: preprint-counter article-counter;
-}
-
-.publications.preprints li,
-.publications.articles li {
-	counter-increment: preprint-counter article-counter;
-	margin-left: 0;
-	position: relative;
-	padding-left: 2.5em;
-	text-indent: 0;
-	line-height: 1.5em;
-	page-break-inside: avoid;
-}
-
-.publications.preprints li:before,
-.publications.articles li:before {
-	content: counter(preprint-counter, decimal) ". ";
-	position: absolute;
-	left: 0;
-	top: 0;
-	width: 2em;
-	text-align: right;
-	color: #444;
-}
-
-/* Prevent margin issues for nested elements */
-.publications li > * {
-	margin-left: 0;
-}
-
-.publications li strong,
-.publications li em {
-	margin-left: 0;
-}
-
-/* Print-specific rules */
+/* Print-specific adjustments */
 @media print {
 	body {
-		margin: 1in 0.75in;
+		margin: 1in 0.75in; /* Adjust margins for printing */
 	}
 	h2, h3 {
 		page-break-after: avoid;
 	}
-	p, ul {
+	p, ul, li {
 		page-break-inside: avoid;
 	}
-	h2 {
-		color: #a00 !important;
-	}
-	h3 {
-		color: #444 !important;
-		font-family: Avenir, "Helvetica Neue", Arial, sans-serif !important;
-		font-weight: 400 !important;
-		font-size: 1.1em !important;
-	}
 	.dates {
-		font-size: 10pt; /* Ensure dates remain readable in print */
+		font-size: 10pt;
 	}
 }

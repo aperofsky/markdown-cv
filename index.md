@@ -69,7 +69,6 @@ Supervisor: Andrew Park
 
 <li>Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) <strong>Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington.</strong> <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report, in prep for submission)</li>
 </ul>
-
 ### Journal articles
 <ul class="publications articles">
 <li><strong>Perofsky, A.C.</strong>, J. Huddleston, ... S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, & C. Viboud. (2024) <strong>Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States.</strong> <em>eLife</em> 13:RP91849. doi: <a href="https://doi.org/10.7554/eLife.91849">10.7554/eLife.91849</a>.</li>

@@ -1,8 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
+/* Reset rules (unchanged from previous versions) */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -23,7 +19,6 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -47,35 +42,33 @@ table {
 	border-spacing: 0;
 }
 
-/* end of reset */
-
+/* General body and layout settings */
 body {
 	font: normal normal 400;
-	font-size: 11pt; /* Slightly smaller font size for the entire document */
+	font-size: 11pt;
 	line-height: 1.5em;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-	margin: 1in 0.75in; /* Adjusted left margin */
+	margin: 1in 0.75in;
 }
 
 p {
 	position: relative;
-	left: 10%; /* Reduced left margin for alignment */
+	left: 10%; /* Align content slightly from the left */
 	margin-bottom: 0.2em;
-	margin-right: 0;
-	width: 80%; /* Increased width to fit content */
+	width: 75%; /* Ensure adequate width */
 }
 
-ul { 
+ul {
 	position: relative;
 	left: 10%; /* Match paragraph alignment */
-	width: 85%; /* Adjust width for consistency */
+	width: 85%;
 	margin-bottom: 1.5em;
 }
 
 li {
-	padding-left: 1.5em; /* Proper spacing for list items */
+	padding-left: 1.5em;
 	text-indent: -1.5em;
-	margin-bottom: 0.5em; /* Reduced space between items */
+	margin-bottom: 0.5em;
 }
 
 li ul {
@@ -85,6 +78,7 @@ li ul {
 	margin-top: 0.25em;
 }
 
+/* Headings */
 h1, h2, h3, h4 {
 	font-weight: 400;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
@@ -92,149 +86,150 @@ h1, h2, h3, h4 {
 
 h1 {
 	text-align: left;
-	font-size: 2.5em; /* Reduced size to avoid overlapping */
+	font-size: 2.5em;
 	line-height: 1.2em;
 	position: relative;
-	left: 10%; /* Align with reduced margin */
+	left: 10%;
 	margin-bottom: 0.5em;
 }
 
 h2 {
-	font-size: 1.2em; /* Slightly smaller subheading size */
+	font-size: 1.2em;
 	color: #a00;
-	margin-top: 1.5em; /* Reduced spacing above */
-	margin-bottom: 0.5em; /* Reduced spacing below */
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
 	position: relative;
-	left: 10%; /* Align with body text */
+	left: 10%;
 	width: 80%;
-	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
 	border-bottom: 1px solid #a00;
 	padding-bottom: 0.1em;
-	page-break-after: avoid; /* Prevent subheadings from causing blank pages */
+	page-break-after: avoid;
 }
 
 h3 {
-    font-size: 1.1em;
-    line-height: 1.3em; /* Tighter spacing to prevent overlap */
-    color: #444;
-    position: relative;
-    left: 10%;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    width: 70%;
-    padding-right: 0;
-    font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-    font-weight: 400;
+	font-size: 1.1em;
+	line-height: 1.3em;
+	color: #444;
+	position: relative;
+	width: 75%;
+	text-align: left;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
 }
 
+/* Dates (aligned to the right) */
+.dates {
+	position: absolute;
+	right: 0; /* Align to the far right */
+	top: 0; /* Align with the text's top */
+	width: 15%; /* Ensure space for dates */
+	text-align: right; /* Right-align dates */
+	font-size: 10pt; /* Slightly smaller font size for dates */
+	color: #444; /* Neutral color for dates */
+	line-height: 1.3em;
+}
+
+/* Links and website settings */
 a {
-	color: #a00; /* Match section heading red color */
+	color: #a00;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #a00; /* Keep red color on hover */
+	color: #a00;
 	text-decoration: underline;
 }
 
 #webaddress {
-	margin-top: 0.5em; /* Reduced space above */
-	margin-bottom: 0.5em; /* Reduced space below */
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
 	position: relative;
-	left: 10%; /* Align with reduced margin */
-	color: #a00; /* Match the section heading color */
+	left: 10%;
+	color: #a00;
 	font-family: Monaco, Menlo, monospace, sans-serif;
-	font-size: 70%; /* Smaller font size for websites */
-	line-height: 1; /* Single-line spacing to avoid wrapping */
+	font-size: 70%;
+	line-height: 1;
 }
 
 #webaddress a {
 	text-decoration: none;
-	color: #a00; /* Match section heading color */
+	color: #a00;
 }
 
 #webaddress a:hover {
 	text-decoration: underline;
 }
 
-em {
-	font-style: italic !important;
-}
-
-strong {
-    font-weight: bold !important;
-}
-
-/* Publications section styling */
+/* Publications */
 .publications {
-    list-style-type: none;
-    margin-bottom: 1em; /* Reduced spacing to prevent blank pages */
-    font-size: 0.95em;
-    line-height: 1.3em;
-    margin-left: 0; /* Align with main headings */
-    padding-left: 0;
-    page-break-inside: avoid; /* Prevent page breaks in the list */
+	list-style-type: none;
+	margin-bottom: 1em;
+	font-size: 0.95em;
+	line-height: 1.3em;
+	margin-left: 0;
+	padding-left: 0;
+	page-break-inside: avoid;
 }
 
 .publications.preprints,
 .publications.articles {
-    counter-reset: preprint-counter article-counter;
+	counter-reset: preprint-counter article-counter;
 }
 
 .publications.preprints li,
 .publications.articles li {
-    counter-increment: preprint-counter article-counter;
-    margin-left: 0; /* Align with headings */
-    position: relative;
-    padding-left: 2.5em; /* Slight indentation for numbers */
-    text-indent: 0;
-    line-height: 1.5em;
-    page-break-inside: avoid; /* Prevent page breaks */
+	counter-increment: preprint-counter article-counter;
+	margin-left: 0;
+	position: relative;
+	padding-left: 2.5em;
+	text-indent: 0;
+	line-height: 1.5em;
+	page-break-inside: avoid;
 }
 
 .publications.preprints li:before,
 .publications.articles li:before {
-    content: counter(preprint-counter, decimal) ". ";
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 2em; /* Ensure numbers are close to text */
-    text-align: right;
-    color: #444;
+	content: counter(preprint-counter, decimal) ". ";
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 2em;
+	text-align: right;
+	color: #444;
 }
 
 /* Prevent margin issues for nested elements */
 .publications li > * {
-    margin-left: 0;
+	margin-left: 0;
 }
 
 .publications li strong,
 .publications li em {
-    margin-left: 0;
+	margin-left: 0;
 }
 
 /* Print-specific rules */
 @media print {
-    body {
-        margin: 1in 0.75in; /* Adjusted left margin for print */
-    }
-    
-    h2, h3 {
-        page-break-after: avoid; /* Avoid subheading page breaks */
-    }
-    
-    p, ul {
-        page-break-inside: avoid; /* Prevent list splitting */
-    }
-
-    h2 {
-        color: #a00 !important;
-    }
-
-    h3 {
-        color: #444 !important;
-        font-family: Avenir, "Helvetica Neue", Arial, sans-serif !important;
-        font-weight: 400 !important;
-        font-size: 1.1em !important;
-    }
+	body {
+		margin: 1in 0.75in;
+	}
+	h2, h3 {
+		page-break-after: avoid;
+	}
+	p, ul {
+		page-break-inside: avoid;
+	}
+	h2 {
+		color: #a00 !important;
+	}
+	h3 {
+		color: #444 !important;
+		font-family: Avenir, "Helvetica Neue", Arial, sans-serif !important;
+		font-weight: 400 !important;
+		font-size: 1.1em !important;
+	}
+	.dates {
+		font-size: 10pt; /* Ensure dates remain readable in print */
+	}
 }

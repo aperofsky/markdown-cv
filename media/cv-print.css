@@ -1,109 +1,114 @@
 /* General layout */
 body {
-	font: normal normal 400;
-	font-size: 11pt; /* Standard font size */
-	line-height: 1.5em;
-	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-	margin: 1in 0.75in; /* Restored balanced margins */
+    font: normal 400 11pt "Avenir", "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.5em;
+    margin: 1in 0.75in; /* Balanced margins */
 }
 
 /* Headings */
 h1 {
-	font-size: 2.5em;
-	margin-bottom: 0.5em;
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
 }
 
 h2 {
-	font-size: 1.2em;
-	color: #a00;
-	margin-top: 1.5em;
-	margin-bottom: 0.5em;
-	border-bottom: 1px solid #a00;
-	padding-bottom: 0.1em;
-	page-break-after: avoid;
+    font-size: 1.2em;
+    color: #a00;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid #a00;
+    padding-bottom: 0.1em;
+    page-break-after: avoid;
 }
 
 h3 {
-	font-size: 1.1em;
-	color: #444;
-	margin-top: 1em;
-	margin-bottom: 0.5em;
-	line-height: 1.3em;
+    font-size: 1.1em;
+    color: #444;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    line-height: 1.3em;
 }
 
 /* Paragraphs and lists */
 p {
-	margin-bottom: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 ul, li {
-	margin-bottom: 0.5em;
-	padding-left: 1.5em; /* Adjusted for proper indentation */
+    margin-bottom: 0.5em;
+    padding-left: 1.5em; /* Adjusted for proper indentation */
+}
+
+/* Dates (Right-aligned) */
+.dates {
+    float: right; /* Align dates to the right */
+    text-align: right;
+    width: 20%; /* Allocate space for the dates */
+    font-size: 10pt;
+    color: #666;
+    line-height: 1.5em;
+    margin-left: 1em; /* Space between dates and content */
+}
+
+/* Content adjacent to dates */
+.content {
+    margin-right: 22%; /* Ensure content doesn't overlap with dates */
 }
 
 /* Publications */
 .publications {
-	list-style-type: none;
-	margin-top: 1em;
-	margin-bottom: 2em;
-	padding-left: 2em;
+    list-style-type: none;
+    counter-reset: publication-counter; /* Reset the counter for publications */
+    margin-top: 1em;
+    margin-bottom: 2em;
+    padding-left: 2em;
 }
 
 .publications li {
-	position: relative;
-	padding-left: 2.5em; /* Space for numbering */
-	margin-bottom: 0.5em;
+    position: relative;
+    padding-left: 2.5em; /* Space for numbering */
+    margin-bottom: 0.5em;
+    counter-increment: publication-counter; /* Increment the counter */
 }
 
 .publications li:before {
-	content: counter(item) ". ";
-	counter-increment: item;
-	position: absolute;
-	left: 0;
-	width: 2em; /* Space for the number */
-	text-align: right;
-	color: #444;
-}
-
-/* Dates */
-.dates {
-	position: absolute;
-	right: 0;
-	text-align: right;
-	width: 20%; /* Ensures ample space for dates */
-	font-size: 10pt;
-	color: #666;
+    content: counter(publication-counter) ". "; /* Display the counter value */
+    position: absolute;
+    left: 0;
+    width: 2em; /* Space for the number */
+    text-align: right;
+    color: #444;
 }
 
 /* Web address */
 #webaddress {
-	font-family: Monaco, Menlo, monospace;
-	font-size: 9pt; /* Reduced font size for websites */
-	color: #a00;
-	margin-bottom: 1em;
+    font-family: Monaco, Menlo, monospace;
+    font-size: 9pt; /* Reduced font size for websites */
+    color: #a00;
+    margin-bottom: 1em;
 }
 
 #webaddress a {
-	color: #a00;
-	text-decoration: none;
+    color: #a00;
+    text-decoration: none;
 }
 
 #webaddress a:hover {
-	text-decoration: underline;
+    text-decoration: underline;
 }
 
 /* Print-specific rules */
 @media print {
-	body {
-		margin: 1in 0.75in; /* Restored margins */
-	}
-	h2, h3 {
-		page-break-after: avoid;
-	}
-	p, ul, li {
-		page-break-inside: avoid;
-	}
-	.dates {
-		font-size: 10pt; /* Readable date font for print */
-	}
+    body {
+        margin: 1in 0.75in; /* Restored margins */
+    }
+    h2, h3 {
+        page-break-after: avoid;
+    }
+    p, ul, li {
+        page-break-inside: avoid;
+    }
+    .dates {
+        font-size: 10pt; /* Readable date font for print */
+    }
 }

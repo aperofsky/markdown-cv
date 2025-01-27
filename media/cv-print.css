@@ -1,20 +1,16 @@
 /* Print stylesheet for markdown-cv */
 
 body {
-    font: normal normal 400;
-    font-size: 11pt;
+    font: normal 400 11pt "Avenir", "Helvetica Neue", Arial, sans-serif;
     line-height: 1.5em;
-    font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-    margin-top: 1em;
-    margin-left: 1em;
+    margin: 1in 0.5in; /* Balanced left and right margins */
 }
 
 p {
     position: relative;
-    left: 25%;
+    left: 10%; /* Reduced left margin */
     margin-bottom: 0.7em;
-    margin-right: 0;
-    width: 55%;
+    width: 80%; /* Increased width for content */
 }
 
 code {
@@ -32,10 +28,9 @@ p code {
 
 ul {
     position: relative;
-    left: 25%;
-    width: 75%;
+    left: 10%; /* Match paragraph alignment */
+    width: 80%; /* Adjust width for consistency */
     margin-bottom: 1.5em;
-    margin-top: -0.5em;
 }
 
 li {
@@ -58,10 +53,10 @@ h1, h2, h3, h4 {
 
 h1 {
     text-align: left;
-    font-size: 3em;
+    font-size: 2.5em;
     line-height: 1em;
     position: relative;
-    left: 25%;
+    left: 10%; /* Align with reduced margin */
 }
 
 h1 + p {
@@ -70,13 +65,16 @@ h1 + p {
 }
 
 h2 {
-    font-size: 1.1em;
+    font-size: 1.2em;
     color: #bc412b;
-    margin-top: 3em;
+    margin-top: 2em; /* Reduced spacing */
     position: relative;
-    top: 1.4em;
-    text-align: right;
-    width: 20%;
+    text-align: left; /* Align with content */
+    left: 10%;
+    width: 80%;
+    border-bottom: 1px solid #bc412b;
+    padding-bottom: 0.1em;
+    page-break-after: avoid; /* Prevents breaking after a heading */
 }
 
 h3 {
@@ -84,14 +82,10 @@ h3 {
     line-height: 1.5em;
     color: #444;
     position: relative;
-    top: 1.7em;
-    text-align: right;
-    width: 20%;
-    font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    letter-spacing: 0.3px;
-    padding-right: 2%;
+    text-align: left; /* Align with content */
+    left: 10%;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 a {
@@ -107,10 +101,10 @@ a:hover {
 #webaddress {
     margin-top: 1em;
     position: relative;
-    left: 25%;
+    left: 10%; /* Align with reduced margin */
     color: #bc412b;
     font-family: Monaco, Menlo, monospace, sans-serif;
-    font-size: 100%;
+    font-size: 90%; /* Adjusted size for compact layout */
 }
 
 #webaddress a {
@@ -125,15 +119,15 @@ strong {
     font-weight: bold !important;
 }
 
-/* Dates (Right-aligned like in cv-screen.css) */
+/* Dates (Right-aligned) */
 .dates {
     position: absolute;
-    right: 0;
+    right: 0; /* Align dates to the far right */
     text-align: right;
-    width: 20%; /* Consistent date block width */
+    width: 20%; /* Fixed width for consistency */
     font-size: 10pt;
-    line-height: 1.5em;
     color: #666;
+    line-height: 1.5em;
 }
 
 /* Publications */
@@ -143,6 +137,7 @@ strong {
     margin-top: 1em;
     margin-bottom: 2em;
     padding-left: 0; /* Align list to the left edge */
+    page-break-inside: avoid; /* Prevent splitting list across pages */
 }
 
 .publications li {
@@ -167,10 +162,19 @@ strong {
     margin-left: 0; /* Prevent child elements from being indented */
 }
 
+/* Prevent page breaks in publications */
+.publications {
+    page-break-inside: avoid;
+}
+
+.publications li {
+    page-break-inside: avoid;
+}
+
 /* Print-specific rules */
 @media print {
     body {
-        margin: 1in 0.75in; /* Restored margins */
+        margin: 1in 0.5in; /* Restored margins */
     }
     h2, h3 {
         page-break-after: avoid;

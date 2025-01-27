@@ -3,7 +3,6 @@
    License: none (public domain)
 */
 
-/* [Reset CSS section remains unchanged] */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -57,8 +56,6 @@ body {
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
 }
 
 p {
@@ -124,7 +121,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #bc412b;
-	margin-top: 2em;
+	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -132,18 +129,18 @@ h2 {
 }
 
 h3 {
-    font-size: 1.1em;
-    line-height: 1.5em;
-    color: #444;
-    position: relative;
-    top: 1.7em;
-    text-align: right;
-    width: 20%;
-    font-family: "Garamond", "Hoefler Text", "Times New Roman", serif;
-    font-weight: 400;
-    font-style: normal;
-    letter-spacing: 0.3px;
-    padding-right: 2%;
+	font-size: 1.1em;
+	line-height: 1.5em;
+	color: #444;
+	position: relative;
+	top: 1.7em;
+	text-align: right;
+	width: 20%;
+	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	letter-spacing: 0.3px;
+	padding-right: 2%;
 }
 
 a {
@@ -159,8 +156,8 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #666;
-	font-family: "Garamond", "Times New Roman", serif;
+	color: #bc412b;
+	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
 
@@ -196,6 +193,7 @@ strong {
 
 .publications strong {
     font-weight: bold !important;
+    display: inline !important;
 }
 
 .publications em {

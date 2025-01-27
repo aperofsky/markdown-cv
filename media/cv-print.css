@@ -3,14 +3,14 @@
 body {
     font: normal 400 11pt "Avenir", "Helvetica Neue", Arial, sans-serif;
     line-height: 1.5em;
-    margin: 1in 0.25in; /* Balanced left and right margins */
+    margin: 1in 0.5in; /* Adjusted right margin for dates */
 }
 
 p {
     position: relative;
     left: 5%; /* Reduced left margin for content alignment */
     margin-bottom: 0.7em;
-    width: 90%; /* Increased width for content */
+    width: 85%; /* Ensure enough space for right-aligned dates */
     font-size: 10pt; /* Slightly smaller font for subheading content */
 }
 
@@ -30,7 +30,7 @@ p code {
 ul {
     position: relative;
     left: 5%; /* Match paragraph alignment */
-    width: 90%; /* Adjust width for consistency */
+    width: 85%; /* Adjust width for consistency with dates */
     margin-bottom: 1.5em;
     font-size: 10pt; /* Slightly smaller font for lists */
 }
@@ -50,7 +50,7 @@ li ul {
 h1, h2, h3, h4 {
     font-weight: 400;
     font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-    width: 90%;
+    width: 85%; /* Adjusted width for alignment */
 }
 
 h1 {
@@ -74,10 +74,10 @@ h2 {
     position: relative;
     text-align: left; /* Align with content */
     left: 5%;
-    width: 90%;
+    width: 85%;
     border-bottom: 1px solid #ccc; /* Lighter line for separation */
     padding-bottom: 0.1em;
-    page-break-after: avoid; /* Prevent breaking after a heading */
+    page-break-after: avoid; /* Prevents breaking after a heading */
 }
 
 h3 {
@@ -123,12 +123,12 @@ strong {
     font-weight: bold !important;
 }
 
-/* Dates (Right-aligned) */
+/* Dates (Right-aligned with enough space) */
 .dates {
     position: absolute;
     right: 0; /* Align dates to the far right */
     text-align: right;
-    width: 20%; /* Fixed width for consistency */
+    width: 15%; /* Fixed width for consistency and to prevent cut-off */
     font-size: 10pt;
     color: #666;
     line-height: 1.5em;
@@ -139,7 +139,7 @@ strong {
     list-style-type: none; /* Remove bullet points */
     counter-reset: publication-counter; /* Reset numbering */
     margin-top: 1em;
-    margin-bottom: 0em; /* Remove extra space below */
+    margin-bottom: 0em; /* Ensure no gap between sections */
     padding-left: 0; /* Align list to the left edge */
     page-break-inside: avoid; /* Prevent splitting list across pages */
 }
@@ -179,7 +179,7 @@ strong {
 /* Print-specific rules */
 @media print {
     body {
-        margin: 1in 0.25in; /* Restored smaller margins */
+        margin: 1in 0.5in; /* Adjusted right margin to prevent cut-off */
     }
     h2, h3 {
         page-break-after: avoid;

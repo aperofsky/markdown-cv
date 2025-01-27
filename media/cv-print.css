@@ -51,6 +51,7 @@ h1, h2, h3, h4 {
     font-weight: 400;
     font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
     width: 85%; /* Adjusted width for alignment */
+    color: #bc412b; /* Unified red color for all headings */
 }
 
 h1 {
@@ -69,13 +70,12 @@ h1 + p {
 h2 {
     font-size: 1.2em; /* Original size for subheading titles */
     font-weight: 400; /* Slightly thinner than bold */
-    color: #777; /* Slightly gray for distinction */
     margin-top: 2em;
     position: relative;
     text-align: left; /* Align with content */
     left: 5%;
     width: 85%;
-    border-bottom: 1px solid #ccc; /* Lighter line for separation */
+    border-bottom: 1px solid #bc412b; /* Unified red color for underline */
     padding-bottom: 0.1em;
     page-break-after: avoid; /* Prevents breaking after a heading */
 }
@@ -83,7 +83,6 @@ h2 {
 h3 {
     font-size: 1.1em; /* Original size for subheading titles */
     font-weight: 400; /* Slightly thinner than bold */
-    color: #555; /* Darker gray for subheadings */
     line-height: 1.4em;
     position: relative;
     text-align: left; /* Align with content */

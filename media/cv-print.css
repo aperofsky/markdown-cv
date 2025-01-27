@@ -3,7 +3,7 @@
 body {
     font: normal 400 11pt "Avenir", "Helvetica Neue", Arial, sans-serif;
     line-height: 1.5em;
-    margin: 1in 0.25in; /* Reduced left and right margins */
+    margin: 1in 0.25in; /* Balanced left and right margins */
 }
 
 p {
@@ -68,22 +68,22 @@ h1 + p {
 
 h2 {
     font-size: 1.2em; /* Original size for subheading titles */
-    font-weight: bold; /* Bold for better visibility */
-    color: #a00; /* Darker red for subheadings */
-    margin-top: 2em; /* Reduced spacing */
+    font-weight: 400; /* Slightly thinner than bold */
+    color: #777; /* Slightly gray for distinction */
+    margin-top: 2em;
     position: relative;
     text-align: left; /* Align with content */
     left: 5%;
     width: 90%;
-    border-bottom: 1px solid #a00;
+    border-bottom: 1px solid #ccc; /* Lighter line for separation */
     padding-bottom: 0.1em;
-    page-break-after: avoid; /* Prevents breaking after a heading */
+    page-break-after: avoid; /* Prevent breaking after a heading */
 }
 
 h3 {
     font-size: 1.1em; /* Original size for subheading titles */
-    font-weight: bold; /* Bold for better visibility */
-    color: #444; /* Darker gray for subheadings */
+    font-weight: 400; /* Slightly thinner than bold */
+    color: #555; /* Darker gray for subheadings */
     line-height: 1.4em;
     position: relative;
     text-align: left; /* Align with content */
@@ -139,7 +139,7 @@ strong {
     list-style-type: none; /* Remove bullet points */
     counter-reset: publication-counter; /* Reset numbering */
     margin-top: 1em;
-    margin-bottom: 2em;
+    margin-bottom: 0em; /* Remove extra space below */
     padding-left: 0; /* Align list to the left edge */
     page-break-inside: avoid; /* Prevent splitting list across pages */
 }

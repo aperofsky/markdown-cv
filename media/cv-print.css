@@ -54,7 +54,7 @@ body {
 	font-size: 12pt;
 	line-height: 1.5em;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-	margin: 2em 3em;
+	margin: 1in 0.5in; /* Adjusted for print-friendly margins */
 }
 
 p {
@@ -199,44 +199,47 @@ strong {
     list-style-type: none;
     margin-bottom: 1.5em;
     font-size: 0.95em;
-    line-height: 1.5em; /* Ensure enough spacing */
-    margin-left: 0; /* Align with the main heading */
-    padding-left: 0; /* Remove unnecessary padding */
+    line-height: 1.3em;
+    margin-left: 0; /* Align with main headings */
+    padding-left: 0;
+    page-break-inside: avoid; /* Prevent page breaks in the list */
 }
 
 .publications.preprints,
 .publications.articles {
-    counter-reset: preprint-counter article-counter; /* Separate counters */
+    counter-reset: preprint-counter article-counter;
 }
 
 /* Preprints List Items */
 .publications.preprints li {
-    counter-increment: preprint-counter; /* Increment counter */
-    margin-left: 0; /* Align with the heading */
-    position: relative; /* Allow absolute positioning for :before */
+    counter-increment: preprint-counter;
+    margin-left: 0; /* Align with headings */
+    position: relative;
     padding-left: 2.5em; /* Slight indentation for numbers */
-    text-indent: 0; /* Reset text indentation */
-    line-height: 1.5em; /* Ensure readability */
+    text-indent: 0;
+    line-height: 1.5em;
+    page-break-inside: avoid; /* Prevent page breaks */
 }
 
 .publications.preprints li:before {
-    content: counter(preprint-counter) ". "; /* Add numbering */
-    position: absolute; /* Position relative to parent li */
-    left: 0; /* Align to the edge of the section */
-    top: 0; /* Align to the top of the text */
-    width: 2em; /* Adjust to bring numbers closer to text */
-    text-align: right; /* Align numbers right */
-    color: #444; /* Number color (optional) */
+    content: counter(preprint-counter) ". ";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 2em; /* Ensure numbers are close to text */
+    text-align: right;
+    color: #444;
 }
 
 /* Articles List Items */
 .publications.articles li {
-    counter-increment: article-counter; /* Increment counter */
+    counter-increment: article-counter;
     margin-left: 0;
     position: relative;
-    padding-left: 2.5em; /* Same as preprints */
+    padding-left: 2.5em;
     text-indent: 0;
     line-height: 1.5em;
+    page-break-inside: avoid; /* Prevent page breaks */
 }
 
 .publications.articles li:before {
@@ -251,18 +254,18 @@ strong {
 
 /* Prevent margin issues for nested elements */
 .publications li > * {
-    margin-left: 0; /* Remove extra margin for child elements */
+    margin-left: 0;
 }
 
 .publications li strong,
 .publications li em {
-    margin-left: 0; /* Align strong/em text */
+    margin-left: 0;
 }
 
 /* Print-specific rules */
 @media print {
     body {
-        margin: 1em 2em;
+        margin: 1in 0.5in;
     }
     
     h2, h3 {

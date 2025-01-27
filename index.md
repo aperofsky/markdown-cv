@@ -24,39 +24,39 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 ## Research Experience
 `Apr 2021–present`
 **Guest Researcher**<br/>
-Fogarty International Center, U.S. National Institutes of Health (Remote)<br/>
+Fogarty International Center, U.S. National Institutes of Health<br/>
 Division of International Epidemiology and Population Studies<br/>
 Supervisor: Cécile Viboud, Senior Staff Scientist
 
 `Apr 2021–Jan 2025`
-**Epidemiological Data Scientist (Research Scientist/Engineer 3), Seattle Flu Study** <br/>
-Brotman Baty Institute for Precision Medicine, University of Washington, Seattle, WA<br/>
+**Epidemiological Data Scientist (Research Scientist/Engineer 3)** <br/>
+Seattle Flu Study, Brotman Baty Institute for Precision Medicine, University of Washington<br/>
 Project: *The effects of population mobility, COVID-19 restrictions, and masking behavior on respiratory pathogen transmission in Seattle, Washington*<br/>
 Supervisors: Cécile Viboud, Senior Staff Scientist (NIH) and Robin Prentice, Director of Program Operations (BBI, UW)
 
 `Sep 2018–Apr 2021`
 **Postdoctoral Research Fellow**<br/>
-Fogarty International Center, U.S. National Institutes of Health, Bethesda, MD<br/>
+Fogarty International Center, U.S. National Institutes of Health<br/>
 Division of International Epidemiology and Population Studies<br/>
 Projects: *Respiratory virus epidemiology, ecology, and transmission patterns in human and animal populations*<br/>
 Advisor: Cécile Viboud, Senior Staff Scientist
 
 `Aug 2011–Aug 2018`
 **Doctoral Research**<br/>
-Department of Integrative Biology, University of Texas at Austin, Austin, TX<br/>
+Department of Integrative Biology, University of Texas at Austin<br/>
 Dissertation: *Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals*<br/>
 Advisor: Lauren Ancel Meyers, Professor
 
 `Jan 2010–Aug 2011`
 **Postbaccalaureate IRTA Fellow**<br/>
-National Institute of Dental and Craniofacial Research, U.S. National Institutes of Health, Bethesda, MD<br/>
+National Institute of Dental and Craniofacial Research, U.S. National Institutes of Health<br/>
 Adeno-Associated Virus Biology Section<br/>
 Project: *Viral infection profiles unique to Sjögren’s Syndrome patients*<br/>
 Supervisor: John Chiorini, Senior Investigator
 
 `Aug 2009–Dec 2009`
 **Research Assistant**<br/>
-Odum School of Ecology, University of Georgia, Athens, GA<br/>
+Odum School of Ecology, University of Georgia<br/>
 Project: *Environmental drivers of epizootic hemorrhagic disease virus (EHDV) outbreaks in white-tailed deer*<br/>
 Supervisor: Andrew Park, Professor
 

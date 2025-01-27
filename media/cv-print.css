@@ -147,12 +147,13 @@ h3 {
 }
 
 a {
-	color: inherit;
+	color: #0066cc;  /* Changed to blue for better visibility */
 	text-decoration: none;
 }
 
 a:hover {
 	color: #39f;
+	text-decoration: underline;
 }
 
 #webaddress {
@@ -177,6 +178,12 @@ strong {
     font-weight: bold !important;
 }
 
+/* Ensure italics in publication lists */
+.publications em {
+    font-style: italic !important;
+    font-weight: normal;  /* Prevent bold italic */
+}
+
 .publications strong {
     font-weight: bold !important;
     display: inline !important;
@@ -199,22 +206,6 @@ strong {
     padding-left: 2.5em;
     text-indent: -2.5em;
     margin-bottom: 0.7em;    /* Reduced from 1em */
-}
-
-/* Print-specific rules */
-@media print {
-    .publications {
-        page-break-inside: auto;    /* Allow breaks within publication lists */
-    }
-    
-    .publications li {
-        page-break-inside: avoid;   /* Keep individual entries together */
-        margin-bottom: 0.6em;       /* Even tighter spacing in print */
-    }
-    
-    h2 + .publications {
-        margin-top: 1em;           /* Space after section headers */
-    }
 }
 
 /* Preprints counter */

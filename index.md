@@ -19,42 +19,46 @@ Fogarty International Center, U.S. National Institutes of Health
 
 `2009`
 **B.Sc., Biology, B.Sc., Ecology**, University of Georgia, Athens, GA, USA.<br/>
-*Summa cum laude* with Highest Honors
+*Summa cum laude* with Highest Honors, Phi Beta Kappa
 
 ## Research Experience
 `Apr 2021-present`
 **Guest Researcher**<br/>
-Fogarty International Center, National Institutes of Health, Bethesda, MD<br/>
-Division of International Epidemiology and Population Studies
-Supervisor: Cécile Viboud
+Fogarty International Center, National Institutes of Health<br/>
+Division of International Epidemiology and Population Studies<br/>
+Supervisor: Cécile Viboud, Senior Staff Scientist
 
 `Apr 2021-Jan 2025`
 **Epidemiological Data Scientist (Research Scientist/Engineer 3)** <br/>
-Brotman Baty Institute for Precision Medicine, University of Washington, Seattle, WA<br/>
-Supervisor: Cécile Viboud
+Seattle Flu Study, Brotman Baty Institute for Precision Medicine, University of Washington<br/>
+Project: *The effects of population mobility, COVID-19 restrictions, and masking behavior on respiratory pathogen transmission in Seattle, Washington*<br/>
+Supervisors: Cécile Viboud, Senior Staff Scientist (NIH) and Robin Prentice, Director of Program Operations (BBI, UW)
 
 `Sep 2018-Apr 2021`
 **Postdoctoral Research Fellow**<br/>
-Fogarty International Center, National Institutes of Health, Bethesda, MD<br/>
+Fogarty International Center, U.S. National Institutes of Health<br/>
 Division of International Epidemiology and Population Studies<br/>
-Advisor: Cécile Viboud
+Projects: *Respiratory virus epidemiology, ecology, and transmission patterns in human and animal populations*<br/>
+Advisor: Cécile Viboud, Senior Staff Scientist
 
 `Aug 2011-Aug 2018`
-**Graduate Research**<br/>
-Department of Integrative Biology, University of Texas at Austin, Austin, TX<br/>
+**Doctoral Research**<br/>
+Department of Integrative Biology, University of Texas at Austin<br/>
 Dissertation: *Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals*<br/>
-Advisor: Lauren Ancel Meyers
+Advisor: Lauren Ancel Meyers, Professor
 
 `Jan 2010-Aug 2011`
 **Postbaccalaureate IRTA Fellow**<br/>
 National Institute of Dental and Craniofacial Research, National Institutes of Health<br/>
-Adeno-Associated Virus Biology Section, Molecular Physiology and Therapeutics Branch<br/>
-Supervisor: John Chiorini
+Adeno-Associated Virus Biology Section<br/>
+Project: *Viral profiles unique to Sjögren’s Syndrome patients*<br/>
+Supervisor: John Chiorini, Senior Investigator
 
 `Aug 2009-Dec 2009`
 **Research Assistant**<br/>
-Odum School of Ecology, University of Georgia, Athens, GA<br/>
-Supervisor: Andrew Park
+Odum School of Ecology, University of Georgia<br/>
+Project: *Environmental drivers of epizootic hemorrhagic disease virus (EHDV) outbreaks in white-tailed deer*<br/>
+Supervisor: Andrew Park, Professor
 
 ## Publications
 *Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=8K-upW0AAAAJ&hl). † = shared first authorship.*
@@ -62,11 +66,11 @@ Supervisor: Andrew Park
 ### Preprints
 1. Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, L.A. Frisbie, H. Xie, K. Kong, A. Weixler, A.L. Greninger, P. Roychoudhury, J.M. Peterson, A. Delgado, H. Halstead, D. MacKellar, P. Dykema, L. Gamboa, C.D. Frazar, E. Ryke, J. Stone, D. Reinhart, L. Starita, A. Thibodeau, C. Yun, F. Aragona, A. Black, C. Viboud, & T. Bedford. (2024) **Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences.** _medRxiv_ 2024.05.24.24307811. doi: [10.1101/2024.05.24.24307811](https://doi.org/10.1101/2024.05.24.24307811). (In press, *Nature*)
 
-2. Kostandova, N., R. Corgel, S. Bansal, S. Bérubé, E. Cleary, C. Hansen, M.D.T. Hitchings, B. García-Carreras, L. Gardner, M.U.G. Kraemer, S. Lai, Y. Li, **A.C. Perofsky**, G. Pullano, J.M. Read, G. Ribeiro dos Santos, H. Salje, S. Takahashi, C. Viboud, J. Wang, D.A.T. Cummings, & A. Wesolowski. (2024) **Data and model needs for generalizable inferences linking human mobility and infectious disease transmission.** [OSF Preprint](https://osf.io/y9mzd/download) (Accepted, *Nature Human Behavior*)
+2. Kostandova, N., R. Corgel, S. Bansal, S. Bérubé, E. Cleary, C. Hansen, M.D.T. Hitchings, B. García-Carreras, L. Gardner, M.U.G. Kraemer, S. Lai, Y. Li, **A.C. Perofsky**, G. Pullano, J.M. Read, G. Ribeiro dos Santos, H. Salje, S. Takahashi, C. Viboud, J. Wang, D.A.T. Cummings, & A. Wesolowski. (2024) **Data and model needs for generalizable inferences linking human mobility and infectious disease transmission.** [OSF Preprint](https://osf.io/y9mzd/download) (In press, *Nature Human Behavior*)
 
 3. Hansen, C. L., Lee, L., Bents, S. J., **Perofsky, A. C.**, Sun, K., Starita, L. M., Adler, A., Englund, J. A., Chow, E. J., Chu, H. Y., & Viboud, C. (2024) **Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025.** _medRxiv_ 2024.12.13.24319008. doi: [10.1101/2024.12.13.24319008](https://doi.org/10.1101/2024.12.13.24319008) (In review, *JAMA Network Open*)  
 
-4. Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & **A.C. Perofsky**. (2024) **Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington.** _medRxiv_ 2024.09.13.24313667. doi: [10.1101/2024.09.13.24313667](https://doi.org/10.1101/2024.09.13.24313667). ([Complexity 72h workshop](https://complexity72h.com/) report)
+4. Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & **A.C. Perofsky**. (2024) **Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington.** _medRxiv_ 2024.09.13.24313667. doi: [10.1101/2024.09.13.24313667](https://doi.org/10.1101/2024.09.13.24313667). ([Complexity 72h](https://complexity72h.com/) report, in prep)
 
 ### Journal articles
 1. **Perofsky, A.C.**, J. Huddleston, C. Hansen, J.R. Barnes, T. Rowe, X. Xu, R. Kondor, D.E. Wentworth, N. Lewis, L. Whittaker, B. Ermetal, R. Harvey, M. Galiano, R. Stuart Daniels, J.W. McCauley, S. Fujisaki, K. Nakamura, N. Kishida, S. Watanabe, H. Hasegawa, S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, & C. Viboud. (2024) **Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States.** _eLife_ 13:RP91849 doi: [10.7554/eLife.91849](https://doi.org/10.7554/eLife.91849).
@@ -103,21 +107,24 @@ Supervisor: Andrew Park
 
 ### Fellowships
 `2012-2017`
-**National Science Foundation Graduate Research Fellowship**, $124,500 (three years of funding over five years)
+**National Science Foundation Graduate Research Fellowship**, $125,000 (three years of funding over five years)
 
 `2011`
-**Graduate Recruitment Fellowship**, Department of Integrative Biology, University of Texas at Austin, $32,869.
+**Graduate Recruitment Fellowship**, Department of Integrative Biology, University of Texas at Austin, $33,000.
 
 `2010-2011`
 **Postbaccalaureate Intramural Research Training Award (IRTA) Fellowship**, National Institutes of Health, $56,000.
 
 ### Grants
 `2018`
-**Research Exchange Grant, NSF Infectious Disease Evolution Across Scales Research Coordination Network**, $2800. *How does influenza evolution impact the epidemiology of annual epidemics?*
+**Research Exchange Grant, NSF Infectious Disease Evolution Across Scales Research Coordination Network**, $2800.<br/>
+Title: *How does influenza evolution impact the epidemiology of annual epidemics?*<br/>
+Role: PI
 
 `2015-2017`
-**Research Grant DBI-0939454**, NSF BEACON Center for the Study of Evolution in Action, $16,000. *Factors that influence gut microbiota diversity and intestinal bacteria transmission dynamics in wild lemurs.* <br/> 
-Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
+**Research Grant DBI-0939454**, NSF BEACON Center for the Study of Evolution in Action, $16,000.<br/>
+Title: *Factors that influence gut microbiota diversity and intestinal bacteria transmission dynamics in wild lemurs.* <br/> 
+Role: Co-PI with Lauren Ancel Meyers and Rebecca Lewis
 
 `2015-2017`
 **Dissertation Improvement Grant**, Ecology, Evolution, & Behavior Graduate Program, University of Texas at Austin, $8000.
@@ -131,8 +138,23 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 `2011`
 **Startup Grant**, Ecology, Evolution, & Behavior Graduate Program, University of Texas at Austin, $2000.
 
-## Honors and Awards
+`2008`
+**NSF Research Experiences for Undergraduates (REU) Internship**, NSF Coweeta Long Term Ecological Research Program, Otto, NC. $3600.
 
+### Contributions to Other Grants (non PI-status)
+`2022-2024`
+**BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program, $2M<br/>
+Title: *Collaborative technology development, and analyses to support genetic epidemiology in Washington State*
+Role: Epidemiology Lead<br/>
+Led creation of a public real-time dashboard of [SARS-CoV-2 variant forecasts for Washington and other U.S. states](https://seattleflu.org/sars-cov-2-forecasts), in collaboration with [*Nextstrain*](https://nextstrain.org/) and with input from Washington Department of Health. Led research aim linking demographic and behavioral data to SARS-CoV-2 and endemic virus transmission. Contributed to quarterly reports and presented to CDC program officers.
+
+`2021-2023`
+**Gates Ventures**, $11.6M (Y3-Y4)<br/> 
+Title: *Seattle Flu Study and Seattle Coronavirus Assessment Network*<br/> 
+Role: Key Personnel (staff scientist)<br/> 
+Led research aim linking human mobility to transmission dynamics of 17 endemic respiratory viruses and SARS-CoV-2, contrasting patterns observed in pre- and post-COVID-19 pandemic years. Contributed to funding proposals and quarterly and annual reports and presented to funders at monthly meetings. Awarded 3-month funding extension to model the post-pandemic reemergence of RSV in Seattle.
+
+## Honors and Awards
 `2023`
 **Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health<br/>
 *For excellence in scientific research in epidemiological modeling with a focus on influenza antigenic evolution and the role of human mobility in COVID-19 disease dynamics.*
@@ -171,12 +193,6 @@ University of California, Santa Barbara, Isla Vista, CA (2011)
 `2009`	
 **Center for Undergraduate Research (CURO) Scholar distinction**, University of Georgia, Athens, GA
 
-`2008`	
-**Elected, Phi Beta Kappa Honors Society**
-
-`2008`
-**NSF Research Experiences for Undergraduates (REU) Internship**, NSF Coweeta Long Term Ecological Research Program, Otto, NC. $3600.
-
 `2007` 	
 **Honors International Scholarship**, University of Georgia Honors Program
 
@@ -195,76 +211,23 @@ Awarded to 200 new students for outstanding achievement in academics. Annual $20
 **Georgia HOPE Scholarship**<br/>
 Merit-based full tuition scholarship awarded to Georgia residents attending in-state universities.
 
-## Seminar Presentations
-
-### Invited Talks
-
-`2024`	
-**Yale School of Public Health**, New Haven, CT. *Impacts of human mobility on the citywide transmission dynamics of respiratory viruses:  Insights from the Seattle Flu Study and high-resolution mobile phone data.*
-
-`2024`
-**Network Science Institute, Northeastern University**, Boston, MA. *Impacts of human mobility on the citywide transmission dynamics of respiratory viruses in pre- and post-COVID-19 pandemic years.*
-
-`2023`
-**U.S. CDC Technical Outreach and Assistance to States (TOAST) Office Hours** (Virtual). *Are changes in population mobility predictive of respiratory virus transmission? Insights from high resolution mobile phone data in the pre- and post-COVID-19 pandemic periods in Seattle, Washington.*
-
-`2023`
-**Pierre Louis Institute of Epidemiology and Public Health, French National Institute of Health and Medical Research (INSERM)**, Paris, France. *Are changes in population mobility predictive of respiratory virus transmission? Insights from high resolution mobile phone data in the pre- and post-COVID-19 pandemic periods in Seattle, Washington.*
-
-`2023` 
-**Infectious Disease Modeling Working Group, World Health Organization** (Virtual). *Antigenic drift and subtype interference shape A/H3N2 epidemic dynamics in the United States.*
-
-`2023` 
-**California Department of Public Health COVID-19 Modeling Team Open House** (Virtual). *A time series approach for short-term forecasts and long-term scenario projections of influenza hospitalizations.*
-
-`2023`
-**NIH NIAID Centers of Excellence for Influenza Research and Response (CEIRR) Computational Modeling Core** (Virtual). *Antigenic drift and subtype interference shape A/H3N2 epidemic dynamics in the United States.*
-
-`2023`
-**Infectious Disease Forecasting Call, organized by U.S. CDC and NIH MIDAS** (Virtual). *Impact of influenza antigenic evolution on A/H3N2 epidemics and vaccine effectiveness in the United States.*
-
-`2023`
-**Center for the Ecology of Infectious Diseases, University of Georgia** (Virtual). *The impact of physical distancing on respiratory pathogen transmission in Seattle, Washington.*
-
-`2021`
-**Influenza Research Group, National Animal Disease Center, U.S. Department of Agriculture** (Virtual). *Impact of influenza antigenic evolution on A/H3N2 vaccine effectiveness in the United States.*
-
-`2018`
-**Fogarty International Center, National Institutes of Health**, Bethesda, MD. *Drivers of gut microbial composition and transmission within and among wild lemur populations.*
-
-`2016`
-**Kirindy Mitea National Park headquarters**, Belo Sur Mer, Madagascar. *Bacteria transmission dynamics among wildlife in Kirindy Mitea National Park.*
-
-`2012`
-**Kirindy Mitea National Park headquarters**, Morondava, Madagascar. *Infectious disease transmission in a wild lemur population.*
-
-### Internal seminars
-
-`2023`
-**Respiratory Virus Interest Group, National Institutes of Health** (Virtual). *The impact of influenza antigenic drift on A/H3N2 vaccine effectiveness in the United States.*
-
-`2019`
-**Influenza Interest Group, National Institutes of Health**, Bethesda, MD. *Impact of influenza antigenic evolution on disease dynamics in the United States.*
-
-`2017`
-**NSF BEACON weekly seminar, The University of Texas at Austin**, Austin, TX. *Gut microbiome diversity across sympatric mammal populations of Madagascar reflects diet, substrate use, and host phylogeny.*
-
-`2016`
-**NSF BEACON weekly seminar, The University of Texas at Austin**, Austin, TX. *Social networks shape the gut microbial communities of wild Verreaux’s sifaka.*
-
-`2015`
-**Department of Integrative Biology, The University of Texas at Austin**, Austin, TX. *Social networks shape the gut microbial communities of wild Verreaux’s sifaka.*
-
 ## Conferences
 
 ### Organization
 `2025`
-Co-organizer, **EpiMob Satellite (Epidemic control: from mobility data to public health), NetSci International Conference on Network Science**, Maastricht, the Netherlands. (upcoming, June 2025)
+Lead Co-organizer, **EpiMob Satellite (Epidemic control: from mobility data to public health), NetSci International Conference on Network Science**, Maastricht, the Netherlands. (upcoming, June 2025)
 
 `2024`
 Co-organizer, **EpiMob Satellite (Epidemic control: from mobility data to public health), NetSci International Conference on Network Science**, Québec City, Canada.
 
-### Talks
+### Panels
+`2022`
+**Invited Panelist, *Reflections on COVID-19"***, NIH Modeling of Infectious Disease Agent Study (MIDAS) Annual Meeting, Bethesda, MD.
+
+### Oral presentations
+`2025`
+**NetSci International Conference on Network Science**, Maastricht, the Netherlands. *Modelling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington* (upcoming, June 2025)
+
 `2024`	
 **NetSci International Conference on Network Science**, Québec City, Canada. *Impacts of human mobility on the citywide transmission dynamics of respiratory viruses in pre- and post-COVID-19 pandemic years.*
 
@@ -304,8 +267,7 @@ Co-organizer, **EpiMob Satellite (Epidemic control: from mobility data to public
 `2016`
 **NSF BEACON Annual Congress**, Michigan State University, East Lansing, MI. *Social network structure shapes gut microbial communities in wild Verreaux’s sifaka.*
 
-### Posters
-
+### Poster presentations
 `2020`
 **European Scientific Working group on Influenza (ESWI) Conference** (Virtual). *Impact of influenza antigenic evolution on disease dynamics in the United States.*
 
@@ -321,20 +283,75 @@ Co-organizer, **EpiMob Satellite (Epidemic control: from mobility data to public
 `2015`
 **Epidemics<sup>5</sup> International Conference on Infectious Disease Dynamics**, Clearwater Beach, FL. *Social network structure shapes gut microbial communities in wild Verreaux’s sifaka.*
 
-## Teaching and mentoring experience
+## Seminar Presentations
+### Invited Talks
+`2024`	
+**Yale School of Public Health**, New Haven, CT. *Impacts of human mobility on the citywide transmission dynamics of respiratory viruses:  Insights from the Seattle Flu Study and high-resolution mobile phone data.*
 
+`2024`
+**Network Science Institute, Northeastern University**, Boston, MA. *Impacts of human mobility on the citywide transmission dynamics of respiratory viruses in pre- and post-COVID-19 pandemic years.*
+
+`2023`
+**U.S. CDC Technical Outreach and Assistance to States (TOAST) Office Hours** (Virtual). *Are changes in population mobility predictive of respiratory virus transmission? Insights from high resolution mobile phone data in the pre- and post-COVID-19 pandemic periods in Seattle, Washington.*
+
+`2023`
+**Pierre Louis Institute of Epidemiology and Public Health, French National Institute of Health and Medical Research (INSERM)**, Paris, France. *Are changes in population mobility predictive of respiratory virus transmission? Insights from high resolution mobile phone data in the pre- and post-COVID-19 pandemic periods in Seattle, Washington.*
+
+`2023` 
+**Infectious Disease Modeling Working Group, World Health Organization** (Virtual). *Antigenic drift and subtype interference shape A/H3N2 epidemic dynamics in the United States.*
+
+`2023` 
+**California Department of Public Health COVID-19 Modeling Team Open House** (Virtual). *A time series approach for short-term forecasts and long-term scenario projections of influenza hospitalizations.*
+
+`2023`
+**NIH NIAID Centers of Excellence for Influenza Research and Response (CEIRR) Computational Modeling Core** (Virtual). *Antigenic drift and subtype interference shape A/H3N2 epidemic dynamics in the United States.*
+
+`2023`
+**U.S. CDC Infectious Disease Forecasting Call** (Virtual). *Impact of influenza antigenic evolution on A/H3N2 epidemics and vaccine effectiveness in the United States.*
+
+`2023`
+**Center for the Ecology of Infectious Diseases, University of Georgia** (Virtual). *The impact of physical distancing on respiratory pathogen transmission in Seattle, Washington.*
+
+`2021`
+**Influenza Research Group, National Animal Disease Center, U.S. Department of Agriculture** (Virtual). *Impact of influenza antigenic evolution on A/H3N2 vaccine effectiveness in the United States.*
+
+`2018`
+**Fogarty International Center, National Institutes of Health**, Bethesda, MD. *Drivers of gut microbial composition and transmission within and among wild lemur populations.*
+
+`2016`
+**Kirindy Mitea National Park headquarters**, Belo Sur Mer, Madagascar. *Bacteria transmission dynamics among wildlife in Kirindy Mitea National Park.*
+
+`2012`
+**Kirindy Mitea National Park headquarters**, Morondava, Madagascar. *Infectious disease transmission in a wild lemur population.*
+
+### Internal seminars
+`2023`
+**Respiratory Virus Interest Group, National Institutes of Health** (Virtual). *The impact of influenza antigenic drift on A/H3N2 vaccine effectiveness in the United States.*
+
+`2019`
+**Influenza Interest Group, National Institutes of Health**, Bethesda, MD. *Impact of influenza antigenic evolution on disease dynamics in the United States.*
+
+`2017`
+**NSF BEACON weekly seminar, The University of Texas at Austin**, Austin, TX. *Gut microbiome diversity across sympatric mammal populations of Madagascar reflects diet, substrate use, and host phylogeny.*
+
+`2016`
+**NSF BEACON weekly seminar, The University of Texas at Austin**, Austin, TX. *Social networks shape the gut microbial communities of wild Verreaux’s sifaka.*
+
+`2015`
+**Department of Integrative Biology, The University of Texas at Austin**, Austin, TX. *Social networks shape the gut microbial communities of wild Verreaux’s sifaka.*
+
+## Teaching and mentoring experience
 ### Student mentoring
 `Jun 2024`
-**Tutor, Complexity 72h: Interdisciplinary workshop for young researchers in complex systems**, *Carlos III University de Madrid*, Spain.<br/>
-Led and mentored a team of 5 graduate students in carrying out a research project within 3 days (i.e., 72h). Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses.”
+**Tutor, [Complexity 72h](https://complexity72h.com/): *Interdisciplinary workshop for young researchers in complex systems***, Carlos III University de Madrid, Spain<br/>
+Led a team of 5 graduate students in carrying out a research project within 3 days (i.e., 72h). Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses.” [*medRxiv* preprint](https://doi.org/10.1101/2024.09.13.24313667)
 
-`Jun – Jul 2016`
-**Master’s student mentoring in primate field ecology**, *Department of Animal Biology, University of Antananarivo*, Madagascar.<br/>
-Trained Safidy Rasolonjatovo in field research techniques, data collection, and specimen preservation. Guided an independent project on sifaka scent marking behavior in Kirindy Mitea National Park, Madagascar.
-
-`Jun – Aug 2012`
-**Master’s student mentoring in primate field ecology**, *Department of Animal Biology, University of Antananarivo*, Madagascar.<br/> 
-Trained Elvis Rakotomalala in field research techniques, data collection, and specimen preservation. Guided an independent project on *Lepilemur* tree hole characteristics in Kirindy Mitea National Park, Madagascar.
+**Master’s student mentoring in primate field ecology**, Department of Animal Biology, University of Antananarivo, Madagascar<br/>
+Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
+`Summer 2016`
+Safidy Rasolonjatovo: Verreaux's sifaka scent marking behavior<br/>
+`Summer 2012`
+Elvis Rakotomalala: *Lepilemur* tree hole characteristics ([Publication](https://doi.org/10.1159/000464406))
 
 ### Short courses
 `Sep 2019`
@@ -346,11 +363,11 @@ Trained Elvis Rakotomalala in field research techniques, data collection, and sp
 ### Assistant Teaching
 `Fall 2016, Fall 2017`
 **Scientific Inquiry Across Disciplines**, University of Texas at Austin, Austin, TX.<br/>
-Instructor: Katie Hampson
+Instructor: Katie Hansen, Assistant Professor of Practice, Freshman Research Initiative
 
 `Spring 2013`
 **Social Networks and Infectious Diseases**, University of Texas at Austin, Austin, TX.<br/>
-Instructor: Lauren Ancel Meyers
+Instructor: Lauren Ancel Meyers, Professor, Departments of Integrative Biology, Statistics & Data Sciences, and Population Health
 
 ### Guest Lectures
 `Nov 2015`
@@ -362,7 +379,7 @@ Center for Computational Biology and Bioinformatics, University of Texas at Aust
 Center for Computational Biology and Bioinformatics, University of Texas at Austin, Austin, TX.
 
 ### Professional training
-`Mar - May 2020`
+`2020`
 **Scientists Teaching Science**, *National Institutes of Health*, Virtual.<br/>
 Completed 9-week pedagogy course on best practices for teaching and learning in STEM subjects at the undergraduate level.
 
@@ -371,59 +388,63 @@ Completed 9-week pedagogy course on best practices for teaching and learning in 
 **Working group on the use of human mobility data in infectious disease modeling**, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD.
 
 `Nov 2022 – Aug 2024`
-**Coordinated and led monthly Seattle Flu Study Data Analysis meetings**, Brotman Baty Institute for Precision Medicine, University of Washington, Seattle, WA.
-
-`2022`
-**Invited Panelist, "Reflections on COVID-19"**, NIH MIDAS Annual Meeting, Bethesda, MD.
+**Coordinated and led monthly [Seattle Flu Study](https://seattleflu.org/) Data Analysis meetings**, Brotman Baty Institute for Precision Medicine, University of Washington.
 
 `2022, 2023, 2024`
-**Abstract reviewer**, NIH MIDAS Annual Meeting.
+**Abstract reviewer**, NIH Modeling of Infectious Disease Agent Study (MIDAS) Annual Meetings
 
 `Feb 2020`
 **Poster Judge**, NIH Annual Graduate Student Research Symposium, Bethesda, MD.
 
 `Oct 2019 – Jul 2021`
-**Essay editor, *Science Policy for All***.<br/>
+**Policy essay editor**, [*Science Policy for All*](https://www.linkedin.com/in/scipolicyforall/recent-activity/all/?trk=article-ssr-frontend-pulse_more-articles).<br/>
 Policy blog with contributors from the Washington, DC area.
 
 `Feb 2017`
-**Invited Panelist, NSF BEACON Public Engagement Workshop**, University of Texas at Austin, Austin, TX.
+**Invited Panelist**, [NSF BEACON Public Engagement Workshop](https://guides.lib.utexas.edu/c.php?g=631094&p=5639699), University of Texas at Austin, Austin, TX.
 
 **Ad-hoc peer review** (select journals): *American Journal of Epidemiology, American Journal of Primatology, Animal Behaviour, BMJ Global Health, Ecology and Evolution, Epidemics, The ISME Journal, Molecular Ecology, Nature Communications, Nature Physics, PLOS Computational Biology, PNAS Nexus*
 
 ## Science communication and outreach
 `Apr 2024`
-***Elife* podcast interview**, *Flu virus evolution: Combining antibody responses and genetic data can help gauge the threats posed by evolving flu strains.*
+***Elife* podcast interview**, [*Flu virus evolution: Combining antibody responses and genetic data can help gauge the threats posed by evolving flu strains.*](https://elifesciences.org/podcast/episode92#1373)
 
 `Jun 2021`
-***Science Policy for All* blogpost**, *Can the United States achieve herd immunity? Vaccine mandates and other policies to increase COVID-19 vaccination.*
+***Science Policy for All* blogpost**, [*Can the United States achieve herd immunity? Vaccine mandates and other policies to increase COVID-19 vaccination.*](https://sciencepolicyforall.wordpress.com/2021/06/10/can-the-united-states-achieve-herd-immunity-vaccine-mandates-and-other-policies-to-increase-covid-19-vaccination/)
 
 `May 2020`
-***Science Policy for All* blogpost**, *The Use of COVID-19 Prediction Models in Guiding Policy Decisions.*
+***Science Policy for All* blogpost**, [*The Use of COVID-19 Prediction Models in Guiding Policy Decisions.*](https://sciencepolicyforall.wordpress.com/2020/05/22/the-use-of-covid-19-prediction-models-in-guiding-policy-decisions/)
 
 `Oct 2019 – Jul 2021`
 **Member, National Institutes of Health Science Policy Discussion Group**, Bethesda, MD.<br/>
-Biweekly seminar series for early-career scientists focused on the intersection of scientific research and legislative policy. Delivered science policy presentations, invited two guest speakers, and wrote and edited articles for the “Science Policy for All” blog.
+Biweekly seminar series for early-career scientists focused on the intersection of scientific research and legislative policy. Delivered science policy presentations, invited two guest speakers, and wrote and edited articles for the [*Science Policy for All*](https://www.linkedin.com/in/scipolicyforall/) blog.
 
 `Feb 2018`
 **Selected speaker, American Association for the Advancement of Science (AAAS) Classroom Science Days**,  Austin, TX.<br/>
-Outreach lecture ("Meet the Lemurs") to middle school students. AAAS article
+Outreach lecture *Meet the Lemurs* to middle school students. [AAAS coverage](https://www.aaas.org/news/aaas-connects-scientists-and-students-classroom-science-days)
+
+`2016-2017`
+**Member, Austin Science Advocates**, University of Texas at Austin, Austin, TX.<br/>
+Student group aimed at improving communication between scientists, the public, and policymakers.
 
 `Nov 2016`
-**Public outreach lecture ("Meet the Lemurs"), Science Under the Stars**, Brackenridge Field Laboratory, Austin, TX. *Daily Texan* coverage
+**Public outreach lecture *Meet the Lemurs*, Science Under the Stars**, Brackenridge Field Laboratory, Austin, TX. [*Daily Texan* coverage](https://thedailytexan.com/2016/11/14/science-under-the-stars-lecture-features-lemurs/)
 
 `Mar 2016`
-**NSF BEACON “Researchers at Work” essay**, *How lemur social networks shape microbial transmission.*
+**NSF BEACON “Researchers at Work” essay**, [*How lemur social networks shape microbial transmission.*](https://www3.beacon-center.org/blog/2016/03/14/how-lemur-social-networks-shape-microbial-transmission/)
 
 `Jan 2011 – May 2018`
-**Radio DJ and Science Talk Show Co-host, They Blinded Me with Science, KVRX 91.7FM**, University of Texas at Austin, Austin, TX.<br/>
+**Radio DJ and Science Talk Show Co-host, [*They Blinded Me with Science*](https://www.facebook.com/tbmwskvrx), [KVRX 91.7FM](https://kvrx.org/app/)**, University of Texas at Austin, Austin, TX.<br/>
 Co-hosted weekly educational talk show that interviewed UT-based and visiting researchers and reviewed science publications and news. Recruited guests, conducted interviews, and produced podcasts.
 
 `Jan 2011 – May 2017`
-**Co-organizer and Volunteer, Science Under the Stars**, Brackenridge Field Laboratory, Austin, TX.<br/>
+**Co-organizer and Volunteer, [Science Under the Stars](https://scienceunderthestars.org/)**, Brackenridge Field Laboratory, Austin, TX.<br/>
 Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.
 
 ## Memberships
+
+`2024-present`
+Women in Network Science
 
 `2023-present`
 The Network Science Society (NetSci)

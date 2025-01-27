@@ -208,38 +208,37 @@ strong {
     margin-bottom: 0.7em;    /* Reduced from 1em */
 }
 
-/* Preprints counter */
-.publications.preprints {
-    counter-reset: preprint-counter;
+.publications.preprints,
+.publications.articles {
+    counter-reset: preprint-counter article-counter;
 }
 
-.publications.preprints li {
-    counter-increment: preprint-counter;
+.publications.preprints li,
+.publications.articles li {
+    counter-increment: preprint-counter article-counter;
+    position: relative;
+    padding-left: 2.5em;
+    text-indent: -2.5em;
 }
 
 .publications.preprints li:before {
-    content: counter(preprint-counter) ".";
+    content: counter(preprint-counter, decimal) ". ";
+    position: absolute;
+    left: 0;
     display: inline-block;
     width: 2em;
-    margin-right: 0.5em;
     text-align: right;
-}
-
-/* Journal articles counter */
-.publications.articles {
-    counter-reset: article-counter;
-}
-
-.publications.articles li {
-    counter-increment: article-counter;
+    margin-right: 0.5em;
 }
 
 .publications.articles li:before {
-    content: counter(article-counter) ".";
+    content: counter(article-counter, decimal) ". ";
+    position: absolute;
+    left: 0;
     display: inline-block;
     width: 2em;
-    margin-right: 0.5em;
     text-align: right;
+    margin-right: 0.5em;
 }
 
 /* Print-specific rules */

@@ -154,16 +154,23 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
-	position: relative;
-	left: 25%;
-	color: #bc412b;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 100%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    position: relative;
+    left: 15%; /* Align with reduced margin */
+    color: #a00; /* Match the section heading color */
+    font-family: Monaco, Menlo, monospace, sans-serif;
+    font-size: 90%;
 }
 
 #webaddress a {
-	text-decoration: none;
+    color: #a00; /* Match section heading red color */
+    text-decoration: none;
+}
+
+#webaddress a:hover {
+    color: #a00; /* Keep red color on hover */
+    text-decoration: underline;
 }
 
 em {

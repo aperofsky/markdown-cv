@@ -137,9 +137,8 @@ strong {
 .publications {
     list-style-type: none; /* Remove bullet points */
     counter-reset: publication-counter; /* Reset numbering */
-    margin-top: 0em; /* Remove top margin between sections */
-    margin-bottom: 0em; /* Ensure no gap below */
-    padding-left: 0; /* Align list to the left edge */
+    margin: 0; /* Remove all margins */
+    padding: 0; /* Remove all padding */
     page-break-inside: avoid; /* Prevent splitting list across pages */
 }
 
@@ -163,8 +162,8 @@ strong {
 
 /* Remove any gap between preprints and journal articles */
 .publications + .publications {
-    margin-top: 0em; /* Ensure no top margin between subsequent sections */
-    padding-top: 0em;
+    margin-top: 0; /* No top margin between sections */
+    padding-top: 0; /* No padding */
 }
 
 /* Prevent page breaks in publications */
@@ -179,6 +178,12 @@ strong {
 /* Ensure headings stay together */
 h2, h3 {
     page-break-after: avoid;
+}
+
+/* Force page break removal between sections */
+h2 + .publications {
+    page-break-before: auto; /* Avoid breaking before publications */
+    margin-top: 0; /* Prevent added space */
 }
 
 /* Print-specific rules */

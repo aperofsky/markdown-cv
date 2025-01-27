@@ -64,9 +64,9 @@ Supervisor: Andrew Park, Professor
 *Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=8K-upW0AAAAJ&hl). † = shared first authorship.*
 
 ### Published preprints
-<ul class="publications">
+<ul class="publications preprints">
 <li>Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, L.A. Frisbie, H. Xie, K. Kong, A. Weixler, A.L. Greninger, P. Roychoudhury, J.M. Peterson, A. Delgado, H. Halstead, D. MacKellar, P. Dykema, L. Gamboa, C.D. Frazar, E. Ryke, J. Stone, D. Reinhart, L. Starita, A. Thibodeau, C. Yun, F. Aragona, A. Black, C. Viboud, & T. Bedford. (2024) **Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences.** _medRxiv_ 2024.05.24.24307811. doi: [10.1101/2024.05.24.24307811](https://doi.org/10.1101/2024.05.24.24307811). (In press, *Nature*)</li>
-
+  
 <li>Kostandova, N., R. Corgel, S. Bansal, S. Bérubé, E. Cleary, C. Hansen, M.D.T. Hitchings, B. García-Carreras, L. Gardner, M.U.G. Kraemer, S. Lai, Y. Li, **A.C. Perofsky**, G. Pullano, J.M. Read, G. Ribeiro dos Santos, H. Salje, S. Takahashi, C. Viboud, J. Wang, D.A.T. Cummings, & A. Wesolowski. (2024) **Data and model needs for generalizable inferences linking human mobility and infectious disease transmission.** [OSF Preprint](https://osf.io/y9mzd/download) (In press, *Nature Human Behavior*)</li>
 
 <li>Hansen, C. L., Lee, L., Bents, S. J., **Perofsky, A. C.**, Sun, K., Starita, L. M., Adler, A., Englund, J. A., Chow, E. J., Chu, H. Y., & Viboud, C. (2024) **Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025.** _medRxiv_ 2024.12.13.24319008. doi: [10.1101/2024.12.13.24319008](https://doi.org/10.1101/2024.12.13.24319008) (In review, *JAMA Network Open*)</li>
@@ -75,7 +75,7 @@ Supervisor: Andrew Park, Professor
 </ul>
 
 ### Journal articles
-<ul class="publications">
+<ul class="publications articles">
 <li>**Perofsky, A.C.**, J. Huddleston, C. Hansen, J.R. Barnes, T. Rowe, X. Xu, R. Kondor, D.E. Wentworth, N. Lewis, L. Whittaker, B. Ermetal, R. Harvey, M. Galiano, R. Stuart Daniels, J.W. McCauley, S. Fujisaki, K. Nakamura, N. Kishida, S. Watanabe, H. Hasegawa, S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, & C. Viboud. (2024) **Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States.** _eLife_ 13:RP91849 doi: [10.7554/eLife.91849](https://doi.org/10.7554/eLife.91849).</li>
 
 <li>Mathis, S.M., A.E. Webber, ... **A.C. Perofsky**, ... M. Biggerstaff, & R.K. Borchering (110 authors). (2024) **Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations.** _Nature Communications_, 15, 6289. doi: [10.1038/s41467-024-50601-9](https://doi.org/10.1038/s41467-024-50601-9).</li>

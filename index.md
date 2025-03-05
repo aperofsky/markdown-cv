@@ -63,13 +63,12 @@ Supervisor: Andrew Park
 Elias-Warren, A., J.C. Bennett, ... <strong>A.C. Perofsky</strong>, ... H.Y. Chu. (2025) <strong>Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, WA, USA.</strong> (Submitted, <em>JID</em>)
 
 Tran-Kiem, C., M.I. Paredes, <strong>A.C. Perofsky</strong>, ... A. Black, C. Viboud, & T. Bedford. (2024) <strong>Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences.</strong> <em>medRxiv</em> 2024.05.24.24307811. doi: <a href="https://doi.org/10.1101/2024.05.24.24307811">10.1101/2024.05.24.24307811</a>. (In press, <em>Nature</em>)
-  
+
 Kostandova, N., R. Corgel, ... <strong>A.C. Perofsky</strong>, ... D.A.T. Cummings, & A. Wesolowski. (2024) <strong> Data and model needs for generalizable inferences linking human mobility and infectious disease transmission.</strong> <a href="https://osf.io/y9mzd/download">OSF Preprint</a>. (In press, <em>Nature Human Behavior</em>)
 
 Hansen, C. L., L. Lee, S.J. Bents, <strong>A.C. Perofsky</strong>, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2024) <strong>Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025.</strong> <em>medRxiv</em> 2024.12.13.24319008. doi: <a href="https://doi.org/10.1101/2024.12.13.24319008">10.1101/2024.12.13.24319008</a>. (In revision, <em>JAMA Network Open</em>)
 
 Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) <strong>Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington.</strong> <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report, in prep for submission)
-</ul>
 
 ### Journal articles
 <strong>Perofsky, A.C.</strong>, J. Huddleston, ... S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, & C. Viboud. (2024) <strong>Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States.</strong> <em>eLife</em> 13:RP91849. doi: <a href="https://doi.org/10.7554/eLife.91849">10.7554/eLife.91849</a>.
@@ -101,7 +100,6 @@ Viboud, C., K. Gostic, M.I. Nelson, G.E. Price, <strong>A. Perofsky</strong>, K.
 Rakotomalala, E.J., F. Rakotondraparany, <strong>A.C. Perofsky</strong>, & R.J. Lewis. (2017) <strong>Characterization of the tree holes used by <em>Lepilemur ruficaudatus</em> in the dry, deciduous forest of Kirindy Mitea National Park.</strong> <em>Folia Primatologica</em> 88:28-41. doi: <a href="https://doi.org/10.1159/000464406">10.1159/000464406</a>.
 
 Berry, B.S.†, K. Magori†, <strong>A.C. Perofsky</strong>, D.E. Stallknecht, & A.W. Park. (2013) <strong>Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States.</strong> <em>Journal of Wildlife Diseases</em> 49(3):501-509. doi: <a href="https://doi.org/10.7589/2012-11-283">10.7589/2012-11-283</a>.
-</ul>
 
 ## Research Funding
 ### Fellowships
@@ -145,12 +143,12 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 **BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program, $2M<br/>
 "Collaborative technology development, and analyses to support genetic epidemiology in Washington State"<br/>
 PIs: Lea Starita (UW) and Trevor Bedford (Fred Hutch)<br/>
-Role: <ins>Epidemiology Lead</ins>.
+Role: <ins>Epidemiology Lead</ins>
 
 `2021-2022`
 **Seattle Flu Study and Seattle Coronavirus Assessment Network**, Gates Ventures, $11.6M<br/>
 PIs: Trevor Bedford, Michael Boeckh, Helen Chu, Janet Englund, Tina Lockwood, Barry Lutz, Jay Shendure, Lea Starita, Cécile Viboud, Alpana Waghmare<br/>
-Role: <ins>Staff Scientist</ins>.
+Role: <ins>Staff Scientist</ins>
 
 ## Honors and Awards
 ### Postgraduate

@@ -19,7 +19,7 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 
 `2009`
 **B.Sc., Biology, B.Sc., Ecology**, University of Georgia, Athens, GA, USA.<br/>
-*Summa cum laude* with Highest Honors, Phi Beta Kappa
+*Summa cum laude* with Highest Honors
 
 ## Research Experience
 `Apr 2021–present`
@@ -180,6 +180,9 @@ Role: Staff Scientist
 `2009`	
 **Center for Undergraduate Research (CURO) Scholar distinction**, University of Georgia
 
+`2008`
+Inducted, **Phi Beta Kappa**
+
 `2007` 	
 **Honors International Scholarship**, University of Georgia Honors Program
 
@@ -331,7 +334,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 `Jun 2024`
 **Tutor, [Complexity 72h](https://complexity72h.com/): *Interdisciplinary workshop for young researchers in complex systems***, Carlos III University de Madrid, Spain. Led a team of 5 graduate students in carrying out a research project within 3 days (i.e., 72h). Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses.” [*medRxiv* preprint](https://doi.org/10.1101/2024.09.13.24313667)
 
-`Summer 2012, Summer 2016`
+`Summer 2012, 2016`
 **Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo, Madagascar**. Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
 2012: Elvis Rakotomalala, [_Lepilemur_ tree hole characteristics](https://doi.org/10.1159/000464406); 2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior
 
@@ -343,7 +346,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 **Co-Instructor, Fogarty International Center-NICD Training Workshop on Infectious Disease Dynamics and Evolution**, National Institutes of Communicable Diseases, Johannesburg, South Africa.
 
 ### Assistant teaching
-`Fall 2016, Fall 2017`
+`Fall 2016, 2017`
 **Scientific Inquiry Across Disciplines**, University of Texas at Austin<br/>
 Instructor: Katie Hansen, Assistant Professor of Practice
 

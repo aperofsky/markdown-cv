@@ -64,14 +64,13 @@ Elias-Warren, A., J.C. Bennett, ... <strong>A.C. Perofsky</strong>, ... H.Y. Chu
 
 Hansen, C. L., L. Lee, S.J. Bents, <strong>A.C. Perofsky</strong>, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2024) Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025. <em>medRxiv</em> 2024.12.13.24319008. doi: <a href="https://doi.org/10.1101/2024.12.13.24319008">10.1101/2024.12.13.24319008</a>. (In revision, <em>JAMA Network Open</em>)
 
-Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington. <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report)
-
-### Manuscripts in press
-Tran-Kiem, C., M.I. Paredes, <strong>A.C. Perofsky</strong>, ... A. Black, C. Viboud, & T. Bedford. (2024) Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences. <em>medRxiv</em> 2024.05.24.24307811. doi: <a href="https://doi.org/10.1101/2024.05.24.24307811">10.1101/2024.05.24.24307811</a>. (In press, <em>Nature</em>)
-
 Kostandova, N., R. Corgel, ... <strong>A.C. Perofsky</strong>, ... D.A.T. Cummings, & A. Wesolowski. (2024)  Data and model needs for generalizable inferences linking human mobility and infectious disease transmission. <a href="https://osf.io/y9mzd/download">OSF Preprint</a>. (In press, <em>Nature Human Behavior</em>)
 
+Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington. <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report)
+
 ### Journal articles
+Tran-Kiem, C., M.I. Paredes, <strong>A.C. Perofsky</strong>, ... C. Viboud, & T. Bedford. (2024) Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences. <em>Nature</em>. doi: <a href="https://doi.org/10.1038/s41586-025-08637-4">10.1038/s41586-025-08637-4</a>.
+
 <strong>Perofsky, A.C.</strong>, J. Huddleston, ... S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, & C. Viboud. (2024) Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States. <em>eLife</em> 13:RP91849. doi: <a href="https://doi.org/10.7554/eLife.91849">10.7554/eLife.91849</a>.
 
 Mathis, S.M., A.E. Webber, ... <strong>A.C. Perofsky</strong>, ... M. Biggerstaff, & R.K. Borchering (110 authors). (2024) Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations. <em>Nature Communications</em>, 15, 6289. doi: <a href="https://doi.org/10.1038/s41467-024-50601-9">10.1038/s41467-024-50601-9</a>.
@@ -138,7 +137,8 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis
 
 ### Contributions to other grants (non PI-status)
 `2022-2024`
-**BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program, $2M<br/> "Collaborative technology development, and analyses to support genetic epidemiology in Washington State" PIs: Lea Starita and Trevor Bedford<br/>
+**BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program, $2M<br/> "Collaborative technology development, and analyses to support genetic epidemiology in Washington State"<br/> 
+PIs: Lea Starita and Trevor Bedford<br/>
 Role: Epidemiology Lead
 
 `2021-2022`
@@ -147,7 +147,6 @@ PIs: Trevor Bedford, Michael Boeckh, Helen Chu, Janet Englund, Tina Lockwood, Ba
 Role: Staff Scientist
 
 ## Honors and Awards
-### Postgraduate
 `2023`
 **Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health. "For excellence in scientific research in epidemiological modeling with a focus on influenza antigenic evolution and the role of human mobility in COVID-19 disease dynamics."
 
@@ -160,7 +159,6 @@ Role: Staff Scientist
 `2019`
 **Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health. "For outstanding efforts to forecast weekly influenza-like illness activity in 27 U.S. military facilities in collaboration with DoD."
 
-### Graduate
 `2017, 2018`	
 **Graduate School Summer Semester Continuing Fellowship**, University of Texas at Austin
 
@@ -179,7 +177,6 @@ Role: Staff Scientist
 `2010, 2011`
 **Scholarship and Travel Award, Ecology and Evolution of Infectious Diseases (EEID) Conference Workshop**. Cornell University, Ithaca, NY (2010) and University of California, Santa Barbara, Isla Vista, CA (2011)
 
-### Undergraduate
 `2009`	
 **Center for Undergraduate Research (CURO) Scholar distinction**, University of Georgia
 
@@ -334,10 +331,9 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 `Jun 2024`
 **Tutor, [Complexity 72h](https://complexity72h.com/): *Interdisciplinary workshop for young researchers in complex systems***, Carlos III University de Madrid, Spain. Led a team of 5 graduate students in carrying out a research project within 3 days (i.e., 72h). Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses.” [*medRxiv* preprint](https://doi.org/10.1101/2024.09.13.24313667)
 
-`2012, 2016`
+`Summer 2012, Summer 2016`
 **Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo, Madagascar**. Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
-- Summer 2012: Elvis Rakotomalala, [_Lepilemur_ tree hole characteristics](https://doi.org/10.1159/000464406)
-- Summer 2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior
+2012: Elvis Rakotomalala, [_Lepilemur_ tree hole characteristics](https://doi.org/10.1159/000464406); 2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior
 
 ### Short courses
 `Sep 2019`

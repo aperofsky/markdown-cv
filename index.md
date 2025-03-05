@@ -59,13 +59,15 @@ Supervisor: Andrew Park
 ## Publications
 *Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=8K-upW0AAAAJ&hl).* † = shared first authorship.
 
-### Published preprints
+### Preprints and submitted manuscripts
 <ul class="publications preprints">
+<li>Elias-Warren, A., J.C. Bennett, ... <strong>A.C. Perofsky</strong>, ... H.Y. Chu. (2025) <strong>Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, WA, USA.</strong> (Submitted, <em>JID</em>)
+
 <li>Tran-Kiem, C., M.I. Paredes, <strong>A.C. Perofsky</strong>, ... A. Black, C. Viboud, & T. Bedford. (2024) <strong>Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences.</strong> <em>medRxiv</em> 2024.05.24.24307811. doi: <a href="https://doi.org/10.1101/2024.05.24.24307811">10.1101/2024.05.24.24307811</a>. (In press, <em>Nature</em>)</li>
   
-<li>Kostandova, N., R. Corgel, ... <strong>A.C. Perofsky</strong>, ... D.A.T. Cummings, & A. Wesolowski. (2024) <strong>Data and model needs for generalizable inferences linking human mobility and infectious disease transmission.</strong> doi: <a href="https://osf.io/y9mzd/download">OSF Preprint</a>. (In press, <em>Nature Human Behavior</em>)</li>
+<li>Kostandova, N., R. Corgel, ... <strong>A.C. Perofsky</strong>, ... D.A.T. Cummings, & A. Wesolowski. (2024) <strong> Data and model needs for generalizable inferences linking human mobility and infectious disease transmission.</strong> <a href="https://osf.io/y9mzd/download">OSF Preprint</a>. (In press, <em>Nature Human Behavior</em>)</li>
 
-<li>Hansen, C. L., Lee, L., Bents, S. J., <strong>Perofsky, A. C.</strong>, Sun, K., Starita, L. M., Adler, A., Englund, J. A., Chow, E. J., Chu, H. Y., & Viboud, C. (2024) <strong>Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025.</strong> <em>medRxiv</em> 2024.12.13.24319008. doi: <a href="https://doi.org/10.1101/2024.12.13.24319008">10.1101/2024.12.13.24319008</a>. (In review, <em>JAMA Network Open</em>)</li>
+<li>Hansen, C. L., L. Lee, S.J. Bents, <strong>A.C. Perofsky</strong>, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2024) <strong>Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025.</strong> <em>medRxiv</em> 2024.12.13.24319008. doi: <a href="https://doi.org/10.1101/2024.12.13.24319008">10.1101/2024.12.13.24319008</a>. (In revision, <em>JAMA Network Open</em>)</li>
 
 <li>Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) <strong>Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington.</strong> <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report, in prep for submission)</li>
 </ul>
@@ -209,7 +211,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 ## Conferences
 ### Organization
 `2025`
-**Lead Co-organizer**, [EpiMob Satellite ("Epidemic control: from mobility data to public health")](https://epimob.weebly.com/), NetSci International Conference on Network Science, Maastricht, the Netherlands. (upcoming, June 2025)
+**Co-organizer**, [EpiMob Satellite ("Epidemic control: from mobility data to public health")](https://epimob.weebly.com/), NetSci International Conference on Network Science, Maastricht, the Netherlands. (upcoming, June 2025)
 
 `2024`
 **Co-organizer**, [EpiMob Satellite ("Epidemic control: from mobility data to public health")](https://epimob.weebly.com/), NetSci International Conference on Network Science, Québec City, Canada.

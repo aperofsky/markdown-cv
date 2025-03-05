@@ -52,7 +52,7 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 100%;
-	line-height: 1.5em;
+	line-height: 1.3em;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
@@ -130,7 +130,7 @@ h2 {
 
 h3 {
 	font-size: 1.1em;
-	line-height: 1.5em;
+	line-height: 1.3em;
 	color: #444;
 	position: relative;
 	top: 1.7em;
@@ -203,7 +203,7 @@ li strong {
     list-style-type: none;
     margin-bottom: 1.5em;
     font-size: 0.95em;
-    line-height: 1.5em; /* Ensure enough spacing */
+    line-height: 1.3em; /* Ensure enough spacing */
     margin-left: 0; /* Align with the main heading */
     padding-left: 0; /* Remove unnecessary padding */
 }
@@ -220,7 +220,7 @@ li strong {
     position: relative; /* Allow absolute positioning for :before */
     padding-left: 2.5em; /* Slight indentation for numbers */
     text-indent: 0; /* Reset text indentation */
-    line-height: 1.5em; /* Ensure readability */
+    line-height: 1.3em; /* Ensure readability */
 }
 
 .publications.preprints li:before {
@@ -240,7 +240,7 @@ li strong {
     position: relative;
     padding-left: 2.5em; /* Same as preprints */
     text-indent: 0;
-    line-height: 1.5em;
+    line-height: 1.3em;
 }
 
 .publications.articles li:before {

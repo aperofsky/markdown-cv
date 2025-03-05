@@ -147,12 +147,12 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 **BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program, $2M<br/>
 "Collaborative technology development, and analyses to support genetic epidemiology in Washington State"<br/>
 PIs: Lea Starita (UW) and Trevor Bedford (Fred Hutch)<br/>
-Role: <ins>Epidemiology Lead</ins>. Created public real-time dashboard of [SARS-CoV-2 variant forecasts](https://seattleflu.org/sars-cov-2-forecasts). Led research aim linking demographic and behavioral data to SARS-CoV-2 and endemic virus transmission. Contributed to quarterly reports and presented to CDC program officers.
+Role: <ins>Epidemiology Lead</ins>.
 
 `2021-2022`
 **Seattle Flu Study and Seattle Coronavirus Assessment Network**, Gates Ventures, $11.6M<br/>
 PIs: Trevor Bedford, Michael Boeckh, Helen Chu, Janet Englund, Tina Lockwood, Barry Lutz, Jay Shendure, Lea Starita, Cécile Viboud, Alpana Waghmare<br/>
-Role: <ins>Staff Scientist</ins>. Led research aim linking human mobility to transmission dynamics of endemic respiratory viruses and SARS-CoV-2. Contributed to grant proposals and quarterly and annual reports and presented to funders at monthly meetings. Awarded 3-month funding extension to model the post-pandemic reemergence of RSV in Seattle.
+Role: <ins>Staff Scientist</ins>.
 
 ## Honors and Awards
 ### Postgraduate

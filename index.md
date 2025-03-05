@@ -115,15 +115,13 @@ Berry, B.S.†, K. Magori†, <strong>A.C. Perofsky</strong>, D.E. Stallknecht, 
 ### Grants
 `2018`
 **Research Exchange Grant**, NSF Infectious Disease Evolution Across Scales Research Coordination Network, $2800<br/>
-"How does influenza evolution impact the epidemiology of annual epidemics?" 
 
 `2015`
 **Research Grant DBI-0939454**, BEACON: An NSF Science and Technology Center for the Study of Evolution in Action, $16,000 <br/>
-"Factors that influence gut microbiota diversity and intestinal bacteria transmission dynamics in wild lemurs" Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
+Co-PI with Lauren Ancel Meyers and Rebecca Lewis
 
 `2015`
 **Dissertation Improvement Grant**, Ecology, Evolution, & Behavior Graduate Program, University of Texas at Austin, $8000<br/>
-"A network-based study of gut bacteria transmission in wild Verreaux’s sifaka"
 
 `2012`
 **Small Research Grant**, American Society of Primatologists, $2000
@@ -139,7 +137,7 @@ Berry, B.S.†, K. Magori†, <strong>A.C. Perofsky</strong>, D.E. Stallknecht, 
 
 ### Contributions to other grants (non PI-status)
 `2022-2024`
-**BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program, $2M<br/> "Collaborative technology development, and analyses to support genetic epidemiology in Washington State" PIs: Lea Starita (UW) and Trevor Bedford (Fred Hutch)<br/>
+**BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program, $2M<br/> "Collaborative technology development, and analyses to support genetic epidemiology in Washington State" PIs: Lea Starita and Trevor Bedford<br/>
 Role: Epidemiology Lead
 
 `2021-2022`

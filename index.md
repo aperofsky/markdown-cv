@@ -138,7 +138,7 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis.
 `2008`
 **NSF Research Experiences for Undergraduates (REU) Award**, NSF Coweeta Long Term Ecological Research Program, Otto, NC. $3600
 
-## Contributions to other grants (non PI-status)
+### Contributions to other grants (non PI-status)
 `2022-2024`
 **BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program, $2M<br/>
 "Collaborative technology development, and analyses to support genetic epidemiology in Washington State"<br/>

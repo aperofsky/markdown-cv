@@ -348,11 +348,9 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 ### Assistant teaching
 `Fall 2016, 2017`
 **Scientific Inquiry Across Disciplines**, University of Texas at Austin<br/>
-Instructor: Katie Hansen, Assistant Professor of Practice
 
 `Spring 2013`
 **Social Networks and Infectious Diseases**, University of Texas at Austin<br/>
-Instructor: Lauren Ancel Meyers, Professor
 
 ### Guest lectures
 `Nov 2015`
@@ -397,7 +395,7 @@ Coordinated and led monthly [Seattle Flu Study](https://seattleflu.org/) Data An
 ***Science Policy for All* blogpost**, [The Use of COVID-19 Prediction Models in Guiding Policy Decisions.](https://sciencepolicyforall.wordpress.com/2020/05/22/the-use-of-covid-19-prediction-models-in-guiding-policy-decisions/)
 
 `2019–2021`
-**Member, NIH Science Policy Discussion Group**. Biweekly seminar series for early-career scientists focused on the intersection of scientific research and legislative policy. Delivered science policy presentations, invited two guest speakers, and wrote and edited articles for the [Science Policy for All](https://www.linkedin.com/in/scipolicyforall/) blog.
+**Member, NIH Science Policy Discussion Group**. Biweekly seminar series for early-career scientists focused on the intersection of scientific research and legislative policy. Delivered science policy presentations, invited two guest speakers, and wrote and edited articles for the *[Science Policy for All](https://www.linkedin.com/in/scipolicyforall/)* blog.
 
 `Feb 2018`
 **Selected speaker, American Association for the Advancement of Science (AAAS) Classroom Science Days**,  Austin, TX. Outreach lecture "Meet the Lemurs" to middle school students. [AAAS coverage](https://www.aaas.org/news/aaas-connects-scientists-and-students-classroom-science-days)

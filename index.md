@@ -64,12 +64,12 @@ Elias-Warren, A., J.C. Bennett, ... <strong>A.C. Perofsky</strong>, ... H.Y. Chu
 
 Hansen, C. L., L. Lee, S.J. Bents, <strong>A.C. Perofsky</strong>, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2024) Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025. <em>medRxiv</em> 2024.12.13.24319008. doi: <a href="https://doi.org/10.1101/2024.12.13.24319008">10.1101/2024.12.13.24319008</a>. (In revision, <em>JAMA Network Open</em>)
 
-Kostandova, N., R. Corgel, ... <strong>A.C. Perofsky</strong>, ... D.A.T. Cummings, & A. Wesolowski. (2024)  Data and model needs for generalizable inferences linking human mobility and infectious disease transmission. <a href="https://osf.io/y9mzd/download">OSF Preprint</a>. (In press, <em>Nature Human Behavior</em>)
-
 Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington. <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report)
 
 ### Journal articles
-Tran-Kiem, C., M.I. Paredes, <strong>A.C. Perofsky</strong>, ... C. Viboud, & T. Bedford. (2024) Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences. <em>Nature</em>. doi: <a href="https://doi.org/10.1038/s41586-025-08637-4">10.1038/s41586-025-08637-4</a>.
+Kostandova, N., R. Corgel, ... <strong>A.C. Perofsky</strong>, ... D.A.T. Cummings, & A. Wesolowski. (2025)  Data and model needs for generalizable inferences linking human mobility and infectious disease transmission. <em>Nature Human Behavior</em>. doi: <a href="https://doi.org/10.1038/s41562-025-02151-3">10.1038/s41562-025-02151-3</a>.
+
+Tran-Kiem, C., M.I. Paredes, <strong>A.C. Perofsky</strong>, ... C. Viboud, & T. Bedford. (2025) Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences. <em>Nature</em>. doi: <a href="https://doi.org/10.1038/s41586-025-08637-4">10.1038/s41586-025-08637-4</a>.
 
 <strong>Perofsky, A.C.</strong>, J. Huddleston, ... S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, & C. Viboud. (2024) Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States. <em>eLife</em> 13:RP91849. doi: <a href="https://doi.org/10.7554/eLife.91849">10.7554/eLife.91849</a>.
 

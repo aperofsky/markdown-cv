@@ -60,30 +60,30 @@ Supervisor: Andrew Park
 *Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=8K-upW0AAAAJ&hl).* † = shared first authorship.
 
 ### Preprints and submitted manuscripts
-Elias-Warren, A., J.C. Bennett, ... <strong>A.C. Perofsky</strong>, ... H.Y. Chu. (2025) Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, WA, USA. (Submitted, <em>JID</em>)
+Hansen, C. L., L. Lee, S.J. Bents, <strong>A.C. Perofsky</strong>, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2024) Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025. <em>medRxiv</em> 2024.12.13.24319008. doi: <a href="https://doi.org/10.1101/2024.12.13.24319008">10.1101/2024.12.13.24319008</a>. (In press, <em>JAMA Network Open</em>)
 
-Hansen, C. L., L. Lee, S.J. Bents, <strong>A.C. Perofsky</strong>, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2024) Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025. <em>medRxiv</em> 2024.12.13.24319008. doi: <a href="https://doi.org/10.1101/2024.12.13.24319008">10.1101/2024.12.13.24319008</a>. (In revision, <em>JAMA Network Open</em>)
+Elias-Warren, A., J.C. Bennett, ... <strong>A.C. Perofsky</strong>, ... H.Y. Chu. (2025) Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, WA, USA. (Submitted, <em>JID</em>)
 
 Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington. <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report)
 
 ### Journal articles
-Kostandova, N., R. Corgel, ... <strong>A.C. Perofsky</strong>, ... D.A.T. Cummings, & A. Wesolowski. (2025)  Data and model needs for generalizable inferences linking human mobility and infectious disease transmission. <em>Nature Human Behavior</em>. doi: <a href="https://doi.org/10.1038/s41562-025-02151-3">10.1038/s41562-025-02151-3</a>.
+Kostandova, N., R. Corgel, ... <strong>A.C. Perofsky</strong>, ... D.A.T. Cummings, & A. Wesolowski. (2025) Improving mobility data for infectious disease research. <em>Nature Human Behaviour</em>. doi: <a href="https://doi.org/10.1038/s41562-025-02151-3">10.1038/s41562-025-02151-3</a>.
 
-Tran-Kiem, C., M.I. Paredes, <strong>A.C. Perofsky</strong>, ... C. Viboud, & T. Bedford. (2025) Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences. <em>Nature</em>. doi: <a href="https://doi.org/10.1038/s41586-025-08637-4">10.1038/s41586-025-08637-4</a>.
+Tran-Kiem, C., M.I. Paredes, <strong>A.C. Perofsky</strong>, ... C. Viboud, & T. Bedford. (2025) Fine-scale patterns of SARS-CoV-2 spread from identical pathogen sequences. <em>Nature</em> 640, 176-185. doi: <a href="https://doi.org/10.1038/s41586-025-08637-4">10.1038/s41586-025-08637-4</a>.
 
 <strong>Perofsky, A.C.</strong>, J. Huddleston, ... S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, & C. Viboud. (2024) Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States. <em>eLife</em> 13:RP91849. doi: <a href="https://doi.org/10.7554/eLife.91849">10.7554/eLife.91849</a>.
 
-Mathis, S.M., A.E. Webber, ... <strong>A.C. Perofsky</strong>, ... M. Biggerstaff, & R.K. Borchering (110 authors). (2024) Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations. <em>Nature Communications</em>, 15, 6289. doi: <a href="https://doi.org/10.1038/s41467-024-50601-9">10.1038/s41467-024-50601-9</a>.
+Mathis, S.M., A.E. Webber, ... <strong>A.C. Perofsky</strong>, ... M. Biggerstaff, & R.K. Borchering (110 authors). (2024) Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations. <em>Nature Communications</em> 15, 6289. doi: <a href="https://doi.org/10.1038/s41467-024-50601-9">10.1038/s41467-024-50601-9</a>.
 
-<strong>Perofsky, A.C.</strong>, C.L. Hansen, ... M. Famulare, J. Shendure, T. Bedford, H.Y. Chu, J.A. Englund, L.M. Starita, & C. Viboud. (2024) Impacts of human mobility on the citywide transmission dynamics of 18 respiratory viruses in pre- and post-COVID-19 pandemic years. <em>Nature Communications</em>, 15, 4164. doi: <a href="https://doi.org/10.1038/s41467-024-48528-2">10.1038/s41467-024-48528-2</a>.
+<strong>Perofsky, A.C.</strong>, C.L. Hansen, ... M. Famulare, J. Shendure, T. Bedford, H.Y. Chu, J.A. Englund, L.M. Starita, & C. Viboud. (2024) Impacts of human mobility on the citywide transmission dynamics of 18 respiratory viruses in pre- and post-COVID-19 pandemic years. <em>Nature Communications</em> 15, 4164. doi: <a href="https://doi.org/10.1038/s41467-024-48528-2">10.1038/s41467-024-48528-2</a>.
 
-Paredes, M.I., <strong>A.C. Perofsky</strong>, ... C. Viboud, H.Y. Chu, N.F. Müller, & T. Bedford. (2024) Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan US county. <em>PLOS Pathogens</em>, 20(3), e1012117. doi: <a href="https://doi.org/10.1371/journal.ppat.1012117">10.1371/journal.ppat.1012117</a>.
+Paredes, M.I., <strong>A.C. Perofsky</strong>, ... C. Viboud, H.Y. Chu, N.F. Müller, & T. Bedford. (2024) Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan US county. <em>PLOS Pathogens</em> 20(3):e1012117. doi: <a href="https://doi.org/10.1371/journal.ppat.1012117">10.1371/journal.ppat.1012117</a>.
 
 Hansen, C.L., <strong>A.C. Perofsky</strong>, ... J.A. Englund, J. Shendure, T. Bedford, H.Y. Chu, L.M. Starita, & C. Viboud. (2022) Trends in risk factors and symptoms associated with SARS-CoV-2 and Rhinovirus test positivity in King County, Washington: A Test-Negative Design Study of the Greater Seattle Coronavirus Assessment Network. <em>JAMA Network Open</em> 5(12):e2245861. doi: <a href="https://doi.org/10.1001/jamanetworkopen.2022.45861">10.1001/jamanetworkopen.2022.45861</a>.
 
-<strong>Perofsky, A.C.</strong>, S. Tempia, J. Bingham, C. Maslo, M. Toubkin, A. Laubscher, S. Walaza, J.R.C. Pulliam, C. Viboud, & C. Cohen. (2022) The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa. <em>Clinical Infectious Diseases</em> 75(1), e1000-e1010. doi: <a href="https://doi.org/10.1093/cid/ciac055">10.1093/cid/ciac055</a>.
+<strong>Perofsky, A.C.</strong>, S. Tempia, J. Bingham, C. Maslo, M. Toubkin, A. Laubscher, S. Walaza, J.R.C. Pulliam, C. Viboud, & C. Cohen. (2022) The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa. <em>Clinical Infectious Diseases</em> 75(1):e1000-e1010. doi: <a href="https://doi.org/10.1093/cid/ciac055">10.1093/cid/ciac055</a>.
 
-<strong>Perofsky, A.C.</strong>,  L.A. Meyers, L.A. Abondano, A. Di Fiore, & R.J. Lewis. (2021) Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. <em>Molecular Ecology</em> 30: 6759–6775. doi: <a href="https://doi.org/10.1111/mec.16193">10.1111/mec.16193</a>.
+<strong>Perofsky, A.C.</strong>,  L.A. Meyers, L.A. Abondano, A. Di Fiore, & R.J. Lewis. (2021) Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. <em>Molecular Ecology</em> 30:6759–6775. doi: <a href="https://doi.org/10.1111/mec.16193">10.1111/mec.16193</a>.
 
 McBride, D.S.†, <strong>A.C. Perofsky†</strong>, J.M. Nolting, M.I. Nelson, & A.S. Bowman. (2021) Tracing the source of influenza A virus zoonoses in interconnected circuits of swine exhibitions. <em>The Journal of Infectious Diseases</em> jiab122. doi: <a href="https://doi.org/10.1093/infdis/jiab122">10.1093/infdis/jiab122</a>.
 
@@ -91,7 +91,7 @@ McBride, D.S.†, <strong>A.C. Perofsky†</strong>, J.M. Nolting, M.I. Nelson, 
 
 Nelson, M.I., <strong>A. Perofsky</strong>, D.S. McBride, B.L. Rambo-Martin, M.M. Wilson, J.R. Barnes, H. van Bakel, J.M. Nolting, & A.S. Bowman. (2020) A heterogenous swine show circuit drives zoonotic transmission of influenza A viruses in the United States. <em>Journal of Virology</em> 94(24):e01453-20. doi: <a href="https://doi.org/10.1128/JVI.01453-20">10.1128/JVI.01453-20</a>.
 
-Viboud, C., K. Gostic, M.I. Nelson, G.E. Price, <strong>A. Perofsky</strong>, K. Sun, N. Sequeira Trovão, B. Cowling, S. Epstein, & D.J. Spiro. (2020) Beyond Clinical Trials: Evolutionary and Epidemiological Considerations for Development of a Universal Flu Vaccine. <em>PLOS Pathogens</em> 16:e1008583. doi: <a href="https://doi.org/10.1371/journal.ppat.1008583">10.1371/journal.ppat.1008583</a>.
+Viboud, C., K. Gostic, M.I. Nelson, G.E. Price, <strong>A. Perofsky</strong>, K. Sun, N. Sequeira Trovão, B. Cowling, S. Epstein, & D.J. Spiro. (2020) Beyond Clinical Trials: Evolutionary and Epidemiological Considerations for Development of a Universal Flu Vaccine. <em>PLOS Pathogens</em> 16(9):e1008583. doi: <a href="https://doi.org/10.1371/journal.ppat.1008583">10.1371/journal.ppat.1008583</a>.
 
 <strong>Perofsky, A.C.</strong>, R.J. Lewis, & L.A. Meyers. (2018) Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. <em>The ISME Journal</em> 13:50–63. doi: <a href="https://doi.org/10.1038/s41396-018-0251-5">10.1038/s41396-018-0251-5</a>.
 

@@ -18,7 +18,7 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 **Ph.D., Ecology, Evolution, and Behavior**, University of Texas at Austin, Austin, TX, USA<br/>
 
 `2009`
-**B.Sc., Biology, B.Sc., Ecology**, University of Georgia, Athens, GA, USA.<br/>
+**B.Sc., Biology, B.Sc., Ecology**, University of Georgia, Athens, GA, USA<br/>
 *Summa cum laude* with Highest Honors
 
 ## Research Experience

@@ -31,7 +31,7 @@ Supervisor: Cécile Viboud
 `Apr 2021–Jan 2025`
 **Epidemiological Data Scientist (Research Scientist/Engineer 3)** <br/>
 Seattle Flu Study, Brotman Baty Institute for Precision Medicine, University of Washington<br/>
-Supervisors: Cécile Viboud (NIH) and Robin Prentice (BBI, UW)
+Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)
 
 `Sep 2018–Apr 2021`
 **Postdoctoral Research Fellow**<br/>
@@ -60,11 +60,14 @@ Supervisor: Andrew Park
 *Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=8K-upW0AAAAJ&hl).* † = shared first authorship.
 
 ### Preprints and submitted manuscripts
+
+Bents, S. J., E. T. Martin, ... <strong>A. Perofsky</strong>, ... A. Waghmare, C. Viboud. (2025) Multiplex serology reveals age-specific immunodynamics of endemic respiratory pathogens in the wake of the COVID-19 pandemic. <em>medRxiv</em> 2025.03.26.25324738. doi: <a href="https://doi.org/10.1101/2025.03.26.25324738">10.1101/2025.03.26.25324738</a>. (Submitted, <em>Nature Communications</em>)
+
 Hansen, C. L., L. Lee, S.J. Bents, <strong>A.C. Perofsky</strong>, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2024) Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025. <em>medRxiv</em> 2024.12.13.24319008. doi: <a href="https://doi.org/10.1101/2024.12.13.24319008">10.1101/2024.12.13.24319008</a>. (In press, <em>JAMA Network Open</em>)
 
-Elias-Warren, A., J.C. Bennett, ... <strong>A.C. Perofsky</strong>, ... H.Y. Chu. (2025) Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, WA, USA. (Submitted, <em>JID</em>)
+Elias-Warren, A., J.C. Bennett, ... <strong>A.C. Perofsky</strong>, ... H.Y. Chu. (2025) Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, WA, USA. (Submitted, <em>The Journal of Infectious Diseases</em>)
 
-Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington. <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report)
+Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington. <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report, in prep for submission)
 
 ### Journal articles
 Kostandova, N., R. Corgel, ... <strong>A.C. Perofsky</strong>, ... D.A.T. Cummings, & A. Wesolowski. (2025) Improving mobility data for infectious disease research. <em>Nature Human Behaviour</em>. doi: <a href="https://doi.org/10.1038/s41562-025-02151-3">10.1038/s41562-025-02151-3</a>.
@@ -181,7 +184,7 @@ Role: Staff Scientist
 **Center for Undergraduate Research (CURO) Scholar distinction**, University of Georgia
 
 `2008`
-Inducted, **Phi Beta Kappa**
+**Inducted, Phi Beta Kappa**
 
 `2007` 	
 **Honors International Scholarship**, University of Georgia Honors Program
@@ -213,7 +216,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 `2022`
 **Invited Panelist**, "Reflections on COVID-19," NIH Modeling of Infectious Disease Agent Study (MIDAS) Annual Meeting, Bethesda, MD.
 
-### Oral presentations
+### Podium presentations
 `2025`
 **NetSci International Conference on Network Science**, Maastricht, the Netherlands. *Modelling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington* (upcoming, June 2025)
 
@@ -336,7 +339,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 
 `Summer 2012, 2016`
 **Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo, Madagascar**. Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
-2012: Elvis Rakotomalala, [_Lepilemur_ tree hole characteristics](https://doi.org/10.1159/000464406); 2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior
+2012: Elvis Rakotomalala, [Lepilemur tree hole characteristics](https://doi.org/10.1159/000464406); 2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior
 
 ### Short courses
 `Sep 2019`
@@ -368,7 +371,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 **Working group on the use of human mobility data in infectious disease modeling**, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD.
 
 `2022–2024`
-Coordinated and led monthly [Seattle Flu Study](https://seattleflu.org/) Data Analysis meetings
+**Coordinated and led monthly [Seattle Flu Study](https://seattleflu.org/) Data Analysis meetings**
 
 `2022, 2023, 2024`
 **Abstract reviewer**, NIH Modeling of Infectious Disease Agent Study (MIDAS) Annual Meetings

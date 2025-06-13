@@ -63,13 +63,13 @@ Supervisor: Andrew Park
 
 Bents, S. J., E. T. Martin, ... <strong>A. Perofsky</strong>, ... A. Waghmare, C. Viboud. (2025) Multiplex serology reveals age-specific immunodynamics of endemic respiratory pathogens in the wake of the COVID-19 pandemic. <em>medRxiv</em> 2025.03.26.25324738. doi: <a href="https://doi.org/10.1101/2025.03.26.25324738">10.1101/2025.03.26.25324738</a>. (Submitted, <em>Nature Communications</em>)
 
-Hansen, C. L., L. Lee, S.J. Bents, <strong>A.C. Perofsky</strong>, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2024) Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025. <em>medRxiv</em> 2024.12.13.24319008. doi: <a href="https://doi.org/10.1101/2024.12.13.24319008">10.1101/2024.12.13.24319008</a>. (In press, <em>JAMA Network Open</em>)
-
 Elias-Warren, A., J.C. Bennett, ... <strong>A.C. Perofsky</strong>, ... H.Y. Chu. (2025) Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, WA, USA. (Submitted, <em>The Journal of Infectious Diseases</em>)
 
 Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington. <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report, in prep for submission)
 
 ### Journal articles
+Hansen, C. L., L. Lee, S.J. Bents, <strong>A.C. Perofsky</strong>, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2025) Scenario Projections of Respiratory Syncytial Virus Hospitalizations Averted Due to New Immunizations. <em>JAMA Network Open</em> 8(6):e2514622. doi: <a href="https://doi.org/10.1001/jamanetworkopen.2025.14622">10.1001/jamanetworkopen.2025.14622</a>.
+
 Kostandova, N., R. Corgel, ... <strong>A.C. Perofsky</strong>, ... D.A.T. Cummings, & A. Wesolowski. (2025) Improving mobility data for infectious disease research. <em>Nature Human Behaviour</em>. doi: <a href="https://doi.org/10.1038/s41562-025-02151-3">10.1038/s41562-025-02151-3</a>.
 
 Tran-Kiem, C., M.I. Paredes, <strong>A.C. Perofsky</strong>, ... C. Viboud, & T. Bedford. (2025) Fine-scale patterns of SARS-CoV-2 spread from identical pathogen sequences. <em>Nature</em> 640, 176-185. doi: <a href="https://doi.org/10.1038/s41586-025-08637-4">10.1038/s41586-025-08637-4</a>.
@@ -218,7 +218,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 
 ### Podium presentations
 `2025`
-**NetSci International Conference on Network Science**, Maastricht, the Netherlands. *Modelling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington* (upcoming, June 2025)
+**NetSci International Conference on Network Science**, Maastricht, the Netherlands. *Modelling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington.*
 
 `2024`	
 **NetSci International Conference on Network Science**, Québec City, Canada. *Impacts of human mobility on the citywide transmission dynamics of respiratory viruses in pre- and post-COVID-19 pandemic years.*

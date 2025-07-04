@@ -37,7 +37,7 @@ Dissertation: _Ecological, Evolutionary, and Behavioral Determinants of Gut Micr
 ### Guest Researcher
 **Fogarty International Center, U.S. National Institutes of Health**<br/>
 Division of International Epidemiology and Population Studies<br/>
-Supervisor: Cécile Viboud
+Supervisor: Cécile Viboud<br/>
 
 **Operational Involvement in National Influenza Outbreak Predictions**<br/>
 - **Interface with infectious disease modeling working groups and major disease prediction initiatives** to translate complex epidemiological modeling results into actionable insights for public health stakeholders

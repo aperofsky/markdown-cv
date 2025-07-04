@@ -33,7 +33,7 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 
 ## Research Experience
 `Apr 2021–present`
-### Guest Researcher
+### Guest Researcher<br/>
 **Fogarty International Center, U.S. National Institutes of Health**<br/>
 Division of International Epidemiology and Population Studies<br/>
 Supervisor: Cécile Viboud
@@ -51,7 +51,7 @@ Supervisor: Cécile Viboud
 - **Identified key behavioral drivers of post-pandemic transmission dynamics**, discovering that increasing inter-neighborhood connectivity and visitor influx were most influential in driving viral spread and epidemic timing
 
 `Apr 2021–Jan 2025`
-### Epidemiological Data Scientist
+### Epidemiological Data Scientist<br/>
 **Seattle Flu Study, Brotman Baty Institute for Precision Medicine, University of Washington**<br/>
 Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)
 * **Large-Scale Data Analytics, Epidemic Modeling, & Research Leadership**
@@ -65,7 +65,8 @@ Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)
 - **Led cross-functional collaboration within Seattle Flu Study**, coordinating data analytics meetings across research groups and mentoring junior researchers on statistical methodology and data analysis
 
 `Sep 2018–Apr 2021`
-### Postdoctoral Research Fellow, Fogarty International Center, U.S. National Institutes of Health
+### Postdoctoral Research Fellow<br/>
+**Fogarty International Center, U.S. National Institutes of Health**<br/>
 Division of International Epidemiology and Population Studies<br/>
 Advisor: Cécile Viboud
 * **Led interdisciplinary research linking influenza epidemiological and evolutionary dynamics** in collaboration with researchers at Fred Hutch, Mt. Sinai, U.S. CDC, and WHO, revealing how viral evolution affects seasonal epidemic patterns in the U.S., with implications for genomic surveillance, outbreak prediction, and vaccine development
@@ -74,7 +75,8 @@ Advisor: Cécile Viboud
 * **Co-led swine influenza transmission research with Ohio State veterinarians**, characterizing viral spread across networks of exhibition swine shows in the U.S. Midwest and contributing to understanding of zoonotic transmission pathways and development of targeted interventions
 
 `Aug 2011–Aug 2018`
-### **Doctoral Researcher, Department of Integrative Biology, University of Texas at Austin**
+### Doctoral Researcher<br/>
+**Department of Integrative Biology, University of Texas at Austin**
 Graduate Program in Ecology, Evolution, & Behavior<br/>
 Dissertation: "Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals"<br/>
 Advisor: Lauren Ancel Meyers

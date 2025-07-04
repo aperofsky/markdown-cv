@@ -15,7 +15,7 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 
 ## Education
 `2018`
-**Ph.D., Ecology, Evolution, and Behavior**, University of Texas at Austin, Austin, TX, USA<br/>
+**Ph.D., Ecology, Evolution, and Behavior**, The University of Texas at Austin, Austin, TX, USA<br/>
 
 `2009`
 **B.Sc., Biology, B.Sc., Ecology**, University of Georgia, Athens, GA, USA<br/>
@@ -26,24 +26,24 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 **NSF Graduate Research Fellowship**, U.S. National Science Foundation
 
 `2011`
-**Graduate Recruitment Fellowship**, Department of Integrative Biology, University of Texas at Austin
+**Graduate Recruitment Fellowship**, Department of Integrative Biology, The University of Texas at Austin
 
 `2010-2011`
 **NIH Postbaccalaureate Intramural Research Training Award (IRTA) Fellowship**, U.S. National Institutes of Health
 
 ## Research Experience
 `Apr 2021–present`
-### Guest Researcher<br/>
-**Fogarty International Center, U.S. National Institutes of Health**<br/>
+### Guest Researcher
+Fogarty International Center, U.S. National Institutes of Health<br/>
 Division of International Epidemiology and Population Studies<br/>
 Supervisor: Cécile Viboud
-* **Operational Involvement in National Influenza Outbreak Predictions**
+#### Operational Involvement in National Influenza Outbreak Predictions
 - **Interface with infectious disease modeling working groups and major disease prediction initiatives** to translate complex epidemiological modeling results into actionable insights for public health stakeholders
 - **Develop time series forecasting frameworks for respiratory virus surveillance**, integrating diverse data sources (clinical data, viral genomics, human mobility, immunization records) to enhance prediction accuracy
 - **Generate probabilistic forecasts and scenario projections of influenza hospitalizations** at national and state levels to inform situational awareness and resource allocation decisions
 - **Contribute high-performing forecasts as NIH representative for CDC FluSight consortium** (2022-2025), ranking in top 10 out of 50 individual models from academic, government, and industry teams during 2024-2025 season
 - **Represent NIH in influenza prediction initiatives for U.S. Scenario Modeling Hub** (2022-2025), generating counterfactual projections of hospitalizations to inform public health planning and preparedness strategies
-* **Human Mobility & Respiratory Syncytial Virus Transmission Modeling**
+#### Human Mobility & Respiratory Syncytial Virus Transmission Modeling
 - **Initiated and led multi-institutional research collaboration**, coordinating data sharing and model development across government and academic stakeholders (Public Health Seattle & King County, NIH, University of Washington, Northeastern University)
 - **Mentored team of five PhD students in carrying out beginning modeling stages**, as an Instructor for the Complexity 72h workshop in Madrid, Spain (2024)
 - **Developed Bayesian age-structured mathematical models** to assess the impacts of immune waning and decreased social distancing on the post-pandemic reemergence of RSV in Seattle
@@ -52,21 +52,21 @@ Supervisor: Cécile Viboud
 
 `Apr 2021–Jan 2025`
 ### Epidemiological Data Scientist<br/>
-**Seattle Flu Study, Brotman Baty Institute for Precision Medicine, University of Washington**<br/>
+Seattle Flu Study, Brotman Baty Institute for Precision Medicine, University of Washington<br/>
 Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)
-* **Large-Scale Data Analytics, Epidemic Modeling, & Research Leadership**
+#### Large-Scale Data Analytics, Epidemic Modeling, & Research Leadership
 - **Led citywide respiratory virus transmission study as staff scientist for $11.6M Gates Ventures award**, linking population movement patterns to the transmission dynamics of 18 respiratory viruses prior to and during the COVID-19 pandemic
 - **Developed real-time SARS-CoV-2 variant surveillance platform as Epidemiology Lead for $2M CDC contract**, creating and maintaining public dashboard forecasting variant growth rates across U.S. states, in coordination with Nextstrain bioinformaticians and Seattle Flu Study software engineers
 - **Collaborated with genomic epidemiologists at Fred Hutchinson Cancer Center** to link SARS-CoV-2 genomic sequences to spatial and social patterns of transmission, revealing fine-scale networks of viral spread through communities
-* **Strategic Communication & Team Leadership**
+#### Strategic Communication & Team Leadership
 - **Presented research findings to international conferences and diverse stakeholders**, including U.S. CDC and Gates Ventures funders and WA State Department of Health,
 **with invited seminars** at Yale School of Public Health, CDC, WHO, French Institute of Health and Medical Research (INSERM), and Northeastern University
 - **Developed scenario modeling analyses to optimize respiratory sample collection strategies**, balancing cost reduction with scientific robustness across clinical sources and patient demographic groups
 - **Led cross-functional collaboration within Seattle Flu Study**, coordinating data analytics meetings across research groups and mentoring junior researchers on statistical methodology and data analysis
 
 `Sep 2018–Apr 2021`
-### Postdoctoral Research Fellow<br/>
-**Fogarty International Center, U.S. National Institutes of Health**<br/>
+### Postdoctoral Research Fellow
+Fogarty International Center, U.S. National Institutes of Health<br/>
 Division of International Epidemiology and Population Studies<br/>
 Advisor: Cécile Viboud
 * **Led interdisciplinary research linking influenza epidemiological and evolutionary dynamics** in collaboration with researchers at Fred Hutch, Mt. Sinai, U.S. CDC, and WHO, revealing how viral evolution affects seasonal epidemic patterns in the U.S., with implications for genomic surveillance, outbreak prediction, and vaccine development
@@ -75,8 +75,8 @@ Advisor: Cécile Viboud
 * **Co-led swine influenza transmission research with Ohio State veterinarians**, characterizing viral spread across networks of exhibition swine shows in the U.S. Midwest and contributing to understanding of zoonotic transmission pathways and development of targeted interventions
 
 `Aug 2011–Aug 2018`
-### Doctoral Researcher<br/>
-**Department of Integrative Biology, University of Texas at Austin**
+### Doctoral Researcher
+Department of Integrative Biology, The University of Texas at Austin<br/>
 Graduate Program in Ecology, Evolution, & Behavior<br/>
 Dissertation: "Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals"<br/>
 Advisor: Lauren Ancel Meyers

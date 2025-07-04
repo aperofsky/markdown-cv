@@ -16,6 +16,7 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 ## Education
 `2018`
 **Ph.D., Ecology, Evolution, and Behavior**, The University of Texas at Austin, Austin, TX, USA<br/>
+Dissertation: _Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals_ <br/>
 
 `2009`
 **B.Sc., Biology, B.Sc., Ecology**, University of Georgia, Athens, GA, USA<br/>
@@ -45,9 +46,9 @@ Supervisor: Cécile Viboud<br/>
 - **Contribute high-performing forecasts as NIH representative for CDC FluSight consortium** (2022-2025), ranking in top 10 out of 50 individual models from academic, government, and industry teams during 2024-2025 season
 - **Represent NIH in influenza prediction initiatives for U.S. Scenario Modeling Hub** (2022-2025), generating counterfactual projections of hospitalizations to inform public health planning and preparedness strategies<br/>
 * **Human Mobility & Respiratory Syncytial Virus Transmission Modeling**<br/>
-- **Initiated and led multi-institutional research collaboration**, coordinating data sharing and model development across government and academic stakeholders (Public Health Seattle & King County, NIH, University of Washington, Northeastern University)
+- **Initiated and led multi-institutional research collaboration**, coordinating data sharing and model development across government and academic stakeholders (Public Health Seattle & King County, U.S. NIH, University of Washington, Northeastern University)
 - **Mentored team of five PhD students in carrying out beginning modeling stages**, as an Instructor for the Complexity 72h workshop in Madrid, Spain (2024)
-- **Developed Bayesian age-structured mathematical models** to assess the impacts of immune waning and decreased social distancing on the post-pandemic reemergence of RSV in Seattle
+- **Developed Bayesian age-structured mathematical models** to assess impacts of immune waning and decreased social distancing on post-pandemic reemergence of RSV in Seattle
 - **Pioneered integration of cell phone mobility data into RSV transmission models**, calibrating models to historical hospitalization data and population dynamics
 - **Identified key behavioral drivers of post-pandemic transmission dynamics**, discovering that increasing inter-neighborhood connectivity and visitor influx were most influential in driving viral spread and epidemic timing
 
@@ -58,7 +59,7 @@ Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)<br/>
 * **Large-Scale Data Analytics, Epidemic Modeling, & Research Leadership**<br/>
 - **Led citywide respiratory virus transmission study as staff scientist for $11.6M Gates Ventures award**, linking population movement patterns to the transmission dynamics of 18 respiratory viruses prior to and during the COVID-19 pandemic
 - **Developed real-time SARS-CoV-2 variant surveillance platform as Epidemiology Lead for $2M CDC contract**, creating and maintaining public dashboard forecasting variant growth rates across U.S. states, in coordination with Nextstrain bioinformaticians and Seattle Flu Study software engineers
-- **Collaborated with genomic epidemiologists at Fred Hutchinson Cancer Center** to link SARS-CoV-2 genomic sequences to spatial and social patterns of transmission, revealing fine-scale networks of viral spread through communities<br/>
+- **Collaborated with genomic epidemiologists** at Fred Hutchinson Cancer Center to link SARS-CoV-2 genomic sequences to spatial and social patterns of transmission, revealing fine-scale networks of viral spread through communities<br/>
 * **Strategic Communication & Team Leadership**<br/>
 - **Presented research findings to international conferences and diverse stakeholders**, including U.S. CDC and Gates Ventures funders and WA State Department of Health, **with invited seminars** at Yale School of Public Health, CDC, WHO, French Institute of Health and Medical Research (INSERM), and Northeastern University
 - **Developed scenario modeling analyses to optimize respiratory sample collection strategies**, balancing cost reduction with scientific robustness across clinical sources and patient demographic groups
@@ -69,16 +70,15 @@ Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)<br/>
 **Fogarty International Center, U.S. National Institutes of Health**<br/>
 Division of International Epidemiology and Population Studies<br/>
 Advisor: Cécile Viboud<br/>
-* **Led interdisciplinary research linking influenza epidemiological and evolutionary dynamics** in collaboration with researchers at Fred Hutch, Mt. Sinai, U.S. CDC, and WHO, revealing how viral evolution affects seasonal epidemic patterns in the U.S., with implications for genomic surveillance, outbreak prediction, and vaccine development
+* **Led interdisciplinary research linking influenza epidemiological and evolutionary dynamics**, in collaboration with researchers at Fred Hutch, Mt. Sinai, U.S. CDC, and WHO, revealing how viral evolution affects seasonal epidemic patterns in the U.S., with implications for genomic surveillance, outbreak prediction, and vaccine development
 * **Delivered high-performing forecasts as NIH representative for U.S. Department of Defense Infectious Disease Forecasting Collaboration** (2019-2022), providing weekly predictions of COVID-19 and influenza cases for U.S. military bases that consistently outperformed internal DoD models
 * **Led COVID-19 healthcare impact analysis in South Africa**, in collaboration with National Institute for Communicable Diseases and the country's largest private healthcare system
-* **Co-led swine influenza transmission research with Ohio State veterinarians**, characterizing viral spread across networks of exhibition swine shows in the U.S. Midwest and contributing to understanding of zoonotic transmission pathways and development of targeted interventions
+* **Co-led swine influenza transmission research with Ohio State researchers**, characterizing viral spread across networks of exhibition swine shows and contributing to understanding of zoonotic transmission pathways and development of targeted interventions
 
 `Aug 2011–Aug 2018`
 ### Doctoral Researcher
 **Department of Integrative Biology, The University of Texas at Austin**<br/>
 Graduate Program in Ecology, Evolution, & Behavior<br/>
-Dissertation: "Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals"<br/>
 Advisor: Lauren Ancel Meyers<br/>
 * **Independently designed and executed interdisciplinary research program** integrating field data collection, high-throughput sequencing, and computational modeling to study gut microbiome dynamics in wild lemur populations
 * **Planned and managed international field research operations conducting 5 months of fieldwork in Madagascar**, obtaining research permits and coordinating sample collection, transport, and laboratory processing

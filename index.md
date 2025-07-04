@@ -33,7 +33,8 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 
 ## Research Experience
 `Apr 2021–present`
-### Guest Researcher, Fogarty International Center, U.S. National Institutes of Health
+### Guest Researcher
+**Fogarty International Center, U.S. National Institutes of Health**<br/>
 Division of International Epidemiology and Population Studies<br/>
 Supervisor: Cécile Viboud
 * **Operational Involvement in National Influenza Outbreak Predictions**
@@ -50,14 +51,11 @@ Supervisor: Cécile Viboud
 - **Identified key behavioral drivers of post-pandemic transmission dynamics**, discovering that increasing inter-neighborhood connectivity and visitor influx were most influential in driving viral spread and epidemic timing
 
 `Apr 2021–Jan 2025`
-### Epidemiological Data Scientist, Brotman Baty Institute for Precision Medicine, University of Washington
-Seattle Flu Study<br/>
+### Epidemiological Data Scientist
+**Seattle Flu Study, Brotman Baty Institute for Precision Medicine, University of Washington**<br/>
 Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)
 * **Large-Scale Data Analytics, Epidemic Modeling, & Research Leadership**
 - **Led citywide respiratory virus transmission study as staff scientist for $11.6M Gates Ventures award**, linking population movement patterns to the transmission dynamics of 18 respiratory viruses prior to and during the COVID-19 pandemic
-  - **Integrated clinical, virologic, and syndromic surveillance data** to reconstruct pathogen incidences and developed bespoke Bayesian epidemic models to estimate daily transmission rates
-  - **Created custom mobility metrics** from high-resolution mobile device location data, including foot traffic to various locations, within-and-between neighborhood travel, and visitor influx from outside Seattle
-  - **Developed novel statistical methodologies** to relate distinct types of mobility to viral spread, identifying which metrics are most predictive of disease outbreaks
 - **Developed real-time SARS-CoV-2 variant surveillance platform as Epidemiology Lead for $2M CDC contract**, creating and maintaining public dashboard forecasting variant growth rates across U.S. states, in coordination with Nextstrain bioinformaticians and Seattle Flu Study software engineers
 - **Collaborated with genomic epidemiologists at Fred Hutchinson Cancer Center** to link SARS-CoV-2 genomic sequences to spatial and social patterns of transmission, revealing fine-scale networks of viral spread through communities
 * **Strategic Communication & Team Leadership**
@@ -70,11 +68,7 @@ Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)
 ### Postdoctoral Research Fellow, Fogarty International Center, U.S. National Institutes of Health
 Division of International Epidemiology and Population Studies<br/>
 Advisor: Cécile Viboud
-* **Led interdisciplinary research linking influenza epidemiological and evolutionary dynamics**, revealing how viral evolution affects seasonal epidemic patterns in the U.S., with implications for genomic surveillance, outbreak prediction, and vaccine development
-  - **Coordinated international research collaboration** across NIH, Fred Hutch, Mt. Sinai, and WHO Influenza Collaborating Centres in Atlanta, London, Melbourne, and Tokyo
-  - **Analyzed 22 seasons of regional influenza epidemics**, integrating large-scale epidemiological, genomic, and serological datasets
-  - **Developed custom evolutionary indicators**, discovering that increased antigenic change correlates with larger, more severe epidemics and higher transmission rates
-  - **Utilized conditional inference random forest models** to predict seasonal epidemic dynamics****, finding that competition between cocirculating influenza subtypes primarily drives interannual variation in outbreak patterns
+* **Led interdisciplinary research linking influenza epidemiological and evolutionary dynamics** in collaboration with researchers at Fred Hutch, Mt. Sinai, U.S. CDC, and WHO, revealing how viral evolution affects seasonal epidemic patterns in the U.S., with implications for genomic surveillance, outbreak prediction, and vaccine development
 * **Delivered high-performing forecasts as NIH representative for U.S. Department of Defense Infectious Disease Forecasting Collaboration** (2019-2022), providing weekly predictions of COVID-19 and influenza cases for U.S. military bases that consistently outperformed internal DoD models
 * **Led COVID-19 healthcare impact analysis in South Africa**, in collaboration with the National Institute for Communicable Diseases and the country's largest private healthcare system
 * **Co-led swine influenza transmission research with Ohio State veterinarians**, characterizing viral spread across networks of exhibition swine shows in the U.S. Midwest and contributing to understanding of zoonotic transmission pathways and development of targeted interventions

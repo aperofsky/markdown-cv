@@ -21,40 +21,74 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 **B.Sc., Biology, B.Sc., Ecology**, University of Georgia, Athens, GA, USA<br/>
 *Summa cum laude* with Highest Honors
 
+## Fellowships
+`2012-2017`
+**NSF Graduate Research Fellowship**, U.S. National Science Foundation
+
+`2011`
+**Graduate Recruitment Fellowship**, Department of Integrative Biology, University of Texas at Austin
+
+`2010-2011`
+**NIH Postbaccalaureate Intramural Research Training Award (IRTA) Fellowship**, U.S. National Institutes of Health
+
 ## Research Experience
 `Apr 2021–present`
-**Guest Researcher**<br/>
-Fogarty International Center, U.S. National Institutes of Health<br/>
+### Guest Researcher, Fogarty International Center, U.S. National Institutes of Health
 Division of International Epidemiology and Population Studies<br/>
 Supervisor: Cécile Viboud
+* **Operational Involvement in National Influenza Outbreak Predictions**
+- **Interface with infectious disease modeling working groups and major disease prediction initiatives** to translate complex epidemiological modeling results into actionable insights for public health stakeholders
+- **Develop time series forecasting frameworks for respiratory virus surveillance**, integrating diverse data sources (clinical data, viral genomics, human mobility, immunization records) to enhance prediction accuracy
+- **Generate probabilistic forecasts and scenario projections of influenza hospitalizations** at national and state levels to inform situational awareness and resource allocation decisions
+- **Contribute high-performing forecasts as NIH representative for CDC FluSight consortium** (2022-2025), ranking in top 10 out of 50 individual models from academic, government, and industry teams during 2024-2025 season
+- **Represent NIH in influenza prediction initiatives for U.S. Scenario Modeling Hub** (2022-2025), generating counterfactual projections of hospitalizations to inform public health planning and preparedness strategies
+* **Human Mobility & Respiratory Syncytial Virus Transmission Modeling**
+- **Initiated and led multi-institutional research collaboration**, coordinating data sharing and model development across government and academic stakeholders (Public Health Seattle & King County, NIH, University of Washington, Northeastern University)
+- **Mentored team of five PhD students in carrying out beginning modeling stages**, as an Instructor for the Complexity 72h workshop in Madrid, Spain (2024)
+- **Developed Bayesian age-structured mathematical models** to assess the impacts of immune waning and decreased social distancing on the post-pandemic reemergence of RSV in Seattle
+- **Pioneered integration of cell phone mobility data into RSV transmission models**, calibrating models to historical hospitalization data and population dynamics
+- **Identified key behavioral drivers of post-pandemic transmission dynamics**, discovering that increasing inter-neighborhood connectivity and visitor influx were most influential in driving viral spread and epidemic timing
 
 `Apr 2021–Jan 2025`
-**Epidemiological Data Scientist (Research Scientist/Engineer 3)** <br/>
-Seattle Flu Study, Brotman Baty Institute for Precision Medicine, University of Washington<br/>
+### Epidemiological Data Scientist, Brotman Baty Institute for Precision Medicine, University of Washington
+Seattle Flu Study<br/>
 Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)
+* **Large-Scale Data Analytics, Epidemic Modeling, & Research Leadership**
+- **Led citywide respiratory virus transmission study as staff scientist for $11.6M Gates Ventures award**, linking population movement patterns to the transmission dynamics of 18 respiratory viruses prior to and during the COVID-19 pandemic
+  - **Integrated clinical, virologic, and syndromic surveillance data** to reconstruct pathogen incidences and developed bespoke Bayesian epidemic models to estimate daily transmission rates
+  - **Created custom mobility metrics** from high-resolution mobile device location data, including foot traffic to various locations, within-and-between neighborhood travel, and visitor influx from outside Seattle
+  - **Developed novel statistical methodologies** to relate distinct types of mobility to viral spread, identifying which metrics are most predictive of disease outbreaks
+- **Developed real-time SARS-CoV-2 variant surveillance platform as Epidemiology Lead for $2M CDC contract**, creating and maintaining public dashboard forecasting variant growth rates across U.S. states, in coordination with Nextstrain bioinformaticians and Seattle Flu Study software engineers
+- **Collaborated with genomic epidemiologists at Fred Hutchinson Cancer Center** to link SARS-CoV-2 genomic sequences to spatial and social patterns of transmission, revealing fine-scale networks of viral spread through communities
+* **Strategic Communication & Team Leadership**
+- **Presented research findings to international conferences and diverse stakeholders**, including U.S. CDC and Gates Ventures funders and WA State Department of Health,
+**with invited seminars** at Yale School of Public Health, CDC, WHO, French Institute of Health and Medical Research (INSERM), and Northeastern University
+- **Developed scenario modeling analyses to optimize respiratory sample collection strategies**, balancing cost reduction with scientific robustness across clinical sources and patient demographic groups
+- **Led cross-functional collaboration within Seattle Flu Study**, coordinating data analytics meetings across research groups and mentoring junior researchers on statistical methodology and data analysis
 
 `Sep 2018–Apr 2021`
-**Postdoctoral Research Fellow**<br/>
-Fogarty International Center, U.S. National Institutes of Health<br/>
+### Postdoctoral Research Fellow, Fogarty International Center, U.S. National Institutes of Health
 Division of International Epidemiology and Population Studies<br/>
 Advisor: Cécile Viboud
+* **Led interdisciplinary research linking influenza epidemiological and evolutionary dynamics**, revealing how viral evolution affects seasonal epidemic patterns in the U.S., with implications for genomic surveillance, outbreak prediction, and vaccine development
+  - **Coordinated international research collaboration** across NIH, Fred Hutch, Mt. Sinai, and WHO Influenza Collaborating Centres in Atlanta, London, Melbourne, and Tokyo
+  - **Analyzed 22 seasons of regional influenza epidemics**, integrating large-scale epidemiological, genomic, and serological datasets
+  - **Developed custom evolutionary indicators**, discovering that increased antigenic change correlates with larger, more severe epidemics and higher transmission rates
+  - **Utilized conditional inference random forest models** to predict seasonal epidemic dynamics****, finding that competition between cocirculating influenza subtypes primarily drives interannual variation in outbreak patterns
+* **Delivered high-performing forecasts as NIH representative for U.S. Department of Defense Infectious Disease Forecasting Collaboration** (2019-2022), providing weekly predictions of COVID-19 and influenza cases for U.S. military bases that consistently outperformed internal DoD models
+* **Led COVID-19 healthcare impact analysis in South Africa**, in collaboration with the National Institute for Communicable Diseases and the country's largest private healthcare system
+* **Co-led swine influenza transmission research with Ohio State veterinarians**, characterizing viral spread across networks of exhibition swine shows in the U.S. Midwest and contributing to understanding of zoonotic transmission pathways and development of targeted interventions
 
 `Aug 2011–Aug 2018`
-**Doctoral Research**<br/>
-Department of Integrative Biology, University of Texas at Austin<br/>
+### **Doctoral Researcher, Department of Integrative Biology, University of Texas at Austin**
+Graduate Program in Ecology, Evolution, & Behavior<br/>
 Dissertation: "Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals"<br/>
 Advisor: Lauren Ancel Meyers
-
-`Jan 2010–Aug 2011`
-**Postbaccalaureate IRTA Fellow**<br/>
-National Institute of Dental and Craniofacial Research, U.S. National Institutes of Health<br/>
-Adeno-Associated Virus Biology Section<br/>
-Supervisor: John Chiorini
-
-`Aug 2009–Dec 2009`
-**Research Assistant**<br/>
-Odum School of Ecology, University of Georgia<br/>
-Supervisor: Andrew Park
+* **Independently designed and executed interdisciplinary research program** integrating field data collection, high-throughput sequencing, and computational modeling to study gut microbiome dynamics in wild lemur populations
+* **Planned and managed international field research operations conducting 5 months of fieldwork in Madagascar**, obtaining research permits and coordinating sample collection, transport, and laboratory processing
+* **Developed end-to-end analytical pipelines** utilizing QIIME and DADA2 workflows to process raw 16S rRNA sequencing data and applying Bayesian hierarchical models, random forest classification, social network analysis,and phylogenetic analysis
+* **Identified key drivers of wild primate gut microbiome composition**, revealing how host ecological, evolutionary, andbehavioral traits shape within- and between-species variation in gut microbial communities
+* **Led capacity building initiatives training Malagasy graduate students** in field techniques, data collection, and research methodology
 
 ## Publications
 *Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=8K-upW0AAAAJ&hl).* † = shared first authorship.
@@ -105,17 +139,7 @@ Rakotomalala, E.J., F. Rakotondraparany, <strong>A.C. Perofsky</strong>, & R.J. 
 Berry, B.S.†, K. Magori†, <strong>A.C. Perofsky</strong>, D.E. Stallknecht, & A.W. Park. (2013) Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. <em>Journal of Wildlife Diseases</em> 49(3):501-509. doi: <a href="https://doi.org/10.7589/2012-11-283">10.7589/2012-11-283</a>.
 
 ## Research Funding
-### Fellowships
-`2012-2017`
-**National Science Foundation Graduate Research Fellowship**, $125,000 (three years of funding over five years)
-
-`2011`
-**Graduate Recruitment Fellowship**, Department of Integrative Biology, University of Texas at Austin, $33,000
-
-`2010-2011`
-**Postbaccalaureate Intramural Research Training Award (IRTA) Fellowship**, National Institutes of Health, $56,000
-
-### Grants
+### Grants (PI)
 `2018`
 **Research Exchange Grant**, NSF Infectious Disease Evolution Across Scales Research Coordination Network, $2800<br/>
 
@@ -417,3 +441,10 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 
 `2011–2017`
 **Co-organizer and Volunteer, [Science Under the Stars](https://scienceunderthestars.org/)**, Brackenridge Field Laboratory, Austin, TX. Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.
+
+## Technical Skills
+* **Programming**: R (expert), Python (familiar), SQL (familiar)
+* **Tools**: Version control (git/GitHub), bash, high-performance computing, LaTeX, Markdown
+* **Statistical & Computational Methods**: Bayesian methods (hierarchical models, MCMC sampling), frequentist methods (maximum likelihood estimation, hypothesis testing), time series analysis, Monte Carlo simulation, bootstrap resampling, numerical optimization
+* **Machine Learning Methods**: Random forest (classification and regression), penalized regression, feature importance, dimensionality reduction, clustering
+* **Specialized Analytics**: Infectious disease compartmental modeling, counterfactual analysis, network analysis, phylogenetic analysis, probabilistic forecasting

@@ -54,8 +54,8 @@ Supervisor: Cécile Viboud<br/>
 - **Identified key behavioral drivers of post-pandemic transmission dynamics**, discovering that increasing inter-neighborhood connectivity and visitor influx were most influential in driving viral spread and epidemic timing<br/>
 
 `Apr 2021–Jan 2025`
-### Epidemiological Data Scientist<br/>
-**Seattle Flu Study, Brotman Baty Institute for Precision Medicine, University of Washington**<br/>
+### Epidemiological Data Scientist, Seattle Flu Study<br/>
+**Brotman Baty Institute for Precision Medicine, University of Washington**<br/>
 Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)<br/>
 
 **Large-Scale Data Analytics, Epidemic Modeling, & Research Leadership**

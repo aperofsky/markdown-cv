@@ -9,7 +9,7 @@ body {
 p {
     position: relative;
     left: 5%;
-    margin-bottom: 0.6em; /* REDUCED: from 0.7em to 0.6em */
+    margin-bottom: 0.3em; /* REDUCED: from 0.7em to 0.3em */
     width: 85%;
     font-size: 10pt;
     line-height: 1.2em; /* ADDED: Tighter line height (from default 1.3em) */
@@ -138,6 +138,12 @@ em {
 
 strong {
     font-weight: bold !important;
+}
+
+p strong {
+    display: block;
+    margin-top: 0.3em;
+    margin-bottom: 0.2em;
 }
 
 /* Dates (Right-aligned with enough space) */

@@ -44,14 +44,14 @@ Supervisor: Cécile Viboud<br/>
 - **Develop time series forecasting frameworks for respiratory virus surveillance**, integrating diverse data sources (clinical data, viral genomics, human mobility, immunization records) to enhance prediction accuracy
 - **Generate probabilistic forecasts and scenario projections of influenza hospitalizations** at national and state levels to inform situational awareness and resource allocation decisions
 - **Contribute high-performing forecasts as NIH representative for CDC FluSight consortium** (2022-2025), ranking in top 10 out of 50 individual models from academic, government, and industry teams during 2024-2025 season
-- **Represent NIH in influenza prediction initiatives for U.S. Scenario Modeling Hub** (2022-2025), generating counterfactual projections of hospitalizations to inform public health planning and preparedness strategies<br/>
+- **Represent NIH in influenza prediction initiatives for U.S. Scenario Modeling Hub** (2022-2025), generating counterfactual projections of hospitalizations to inform public health planning and preparedness strategies
 
 **Human Mobility & Respiratory Syncytial Virus Transmission Modeling**
 - **Initiated and led multi-institutional research collaboration**, coordinating model development across government and academic stakeholders (Public Health Seattle & King County, U.S. NIH, University of Washington, Northeastern University)
 - **Mentored team of five PhD students in carrying out beginning modeling stages**, as an Instructor for the Complexity 72h workshop in Madrid, Spain (2024)
 - **Developed Bayesian age-structured mathematical models** to assess impacts of waning immunity and COVID-19 mobility disruptions on the post-pandemic reemergence of RSV in Seattle
 - **Pioneered integration of cell phone mobility data into RSV transmission models**, calibrating models to historical hospitalization data and population dynamics
-- **Identified key behavioral drivers of post-pandemic transmission dynamics**, discovering that increasing inter-neighborhood connectivity and visitor influx from outside Seattle were most influential in driving viral spread and epidemic timing<br/>
+- **Identified key behavioral drivers of post-pandemic transmission dynamics**, discovering that increasing inter-neighborhood connectivity and visitor influx from outside Seattle were most influential in driving viral spread and epidemic timing
 
 `Apr 2021–Jan 2025`
 ### Epidemiological Data Scientist, Seattle Flu Study
@@ -61,12 +61,12 @@ Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)<br/>
 **Large-Scale Data Analytics, Epidemic Modeling, & Research Leadership**
 - **Led citywide respiratory virus transmission study as staff scientist for $11.6M Gates Ventures award**, linking population movement patterns to the transmission dynamics of 18 respiratory viruses prior to and during the COVID-19 pandemic
 - **Developed real-time SARS-CoV-2 variant surveillance platform as Epidemiology Lead for $2M CDC contract**, creating and maintaining public dashboard forecasting variant growth rates across U.S. states, in coordination with Nextstrain bioinformaticians and Seattle Flu Study software engineers
-- **Collaborated with genomic epidemiologists** at Fred Hutchinson Cancer Center to link SARS-CoV-2 genomic sequences to spatial and social patterns of transmission, revealing fine-scale networks of viral spread through communities<br/>
+- **Collaborated with genomic epidemiologists** at Fred Hutchinson Cancer Center to link SARS-CoV-2 genomic sequences to spatial and social patterns of transmission, revealing fine-scale networks of viral spread through communities
 
 **Strategic Communication & Team Leadership**
 - **Presented research findings to international conferences and diverse stakeholders**, including U.S. CDC and Gates Ventures funders and WA State Department of Health, **with invited seminars** at Yale School of Public Health, CDC, WHO, French Institute of Health and Medical Research (INSERM), and Northeastern University
 - **Developed scenario modeling analyses to optimize respiratory sample collection strategies**, balancing cost reduction with scientific robustness across clinical sources and patient demographic groups
-- **Led cross-functional collaboration within Seattle Flu Study**, coordinating data analytics meetings across research groups and mentoring junior researchers on statistical methodology and data analysis<br/>
+- **Led cross-functional collaboration within Seattle Flu Study**, coordinating data analytics meetings across research groups and mentoring junior researchers on statistical methodology and data analysis
 
 `Sep 2018–Apr 2021`
 ### Postdoctoral Research Fellow
@@ -444,8 +444,12 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 **Co-organizer and Volunteer, [Science Under the Stars](https://scienceunderthestars.org/)**, Brackenridge Field Laboratory, Austin, TX. Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.
 
 ## Technical Skills
-**Programming**: R (expert), Python (familiar), SQL (familiar)<br/>
-**Tools**: Version control (git/GitHub), bash, high-performance computing, LaTeX, Markdown<br/>
-**Statistical & Computational Methods**: Bayesian methods (hierarchical models, MCMC sampling), frequentist methods (maximum likelihood estimation, hypothesis testing), time series analysis, Monte Carlo simulation, bootstrap resampling, numerical optimization<br/>
-**Machine Learning Methods**: Random forest (classification and regression), penalized regression, feature importance, dimensionality reduction, clustering<br/>
-**Specialized Analytics**: Infectious disease compartmental modeling, counterfactual analysis, network analysis, phylogenetic analysis, probabilistic forecasting<br/>
+**Programming**: R (expert), Python (familiar), SQL (familiar)
+
+**Tools**: Version control (git/GitHub), bash, high-performance computing, LaTeX, Markdown
+
+**Statistical & Computational Methods**: Bayesian methods (hierarchical models, MCMC sampling), frequentist methods (maximum likelihood estimation, hypothesis testing), time series analysis, Monte Carlo simulation, bootstrap resampling, numerical optimization
+
+**Machine Learning Methods**: Random forest (classification and regression), penalized regression, feature importance, dimensionality reduction, clustering
+
+**Specialized Analytics**: Probabilistic forecasting, infectious disease compartmental modeling, counterfactual analysis, network analysis, phylogenetic analysis

@@ -16,6 +16,7 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 ## Education
 `2018`
 **Ph.D., Ecology, Evolution, and Behavior**, The University of Texas at Austin, Austin, TX, USA<br/>
+Dissertation: _Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals_<br/>
 
 `2009`
 **B.Sc., Biology, B.Sc., Ecology**, University of Georgia, Athens, GA, USA<br/>
@@ -82,7 +83,6 @@ Advisor: Cécile Viboud<br/>
 ### Doctoral Researcher
 **Department of Integrative Biology, The University of Texas at Austin**<br/>
 Graduate Program in Ecology, Evolution, & Behavior<br/>
-Dissertation: _Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals_<br/>
 Advisor: Lauren Ancel Meyers<br/>
 
 * **Independently designed and executed interdisciplinary research program** integrating field data collection, high-throughput sequencing, and computational modeling to study gut microbiome dynamics in wild lemur populations

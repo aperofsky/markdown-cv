@@ -39,7 +39,7 @@ Dissertation: _Ecological, Evolutionary, and Behavioral Determinants of Gut Micr
 Division of International Epidemiology and Population Studies<br/>
 Supervisor: Cécile Viboud<br/>
 
-**Operational Involvement in National Influenza Outbreak Predictions**<br/>
+**Operational Involvement in National Influenza Outbreak Predictions**
 - **Interface with infectious disease modeling working groups and major disease prediction initiatives** to translate complex epidemiological modeling results into actionable insights for public health stakeholders
 - **Develop time series forecasting frameworks for respiratory virus surveillance**, integrating diverse data sources (clinical data, viral genomics, human mobility, immunization records) to enhance prediction accuracy
 - **Generate probabilistic forecasts and scenario projections of influenza hospitalizations** at national and state levels to inform situational awareness and resource allocation decisions
@@ -54,7 +54,7 @@ Supervisor: Cécile Viboud<br/>
 - **Identified key behavioral drivers of post-pandemic transmission dynamics**, discovering that increasing inter-neighborhood connectivity and visitor influx from outside Seattle were most influential in driving viral spread and epidemic timing<br/>
 
 `Apr 2021–Jan 2025`
-### Epidemiological Data Scientist, Seattle Flu Study<br/>
+### Epidemiological Data Scientist, Seattle Flu Study
 **Brotman Baty Institute for Precision Medicine, University of Washington**<br/>
 Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)<br/>
 
@@ -149,7 +149,7 @@ Berry, B.S.†, K. Magori†, <strong>A.C. Perofsky</strong>, D.E. Stallknecht, 
 Co-PI with Lauren Ancel Meyers and Rebecca Lewis
 
 `2015`
-**Dissertation Improvement Grant**, Ecology, Evolution, & Behavior Graduate Program, University of Texas at Austin, $8000<br/>
+**Dissertation Improvement Grant**, Ecology, Evolution, & Behavior Graduate Program, UT Austin, $8000<br/>
 
 `2012`
 **Small Research Grant**, American Society of Primatologists, $2000
@@ -158,7 +158,7 @@ Co-PI with Lauren Ancel Meyers and Rebecca Lewis
 **Small Research Grant**, International Primatological Society, $1500
 
 `2011`
-**Startup Grant**, Ecology, Evolution, & Behavior Graduate Program, University of Texas at Austin, $2000
+**Startup Grant**, Ecology, Evolution, & Behavior Graduate Program, UT Austin, $2000
 
 `2008`
 **NSF Research Experiences for Undergraduates (REU) Award**, NSF Coweeta Long Term Ecological Research Program, $3600
@@ -176,25 +176,25 @@ Role: Staff Scientist
 
 ## Honors and Awards
 `2023`
-**Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health. "For excellence in scientific research in epidemiological modeling with a focus on influenza antigenic evolution and the role of human mobility in COVID-19 disease dynamics."
+**Director's Individual Merit Award**, Fogarty International Center, NIH. "For excellence in scientific research in epidemiological modeling with a focus on influenza antigenic evolution and the role of human mobility in COVID-19 disease dynamics."
 
 `2020, 2021`	
-**Director’s Group Merit Award**, Fogarty International Center, National Institutes of Health. "For outstanding modeling work to support the COVID-19 pandemic response domestically and internationally."
+**Director’s Group Merit Award**, Fogarty International Center, NIH. "For outstanding modeling work to support the COVID-19 pandemic response domestically and internationally."
 
 `2020`	
 **Young Scientist Award**, European Scientific Working group on Influenza (ESWI) Conference
 
 `2019`
-**Director's Individual Merit Award**, Fogarty International Center, National Institutes of Health. "For outstanding efforts to forecast weekly influenza-like illness activity in 27 U.S. military facilities in collaboration with DoD."
+**Director's Individual Merit Award**, Fogarty International Center, NIH. "For outstanding efforts to forecast weekly influenza-like illness activity in 27 U.S. military facilities in collaboration with DoD."
 
 `2017, 2018`	
-**Graduate School Summer Semester Continuing Fellowship**, University of Texas at Austin
+**Graduate School Summer Semester Continuing Fellowship**, UT Austin
 
 `2017`	
 **Course Fellowship, Network Modeling for Epidemics**, University of Washington, Seattle, WA
 
 `2017`
-**Graduate Student Professional Development Award**, College of Natural Sciences, University of Texas at Austin
+**Graduate Student Professional Development Award**, College of Natural Sciences, UT Austin
 
 `2014, 2015`	
 **Scholarship and Travel Award, Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)**, University of Washington, Seattle, WA
@@ -349,13 +349,13 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 **Influenza Interest Group, National Institutes of Health**, Bethesda, MD. *Impact of influenza antigenic evolution on disease dynamics in the United States.*
 
 `2017`
-**NSF BEACON weekly seminar, University of Texas at Austin**, Austin, TX. *Gut microbiome diversity across sympatric mammal populations of Madagascar reflects diet, substrate use, and host phylogeny.*
+**NSF BEACON weekly seminar, UT Austin**, Austin, TX. *Gut microbiome diversity across sympatric mammal populations of Madagascar reflects diet, substrate use, and host phylogeny.*
 
 `2016`
-**NSF BEACON weekly seminar, University of Texas at Austin**, Austin, TX. *Social networks shape the gut microbial communities of wild Verreaux’s sifaka.*
+**NSF BEACON weekly seminar, UT Austin**, Austin, TX. *Social networks shape the gut microbial communities of wild Verreaux’s sifaka.*
 
 `2015`
-**Department of Integrative Biology, University of Texas at Austin**, Austin, TX. *Social networks shape the gut microbial communities of wild Verreaux’s sifaka.*
+**Department of Integrative Biology, UT Austin**, Austin, TX. *Social networks shape the gut microbial communities of wild Verreaux’s sifaka.*
 
 ## Teaching and Mentoring Experience
 ### Student mentoring
@@ -375,17 +375,17 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 
 ### Assistant teaching
 `Fall 2016, 2017`
-**Scientific Inquiry Across Disciplines**, University of Texas at Austin<br/>
+**Scientific Inquiry Across Disciplines**, UT Austin<br/>
 
 `Spring 2013`
-**Social Networks and Infectious Diseases**, University of Texas at Austin<br/>
+**Social Networks and Infectious Diseases**, UT Austin<br/>
 
 ### Guest lectures
 `Nov 2015`
-**Biological Networks and Social Network Analysis**, Introduction to Biological Statistics Course, Center for Computational Biology and Bioinformatics, University of Texas at Austin.
+**Biological Networks and Social Network Analysis**, Introduction to Biological Statistics Course, Center for Computational Biology and Bioinformatics, UT Austin.
 
 `Nov 2014`
-**Introduction to Networks**, Introduction to Biological Statistics Course, Center for Computational Biology and Bioinformatics, University of Texas at Austin.
+**Introduction to Networks**, Introduction to Biological Statistics Course, Center for Computational Biology and Bioinformatics, UT Austin.
 
 ### Professional training
 `Spring 2020`
@@ -408,7 +408,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 **Policy essay editor**, [Science Policy for All](https://www.linkedin.com/in/scipolicyforall/recent-activity/all/?trk=article-ssr-frontend-pulse_more-articles). Policy blog with contributors from the Washington, DC area.
 
 `Feb 2017`
-**Invited Panelist**, [NSF BEACON Public Engagement Workshop](https://guides.lib.utexas.edu/c.php?g=631094&p=5639699), University of Texas at Austin, Austin, TX.
+**Invited Panelist**, [NSF BEACON Public Engagement Workshop](https://guides.lib.utexas.edu/c.php?g=631094&p=5639699), UT Austin, Austin, TX.
 
 **Ad-hoc peer review** (select journals): *American Journal of Epidemiology, American Journal of Primatology, Animal Behaviour, BMJ Global Health, Ecology and Evolution, Epidemics, The ISME Journal, Molecular Ecology, Nature Communications, Nature Physics, PLOS Computational Biology, PNAS Nexus*
 
@@ -429,7 +429,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 **Selected speaker, American Association for the Advancement of Science (AAAS) Classroom Science Days**,  Austin, TX. Outreach lecture "Meet the Lemurs" to middle school students. [AAAS coverage](https://www.aaas.org/news/aaas-connects-scientists-and-students-classroom-science-days)
 
 `2016–2017`
-**Member, Austin Science Advocates**, University of Texas at Austin. Student group aimed at improving communication between scientists, the public, and policymakers.
+**Member, Austin Science Advocates**, UT Austin. Student group aimed at improving communication between scientists, the public, and policymakers.
 
 `Nov 2016`
 **Public outreach lecture "Meet the Lemurs", Science Under the Stars**, Brackenridge Field Laboratory, Austin, TX. [*Daily Texan* coverage](https://thedailytexan.com/2016/11/14/science-under-the-stars-lecture-features-lemurs/)
@@ -438,7 +438,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 **NSF BEACON “Researchers at Work” essay**, [How lemur social networks shape microbial transmission.](https://www3.beacon-center.org/blog/2016/03/14/how-lemur-social-networks-shape-microbial-transmission/)
 
 `2011–2018`
-**Radio DJ and Science Talk Show Co-host, [They Blinded Me with Science](https://www.facebook.com/tbmwskvrx)** on [KVRX 91.7FM](https://kvrx.org/app/), University of Texas at Austin. Co-hosted weekly educational talk show that interviewed UT-based and visiting researchers and reviewed science publications and news. Recruited guests, conducted interviews, and produced podcasts.
+**Radio DJ and Science Talk Show Co-host, [They Blinded Me with Science](https://www.facebook.com/tbmwskvrx)** on [KVRX 91.7FM](https://kvrx.org/app/), UT Austin. Co-hosted weekly educational talk show that interviewed UT-based and visiting researchers and reviewed science publications and news. Recruited guests, conducted interviews, and produced podcasts.
 
 `2011–2017`
 **Co-organizer and Volunteer, [Science Under the Stars](https://scienceunderthestars.org/)**, Brackenridge Field Laboratory, Austin, TX. Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.

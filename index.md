@@ -58,12 +58,9 @@ Supervisor: Cécile Viboud<br/>
 **Brotman Baty Institute for Precision Medicine, University of Washington**<br/>
 Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)<br/>
 
-**Large-Scale Data Analytics, Epidemic Modeling, & Research Leadership**
 - **Led citywide respiratory virus transmission study as staff scientist for $11.6M Gates Ventures award**, linking population movement patterns to the transmission dynamics of 18 respiratory viruses prior to and during the COVID-19 pandemic
 - **Developed real-time SARS-CoV-2 variant surveillance platform as Epidemiology Lead for $2M CDC contract**, creating and maintaining public dashboard forecasting variant growth rates across U.S. states, in coordination with Nextstrain bioinformaticians and Seattle Flu Study software engineers
 - **Collaborated with genomic epidemiologists** at Fred Hutchinson Cancer Center to link SARS-CoV-2 genomic sequences to spatial and social patterns of transmission, revealing fine-scale networks of viral spread through communities
-
-**Strategic Communication & Team Leadership**
 - **Presented research findings to international conferences and diverse stakeholders**, including U.S. CDC and Gates Ventures funders and WA State Department of Health, **with invited seminars** at Yale School of Public Health, CDC, WHO, French Institute of Health and Medical Research (INSERM), and Northeastern University
 - **Developed scenario modeling analyses to optimize respiratory sample collection strategies**, balancing cost reduction with scientific robustness across clinical sources and patient demographic groups
 - **Led cross-functional collaboration within Seattle Flu Study**, coordinating data analytics meetings across research groups and mentoring junior researchers on statistical methodology and data analysis

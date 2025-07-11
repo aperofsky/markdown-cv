@@ -54,7 +54,7 @@ body {
 	font-size: 100%;
 	line-height: 1.3em;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-	margin-top: 0.3em; /* CHANGED: Reduced from 1em to 0.3em */
+	margin-top: 0.5em; /* CHANGED: Reduced from 1em to 0.5em */
 	margin-left: 1em;
 }
 
@@ -77,6 +77,8 @@ p code {
 	position: absolute;
 	text-align: right;
 	right: -20%;
+	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
+	color: #666;
 }
 
 ul { 
@@ -107,7 +109,7 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 2.2em; /* CHANGED: Reduced from 3em to 2.2em */
+	font-size: 2.5em; /* CHANGED: Reduced from 3em to 2.5em */
 	line-height: 1em;
 	position: relative;
 	left: 25%;
@@ -122,7 +124,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #bc412b;
-	margin-top: 2em; /* OPTIONAL: Reduced from 3em to 2em for tighter spacing */
+	margin-top: 2.5em; /* OPTIONAL: Reduced from 3em to 2.5em for tighter spacing */
 	position: relative;
 	top: 1.4em;
 	text-align: right;

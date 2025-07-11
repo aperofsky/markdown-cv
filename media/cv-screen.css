@@ -54,7 +54,7 @@ body {
 	font-size: 100%;
 	line-height: 1.3em;
 	font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
-	margin-top: 1em;
+	margin-top: 0.3em; /* CHANGED: Reduced from 1em to 0.3em */
 	margin-left: 1em;
 }
 
@@ -107,10 +107,11 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 3em;
+	font-size: 2.2em; /* CHANGED: Reduced from 3em to 2.2em */
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	margin-top: 0; /* ADDED: Ensure no extra top margin */
 }
 
 h1+p { 
@@ -121,7 +122,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #bc412b;
-	margin-top: 3em;
+	margin-top: 2em; /* OPTIONAL: Reduced from 3em to 2em for tighter spacing */
 	position: relative;
 	top: 1.4em;
 	text-align: right;

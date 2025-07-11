@@ -62,8 +62,8 @@ h1, h2, h3, h4 {
 
 h1 {
     text-align: left;
-    font-size: 2em; /* CHANGED: Reduced from 2em to 1.8em */
-    line-height: 1.2em; /* INCREASED: 1em to 1.2em
+    font-size: 1.6em; /* Reduced from 2em for better proportion */
+    line-height: 1.2em; /* Improved line height */
     position: relative;
     left: 5%;
 }

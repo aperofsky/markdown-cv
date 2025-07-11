@@ -77,8 +77,8 @@ h1 + p {
 h2 {
     font-size: 1.2em;
     font-weight: 400;
-    margin-top: 1.2em; /* OPTIONAL: Reduced from 1.5em to 1.2em */
-    margin-bottom: 0.8em; /* REDUCED: from 1em to 0.8em */
+    margin-top: 1.5em; 
+    margin-bottom: 1.0em;
     position: relative;
     text-align: left;
     left: 5%;

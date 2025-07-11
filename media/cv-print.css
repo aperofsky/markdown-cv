@@ -26,6 +26,8 @@ p code {
     position: absolute;
     text-align: right;
     right: -20%;
+    font-family: Avenir, "Helvetica Neue", Arial, sans-serif;
+    color: #666;
 }
 
 ul {

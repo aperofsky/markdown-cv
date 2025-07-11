@@ -40,8 +40,8 @@ ul {
 }
 
 li {
-    padding-left: 0.6em;  /* Reduced from 1.25em */
-    text-indent: -0.6em;  /* Match the padding-left value */
+    padding-left: 0.4em;  /* Reduced from 1.25em */
+    text-indent: -0.4em;  /* Match the padding-left value */
     line-height: 1.2em; /* ADDED: Tighter line height */
     margin-bottom: 0.2em; /* ADDED: Small spacing between list items */
 }

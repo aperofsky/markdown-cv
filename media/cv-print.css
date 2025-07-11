@@ -9,9 +9,10 @@ body {
 p {
     position: relative;
     left: 5%;
-    margin-bottom: 0.7em;
+    margin-bottom: 0.4em; /* REDUCED: from 0.7em to 0.4em */
     width: 85%;
     font-size: 10pt;
+    line-height: 1.2em; /* ADDED: Tighter line height (from default 1.3em) */
 }
 
 code {
@@ -31,13 +32,16 @@ ul {
     position: relative;
     left: 5%;
     width: 85%;
-    margin-bottom: 1.5em;
+    margin-bottom: 1em; /* REDUCED: from 1.5em to 1em */
     font-size: 10pt;
+    line-height: 1.2em; /* ADDED: Tighter line height */
 }
 
 li {
     padding-left: 1.25em;
     text-indent: -1.25em;
+    line-height: 1.2em; /* ADDED: Tighter line height */
+    margin-bottom: 0.2em; /* ADDED: Small spacing between list items */
 }
 
 li ul {
@@ -72,7 +76,7 @@ h2 {
     font-size: 1.2em;
     font-weight: 400;
     margin-top: 1.2em; /* OPTIONAL: Reduced from 1.5em to 1.2em */
-    margin-bottom: 1em;
+    margin-bottom: 0.8em; /* REDUCED: from 1em to 0.8em */
     position: relative;
     text-align: left;
     left: 5%;
@@ -86,12 +90,12 @@ h2 {
 h3 {
     font-size: 1.1em;
     font-weight: 400;
-    line-height: 1.3em;
+    line-height: 1.2em; /* REDUCED: from 1.3em to 1.2em */
     position: relative;
     text-align: left;
     left: 5%;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    margin-top: 0.3em; /* REDUCED: from 0.5em to 0.3em */
+    margin-bottom: 0.3em; /* REDUCED: from 0.5em to 0.3em */
     page-break-after: avoid;
 }
 

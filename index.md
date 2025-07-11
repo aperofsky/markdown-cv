@@ -16,7 +16,6 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 ## Education
 `2018`
 **Ph.D., Ecology, Evolution, and Behavior**, The University of Texas at Austin, Austin, TX, USA<br/>
-Dissertation: _Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals_ <br/>
 
 `2009`
 **B.Sc., Biology, B.Sc., Ecology**, University of Georgia, Athens, GA, USA<br/>
@@ -47,11 +46,11 @@ Supervisor: Cécile Viboud<br/>
 - **Represent NIH in influenza prediction initiatives for U.S. Scenario Modeling Hub** (2022-2025), generating counterfactual projections of hospitalizations to inform public health planning and preparedness strategies<br/>
 
 **Human Mobility & Respiratory Syncytial Virus Transmission Modeling**
-- **Initiated and led multi-institutional research collaboration**, coordinating data sharing and model development across government and academic stakeholders (Public Health Seattle & King County, U.S. NIH, University of Washington, Northeastern University)
+- **Initiated and led multi-institutional research collaboration**, coordinating model development across government and academic stakeholders (Public Health Seattle & King County, U.S. NIH, University of Washington, Northeastern University)
 - **Mentored team of five PhD students in carrying out beginning modeling stages**, as an Instructor for the Complexity 72h workshop in Madrid, Spain (2024)
-- **Developed Bayesian age-structured mathematical models** to assess impacts of immune waning and decreased social distancing on post-pandemic reemergence of RSV in Seattle
+- **Developed Bayesian age-structured mathematical models** to assess impacts of waning immunity and COVID-19 mobility disruptions on the post-pandemic reemergence of RSV in Seattle
 - **Pioneered integration of cell phone mobility data into RSV transmission models**, calibrating models to historical hospitalization data and population dynamics
-- **Identified key behavioral drivers of post-pandemic transmission dynamics**, discovering that increasing inter-neighborhood connectivity and visitor influx were most influential in driving viral spread and epidemic timing<br/>
+- **Identified key behavioral drivers of post-pandemic transmission dynamics**, discovering that increasing inter-neighborhood connectivity and visitor influx from outside Seattle were most influential in driving viral spread and epidemic timing<br/>
 
 `Apr 2021–Jan 2025`
 ### Epidemiological Data Scientist, Seattle Flu Study<br/>
@@ -83,10 +82,11 @@ Advisor: Cécile Viboud<br/>
 ### Doctoral Researcher
 **Department of Integrative Biology, The University of Texas at Austin**<br/>
 Graduate Program in Ecology, Evolution, & Behavior<br/>
+Dissertation: _Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals_<br/>
 Advisor: Lauren Ancel Meyers<br/>
 
 * **Independently designed and executed interdisciplinary research program** integrating field data collection, high-throughput sequencing, and computational modeling to study gut microbiome dynamics in wild lemur populations
-* **Planned and managed international field research operations conducting 5 months of fieldwork in Madagascar**, obtaining research permits and coordinating sample collection, transport, and laboratory processing
+* **Planned and managed international field research operations conducting 5 months of fieldwork in Madagascar**, obtaining research permits and carrying out biological sample collection, transport, and laboratory processing
 * **Developed end-to-end analytical pipelines** utilizing QIIME and DADA2 workflows to process raw 16S rRNA sequencing data and applying Bayesian hierarchical models, random forest classification, social network analysis,and phylogenetic analysis
 * **Identified key drivers of wild primate gut microbiome composition**, revealing how host ecological, evolutionary, andbehavioral traits shape within- and between-species variation in gut microbial communities
 * **Led capacity building initiatives training Malagasy graduate students** in field techniques, data collection, and research methodology
@@ -444,8 +444,8 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 **Co-organizer and Volunteer, [Science Under the Stars](https://scienceunderthestars.org/)**, Brackenridge Field Laboratory, Austin, TX. Monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology.
 
 ## Technical Skills
-* **Programming**: R (expert), Python (familiar), SQL (familiar)
-* **Tools**: Version control (git/GitHub), bash, high-performance computing, LaTeX, Markdown
-* **Statistical & Computational Methods**: Bayesian methods (hierarchical models, MCMC sampling), frequentist methods (maximum likelihood estimation, hypothesis testing), time series analysis, Monte Carlo simulation, bootstrap resampling, numerical optimization
-* **Machine Learning Methods**: Random forest (classification and regression), penalized regression, feature importance, dimensionality reduction, clustering
-* **Specialized Analytics**: Infectious disease compartmental modeling, counterfactual analysis, network analysis, phylogenetic analysis, probabilistic forecasting
+**Programming**: R (expert), Python (familiar), SQL (familiar)<br/>
+**Tools**: Version control (git/GitHub), bash, high-performance computing, LaTeX, Markdown<br/>
+**Statistical & Computational Methods**: Bayesian methods (hierarchical models, MCMC sampling), frequentist methods (maximum likelihood estimation, hypothesis testing), time series analysis, Monte Carlo simulation, bootstrap resampling, numerical optimization<br/>
+**Machine Learning Methods**: Random forest (classification and regression), penalized regression, feature importance, dimensionality reduction, clustering<br/>
+**Specialized Analytics**: Infectious disease compartmental modeling, counterfactual analysis, network analysis, phylogenetic analysis, probabilistic forecasting<br/>

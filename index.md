@@ -29,7 +29,7 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 **Graduate Recruitment Fellowship**, Department of Integrative Biology, The University of Texas at Austin
 
 `2010-2011`
-**NIH Postbaccalaureate Intramural Research Training Award (IRTA) Fellowship**, U.S. National Institutes of Health<br/>
+**NIH Postbaccalaureate IRTA Fellowship**, U.S. National Institutes of Health<br/>
 Adeno-Associated Virus Biology Section, National Institute of Dental and Craniofacial Research
 
 ## Research Experience

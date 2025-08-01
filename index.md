@@ -41,14 +41,14 @@ Supervisor: Cécile Viboud<br/>
 
 **Operational Involvement in National Influenza Outbreak Predictions**
 - **Interface with infectious disease modeling working groups and major disease prediction initiatives** to translate complex epidemiological modeling results into actionable insights for public health decision-making
-- **Develop time series forecasting frameworks for respiratory virus surveillance**, integrating diverse data sources (public health reporting systems, administrative claims, electronic health records, laboratory diagnostics, immunization records, viral genomics, human mobility patterns) to enhance prediction accuracy
+- **Develop time series forecasting frameworks for respiratory virus surveillance**, integrating diverse data sources (public health reporting systems, EHRs, laboratory diagnostics, immunization records, viral genomics, human mobility patterns) to enhance prediction accuracy
 - **Generate probabilistic forecasts and scenario projections of influenza hospitalizations** at national and state levels to inform situational awareness and resource allocation decisions
 - **Contribute high-performing forecasts as NIH representative for CDC FluSight consortium** (2022-2025), ranking in top 10 out of 50 individual models from academic, government, and industry teams during 2024-2025 season
 - **Represent NIH in influenza prediction initiatives for U.S. Scenario Modeling Hub** (2022-2025), generating counterfactual projections of hospitalizations to inform public health planning, preparedness strategies, and CDC vaccination campaign planning
 
 **Human Mobility & Respiratory Syncytial Virus Transmission Modeling**
 - **Initiated and led multi-institutional research collaboration**, coordinating data sharing and model development across government and academic stakeholders (Public Health Seattle & King County, NIH, University of Washington, Northeastern University)
-- **Mentored team of five PhD students through initial modeling phases** as Instructor for Complexity 72h workshop in Madrid (2024), resulting in collaborative preprint with students as co-first authors
+- **Mentored team of 5 PhD students through initial modeling phases** as Instructor for Complexity 72h workshop in Madrid (2024), resulting in collaborative preprint with students as co-first authors
 - **Developed Bayesian age-structured mathematical models** to assess the impacts of immune waning and decreased social distancing on the post-pandemic reemergence of RSV in Seattle
 - **Pioneered integration of cell phone mobility data into RSV transmission models**, calibrating models to hospitalization data from 19 hospitals and historical population dynamics
 - **Identified key behavioral drivers of post-pandemic transmission dynamics**, discovering that increasing inter-neighborhood connectivity and visitor influx from outside Seattle were most influential in driving post-pandemic viral spread and epidemic timing
@@ -138,12 +138,12 @@ Berry, B.S.†, K. Magori†, <strong>A.C. Perofsky</strong>, D.E. Stallknecht, 
 
 Bents, S. J., E. T. Martin, ... <strong>A. Perofsky</strong>, ... A. Waghmare, C. Viboud. (2025) Multiplex serology reveals age-specific immunodynamics of endemic respiratory pathogens in the wake of the COVID-19 pandemic. <em>medRxiv</em> 2025.03.26.25324738. doi: <a href="https://doi.org/10.1101/2025.03.26.25324738">10.1101/2025.03.26.25324738</a>. (Submitted, <em>Nature Communications</em>)
 
-Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington. <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report, in prep for submission)
+Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington. <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report)
 
 ## Research Funding
 ### Grants (PI)
 `2018`
-**Research Exchange Grant**, NSF Infectious Disease Evolution Across Scales Research Coordination Network, $2800<br/>
+**Research Exchange Grant**, NSF Infectious Disease Evolution Across Scales (IDEAS) Research Coordination Network, $2800<br/>
 
 `2015`
 **Research Grant DBI-0939454**, BEACON: An NSF Science and Technology Center for the Study of Evolution in Action, $16,000 <br/>
@@ -366,7 +366,8 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 
 `Summer 2012, 2016`
 **Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo, Madagascar**. Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
-2012: Elvis Rakotomalala, [*Lepilemur* tree hole characteristics](https://doi.org/10.1159/000464406); 2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior <br/>
+2012: Elvis Rakotomalala, [*Lepilemur* tree hole characteristics](https://doi.org/10.1159/000464406)<br/>
+2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior <br/>
 
 ### Short courses
 `Sep 2019`
@@ -429,9 +430,6 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 
 `Feb 2018`
 **Selected speaker, American Association for the Advancement of Science (AAAS) Classroom Science Days**,  Austin, TX. Outreach lecture "Meet the Lemurs" to middle school students. [AAAS coverage](https://www.aaas.org/news/aaas-connects-scientists-and-students-classroom-science-days)
-
-`2016–2017`
-**Member, Austin Science Advocates**, UT Austin, Austin, TX. Student group aimed at improving communication between scientists, the public, and policymakers.
 
 `Nov 2016`
 **Public outreach lecture "Meet the Lemurs", Science Under the Stars**, Brackenridge Field Laboratory, Austin, TX. [*Daily Texan* coverage](https://thedailytexan.com/2016/11/14/science-under-the-stars-lecture-features-lemurs/)

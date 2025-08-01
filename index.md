@@ -29,8 +29,8 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 **Graduate Recruitment Fellowship**, Department of Integrative Biology, The University of Texas at Austin
 
 `2010-2011`
-**NIH Postbaccalaureate Intramural Research Training Award (IRTA) Fellowship**<br/>
-Adeno-Associated Virus Biology Section, National Institute of Dental and Craniofacial Research, U.S. National Institutes of Health
+**NIH Postbaccalaureate Intramural Research Training Award (IRTA) Fellowship**<br/>, U.S. National Institutes of Health
+Adeno-Associated Virus Biology Section, National Institute of Dental and Craniofacial Research
 
 ## Research Experience
 `Apr 2021–present`
@@ -45,7 +45,6 @@ Supervisor: Cécile Viboud<br/>
 - **Generate probabilistic forecasts and scenario projections of influenza hospitalizations** at national and state levels to inform situational awareness and resource allocation decisions
 - **Contribute high-performing forecasts as NIH representative for CDC FluSight consortium** (2022-2025), ranking in top 10 out of 50 individual models from academic, government, and industry teams during 2024-2025 season
 - **Represent NIH in influenza prediction initiatives for U.S. Scenario Modeling Hub** (2022-2025), generating counterfactual projections of hospitalizations to inform public health planning, preparedness strategies, and CDC vaccination campaign planning
-- **Investigating impacts of antigenic drift and prior immunity on influenza vaccine effectiveness across two decades**, developing analytical frameworks to predict seasonal vaccine performance
 
 **Human Mobility & Respiratory Syncytial Virus Transmission Modeling**
 - **Initiated and led multi-institutional research collaboration**, coordinating data sharing and model development across government and academic stakeholders (Public Health Seattle & King County, NIH, University of Washington, Northeastern University)

@@ -29,8 +29,8 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 **Graduate Recruitment Fellowship**, Department of Integrative Biology, The University of Texas at Austin
 
 `2010-2011`
-**NIH Postbaccalaureate Intramural Research Training Award (IRTA) Fellowship**, U.S. National Institutes of Health<br/>
-Adeno-Associated Virus Biology Section, National Institute of Dental and Craniofacial Research
+**NIH Postbaccalaureate Intramural Research Training Award (IRTA) Fellowship**<br/>
+Adeno-Associated Virus Biology Section, National Institute of Dental and Craniofacial Research, U.S. National Institutes of Health
 
 ## Research Experience
 `Apr 2021–present`
@@ -44,7 +44,7 @@ Supervisor: Cécile Viboud<br/>
 - **Develop time series forecasting frameworks for respiratory virus surveillance**, integrating diverse data sources (public health reporting systems, administrative claims, electronic health records, laboratory diagnostics, immunization records, viral genomics, human mobility patterns) to enhance prediction accuracy
 - **Generate probabilistic forecasts and scenario projections of influenza hospitalizations** at national and state levels to inform situational awareness and resource allocation decisions
 - **Contribute high-performing forecasts as NIH representative for CDC FluSight consortium** (2022-2025), ranking in top 10 out of 50 individual models from academic, government, and industry teams during 2024-2025 season
-- **Represent NIH in influenza prediction initiatives for U.S. Scenario Modeling Hub** (2022-2025), generating counterfactual projections ofhospitalizations to inform public health planning, preparedness strategies, and CDC vaccination campaign planning
+- **Represent NIH in influenza prediction initiatives for U.S. Scenario Modeling Hub** (2022-2025), generating counterfactual projections of hospitalizations to inform public health planning, preparedness strategies, and CDC vaccination campaign planning
 - **Investigating impacts of antigenic drift and prior immunity on influenza vaccine effectiveness across two decades**, developing analytical frameworks to predict seasonal vaccine performance
 
 **Human Mobility & Respiratory Syncytial Virus Transmission Modeling**
@@ -61,7 +61,7 @@ Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)<br/>
 
 - **Led citywide respiratory virus transmission study as staff scientist for $11.6M Gates Ventures award**, linking population movement patterns to the transmission dynamics of 18 respiratory viruses, both prior to and during the COVID-19 pandemic
 - **Developed real-time SARS-CoV-2 variant surveillance platform as Epidemiology Lead for $2M CDC contract**, creating and maintaining public dashboard forecasting variant growth rates across U.S. states, in coordination with Nextstrain bioinformaticians and Seattle Flu Study software engineers
-- **Collaborated with genomic epidemiologists** at Fred Hutchinson Cancer Center to link SARS-CoV-2 genomic sequences to spatial and social patterns of transmission, revealing fine-scale networks of viral spread through communities
+- **Collaborated with genomic epidemiologists** at Fred Hutch to link SARS-CoV-2 genomic sequences to spatial and social patterns of transmission, revealing fine-scale networks of viral spread through communities
 - **Contributed to population-level RSV vaccine impact modeling**, evaluating hospitalizations averted and optimization strategies for infant and older adult immunization programs
 - **Presented research findings to international conferences and diverse stakeholders**, including CDC and Gates Ventures funders and WA State Department of Health, **with invited seminars** at Yale School of Public Health, CDC, WHO, French Institute of Health and Medical Research (INSERM), and Northeastern University
 - **Developed scenario modeling analyses to optimize respiratory sample collection strategies**, balancing cost reduction with scientific robustness across clinical sources and patient demographic groups
@@ -367,8 +367,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 
 `Summer 2012, 2016`
 **Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo, Madagascar**. Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
-2012: Elvis Rakotomalala, *Lepilemur* tree hole characteristics [Publication](https://doi.org/10.1159/000464406) <br/> 
-2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior <br/>
+2012: Elvis Rakotomalala, [*Lepilemur* tree hole characteristics](https://doi.org/10.1159/000464406); 2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior <br/>
 
 ### Short courses
 `Sep 2019`

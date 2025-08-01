@@ -97,7 +97,7 @@ Advisor: Lauren Ancel Meyers<br/>
 
 ### Journal articles
 
-Elias-Warren, A., J.C. Bennett, ... <strong>A.C. Perofsky</strong>, ... H.Y. Chu. (2025) Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, WA, USA. <em>The Journal of Infectious Diseases</em> 232(Issue Supplement_1):S78–S92.doi: <a href="https://doi.org/10.1093/infdis/jiaf142">10.1093/infdis/jiaf142</a>.
+Elias-Warren, A., J.C. Bennett, ... <strong>A.C. Perofsky</strong>, ... H.Y. Chu. (2025) Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, WA, USA. <em>The Journal of Infectious Diseases</em> 232(Supplement_1):S78–S92. doi: <a href="https://doi.org/10.1093/infdis/jiaf142">10.1093/infdis/jiaf142</a>.
 
 Hansen, C. L., L. Lee, S.J. Bents, <strong>A.C. Perofsky</strong>, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2025) Scenario Projections of Respiratory Syncytial Virus Hospitalizations Averted Due to New Immunizations. <em>JAMA Network Open</em> 8(6):e2514622. doi: <a href="https://doi.org/10.1001/jamanetworkopen.2025.14622">10.1001/jamanetworkopen.2025.14622</a>.
 
@@ -254,7 +254,8 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 **Epidemics<sup>9</sup> International Conference on Infectious Disease Dynamics**, Bologna, Italy. *Are changes in population mobility predictive of respiratory virus transmission? Insights from high resolution mobile phone data in the pre- and post-COVID-19 pandemic periods in Seattle, Washington.*
 
 `2023`
-**EpiMob Satellite (“Epidemic control: from mobility data to public health”)<sup>*</sup>, NetSci International Conference on Network Science**, Vienna, Austria. *Are changes in population mobility predictive of respiratory virus transmission? Insights from high resolution mobile phone data in the pre- and post-COVID-19 pandemic periods in Seattle, Washington.* **<sup>*</sup>Invited keynote speaker**
+**EpiMob Satellite (“Epidemic control: from mobility data to public health”)<sup>*</sup>, NetSci International Conference on Network Science**, Vienna, Austria. *Are changes in population mobility predictive of respiratory virus transmission? Insights from high resolution mobile phone data in the pre- and post-COVID-19 pandemic periods in Seattle, Washington.* <br/>
+**<sup>*</sup>Invited keynote speaker**
 
 `2022`	
 **Options XI for the Control of Influenza**, Belfast, Northern Ireland. *Impact of antigenic drift on influenza A/H3N2 vaccine effectiveness in the United States.*
@@ -366,7 +367,8 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 
 `Summer 2012, 2016`
 **Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo, Madagascar**. Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
-2012: Elvis Rakotomalala, [Lepilemur tree hole characteristics](https://doi.org/10.1159/000464406); 2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior
+2012: Elvis Rakotomalala, [Lepilemur tree hole characteristics](https://doi.org/10.1159/000464406) <br/> 
+2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior <br/>
 
 ### Short courses
 `Sep 2019`
@@ -398,7 +400,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 **Working group on the use of human mobility data in infectious disease modeling**, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD
 
 `2022–2024`
-**Led and coordinated monthly [Seattle Flu Study](https://seattleflu.org/) Data Analysis meetings**, promoting collaboration and idea exchange across epidemiology, laboratory, clinical, engineering, and operations teams
+**Led and coordinated monthly [Seattle Flu Study](https://seattleflu.org/) Data Analysis meetings**, promoting idea exchange and collaboration across epidemiology, laboratory, clinical, engineering, and operations teams
 
 `2022, 2023, 2024`
 **Abstract reviewer**, NIH Modeling of Infectious Disease Agent Study (MIDAS) Annual Meetings

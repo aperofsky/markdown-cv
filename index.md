@@ -30,7 +30,7 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 
 `2010-2011`
 **NIH Postbaccalaureate Intramural Research Training Award (IRTA) Fellowship**, U.S. National Institutes of Health<br/>
-Adeno-Associated Virus Biology Section, National Institute of Dental and Craniofacial Research (NIDCR)
+Adeno-Associated Virus Biology Section, National Institute of Dental and Craniofacial Research
 
 ## Research Experience
 `Apr 2021–present`
@@ -218,11 +218,11 @@ Role: Staff Scientist
 
 `2005–2009`
 **Georgia Governor's Scholarship**<br/>
-Awarded to high school valedictorians attending in-state universities. Annual $900 stipend.
+Awarded to high school valedictorians attending in-state universities.
 
 `2005–2009`	
 **Charter Scholarship**, University of Georgia Honors Program<br/>
-Awarded to 200 new students for outstanding achievement in academics. Annual $2000 stipend.
+Awarded to 200 new students for outstanding achievement in academics.
 
 `2005–2009`	
 **National Merit Scholarship**, University of Georgia
@@ -254,7 +254,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 **Epidemics<sup>9</sup> International Conference on Infectious Disease Dynamics**, Bologna, Italy. *Are changes in population mobility predictive of respiratory virus transmission? Insights from high resolution mobile phone data in the pre- and post-COVID-19 pandemic periods in Seattle, Washington.*
 
 `2023`
-**EpiMob Satellite (“Epidemic control: from mobility data to public health”)<sup>*</sup>, NetSci International Conference on Network Science**, Vienna, Austria. *Are changes in population mobility predictive of respiratory virus transmission? Insights from high resolution mobile phone data in the pre- and post-COVID-19 pandemic periods in Seattle, Washington.* <br/>
+**EpiMob Satellite (“Epidemic control: from mobility data to public health”), NetSci International Conference on Network Science**, Vienna, Austria. *Are changes in population mobility predictive of respiratory virus transmission? Insights from high resolution mobile phone data in the pre- and post-COVID-19 pandemic periods in Seattle, Washington.* <br/>
 **<sup>*</sup>Invited keynote speaker**
 
 `2022`	
@@ -367,7 +367,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 
 `Summer 2012, 2016`
 **Master’s student mentoring in primate field ecology, Department of Animal Biology, University of Antananarivo, Madagascar**. Mentored and trained two Malagasy Masters’ students in field techniques, data collection, and specimen preservation at Kirindy Mitea National Park, Madagascar. Guided mentees in developing independent research projects and helped them connect their work to broader questions in primatology and animal behavior.<br/>
-2012: Elvis Rakotomalala, [Lepilemur tree hole characteristics](https://doi.org/10.1159/000464406) <br/> 
+2012: Elvis Rakotomalala, *Lepilemur* tree hole characteristics [Publication](https://doi.org/10.1159/000464406) <br/> 
 2016: Safidy Rasolonjatovo, Verreaux's sifaka scent marking behavior <br/>
 
 ### Short courses

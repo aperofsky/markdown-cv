@@ -72,7 +72,7 @@ Supervisors: Cécile Viboud (NIH) and Robin Prentice (UW)<br/>
 Division of International Epidemiology and Population Studies<br/>
 Advisor: Cécile Viboud<br/>
 
-* **Led interdisciplinary research linking influenza epidemiological and evolutionary dynamics across 22 seasons**, revealing how viral evolution affects seasonal epidemic patterns in the U.S., with implications for genomic surveillance, outbreak prediction, and vaccine strain selection
+* **Led interdisciplinary research linking influenza epidemiological and evolutionary dynamics across 22 seasons**, in collaboration with Fred Hutch, Mt. Sinai, CDC, and WHO partners, revealing how viral evolution affects seasonal epidemic patterns in the U.S. with implications for genomic surveillance, outbreak prediction, and vaccine strain selection
 * **Delivered high-performing forecasts as NIH representative for U.S. Department of Defense Infectious Disease Forecasting Collaboration** (2019-2022), providing weekly predictions of COVID-19 and influenza cases for U.S. military bases that consistently outperformed internal DoD models
 * **Led COVID-19 healthcare impact analysis in South Africa**, in collaboration with South Africa's National Institute for Communicable Diseases and the country's largest private healthcare system
 * **Co-led swine influenza transmission research with Ohio State researchers**, characterizing influenza spread across a network of exhibition swine shows in U.S. Midwest and contributing to understanding of zoonotic transmission pathways and development of targeted interventions

@@ -16,6 +16,7 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 ## Education
 `2018`
 **Ph.D., Ecology, Evolution, and Behavior**, The University of Texas at Austin, Austin, TX, U.S.<br/>
+Dissertation: _Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals_<br/>
 
 `2009`
 **B.Sc., Biology, B.Sc., Ecology**, University of Georgia, Athens, GA, U.S.<br/>
@@ -32,9 +33,9 @@ Fogarty International Center, U.S. National Institutes of Health<br/>
 **NIH Postbaccalaureate IRTA Fellowship**, U.S. National Institutes of Health<br/>
 Adeno-Associated Virus Biology Section, National Institute of Dental and Craniofacial Research
 
-## Research Experience
+## Experience
 `Apr 2021–present`
-### Guest Researcher
+### Guest Research Scientist
 **Fogarty International Center, U.S. National Institutes of Health**<br/>
 Division of International Epidemiology and Population Studies<br/>
 Supervisor: Cécile Viboud<br/>
@@ -78,15 +79,14 @@ Advisor: Cécile Viboud<br/>
 * **Co-led swine influenza transmission research with Ohio State researchers**, characterizing influenza spread across a network of exhibition swine shows in U.S. Midwest and contributing to understanding of zoonotic transmission pathways and development of targeted interventions
 
 `Aug 2011–Aug 2018`
-### Doctoral Student
+### Graduate Research Assistant
 **Department of Integrative Biology, The University of Texas at Austin**<br/>
 Graduate Program in Ecology, Evolution, & Behavior<br/>
-Dissertation: _Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals_<br/>
 Advisor: Lauren Ancel Meyers<br/>
 
 * **Independently designed and executed interdisciplinary research program** integrating field data collection, high-throughput microbial sequencing, and computational modeling to study gut microbiome dynamics in wild lemur populations
 * **Planned and managed international field research operations conducting 5 months of fieldwork in Madagascar**, obtaining research permits and carrying out sample collection, transport, and laboratory processing
-* **Developed end-to-end analytical pipelines** utilizing QIIME and DADA2 workflows to process raw 16S rRNA sequencing data and applying Bayesian hierarchical models, random forest classification, social network analysis, and phylogenetic analysis
+* **Developed end-to-end analytical pipelines** utilizing QIIME, DADA2, and phyloseq workflows to process raw 16S rRNA sequencing data and applying Bayesian hierarchical models, random forest classification, social network analysis, and phylogenetic analysis
 * **Identified key drivers of wild primate gut microbiome composition**, revealing how host ecological, evolutionary, andbehavioral traits shape within- and between-species variation in gut microbial communities
 * **Led capacity building initiatives training Malagasy graduate students** in field techniques, data collection, and research methodology
 
@@ -94,141 +94,53 @@ Advisor: Lauren Ancel Meyers<br/>
 *Publication list also available in [Google Scholar](https://scholar.google.com/citations?user=8K-upW0AAAAJ&hl)* <br/>
 † denotes shared first authorship<br/>
 
-### Journal articles
-
-Elias-Warren, A., J.C. Bennett, ... <strong>A.C. Perofsky</strong>, ... H.Y. Chu. (2025) Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, WA, USA. <em>The Journal of Infectious Diseases</em> 232(Supplement_1):S78–S92. doi: <a href="https://doi.org/10.1093/infdis/jiaf142">10.1093/infdis/jiaf142</a>.
-
-Hansen, C. L., L. Lee, S.J. Bents, <strong>A.C. Perofsky</strong>, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2025) Scenario Projections of Respiratory Syncytial Virus Hospitalizations Averted Due to New Immunizations. <em>JAMA Network Open</em> 8(6):e2514622. doi: <a href="https://doi.org/10.1001/jamanetworkopen.2025.14622">10.1001/jamanetworkopen.2025.14622</a>.
-
-Kostandova, N., R. Corgel, ... <strong>A.C. Perofsky</strong>, ... D.A.T. Cummings, & A. Wesolowski. (2025) Improving mobility data for infectious disease research. <em>Nature Human Behaviour</em>. doi: <a href="https://doi.org/10.1038/s41562-025-02151-3">10.1038/s41562-025-02151-3</a>.
-
-Tran-Kiem, C., M.I. Paredes, <strong>A.C. Perofsky</strong>, ... C. Viboud, & T. Bedford. (2025) Fine-scale patterns of SARS-CoV-2 spread from identical pathogen sequences. <em>Nature</em> 640, 176-185. doi: <a href="https://doi.org/10.1038/s41586-025-08637-4">10.1038/s41586-025-08637-4</a>.
-
-<strong>Perofsky, A.C.</strong>, J. Huddleston, ... S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, & C. Viboud. (2024) Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States. <em>eLife</em> 13:RP91849. doi: <a href="https://doi.org/10.7554/eLife.91849">10.7554/eLife.91849</a>.
-
-Mathis, S.M., A.E. Webber, ... <strong>A.C. Perofsky</strong>, ... M. Biggerstaff, & R.K. Borchering (110 authors). (2024) Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations. <em>Nature Communications</em> 15, 6289. doi: <a href="https://doi.org/10.1038/s41467-024-50601-9">10.1038/s41467-024-50601-9</a>.
-
-<strong>Perofsky, A.C.</strong>, C.L. Hansen, ... M. Famulare, J. Shendure, T. Bedford, H.Y. Chu, J.A. Englund, L.M. Starita, & C. Viboud. (2024) Impacts of human mobility on the citywide transmission dynamics of 18 respiratory viruses in pre- and post-COVID-19 pandemic years. <em>Nature Communications</em> 15, 4164. doi: <a href="https://doi.org/10.1038/s41467-024-48528-2">10.1038/s41467-024-48528-2</a>.
-
-Paredes, M.I., <strong>A.C. Perofsky</strong>, ... C. Viboud, H.Y. Chu, N.F. Müller, & T. Bedford. (2024) Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan U.S. county. <em>PLOS Pathogens</em> 20(3):e1012117. doi: <a href="https://doi.org/10.1371/journal.ppat.1012117">10.1371/journal.ppat.1012117</a>.
-
-Hansen, C.L., <strong>A.C. Perofsky</strong>, ... J.A. Englund, J. Shendure, T. Bedford, H.Y. Chu, L.M. Starita, & C. Viboud. (2022) Trends in risk factors and symptoms associated with SARS-CoV-2 and Rhinovirus test positivity in King County, Washington: A Test-Negative Design Study of the Greater Seattle Coronavirus Assessment Network. <em>JAMA Network Open</em> 5(12):e2245861. doi: <a href="https://doi.org/10.1001/jamanetworkopen.2022.45861">10.1001/jamanetworkopen.2022.45861</a>.
-
-<strong>Perofsky, A.C.</strong>, S. Tempia, J. Bingham, C. Maslo, M. Toubkin, A. Laubscher, S. Walaza, J.R.C. Pulliam, C. Viboud, & C. Cohen. (2022) The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa. <em>Clinical Infectious Diseases</em> 75(1):e1000-e1010. doi: <a href="https://doi.org/10.1093/cid/ciac055">10.1093/cid/ciac055</a>.
-
-<strong>Perofsky, A.C.</strong>,  L.A. Meyers, L.A. Abondano, A. Di Fiore, & R.J. Lewis. (2021) Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. <em>Molecular Ecology</em> 30:6759–6775. doi: <a href="https://doi.org/10.1111/mec.16193">10.1111/mec.16193</a>.
-
-McBride, D.S.†, <strong>A.C. Perofsky†</strong>, J.M. Nolting, M.I. Nelson, & A.S. Bowman. (2021) Tracing the source of influenza A virus zoonoses in interconnected circuits of swine exhibitions. <em>The Journal of Infectious Diseases</em> jiab122. doi: <a href="https://doi.org/10.1093/infdis/jiab122">10.1093/infdis/jiab122</a>.
-
-<strong>Perofsky, A.C.</strong>, & M.I. Nelson. (2020) Seasonal influenza: The challenges of vaccine strain selection. <em>eLife</em> 9:e62955. doi: <a href="https://doi.org/10.7554/eLife.62955">10.7554/eLife.62955</a>. (Invited Insight article)
-
-Nelson, M.I., <strong>A. Perofsky</strong>, D.S. McBride, B.L. Rambo-Martin, M.M. Wilson, J.R. Barnes, H. van Bakel, J.M. Nolting, & A.S. Bowman. (2020) A heterogenous swine show circuit drives zoonotic transmission of influenza A viruses in the United States. <em>Journal of Virology</em> 94(24):e01453-20. doi: <a href="https://doi.org/10.1128/JVI.01453-20">10.1128/JVI.01453-20</a>.
-
-Viboud, C., K. Gostic, M.I. Nelson, G.E. Price, <strong>A. Perofsky</strong>, K. Sun, N. Sequeira Trovão, B. Cowling, S. Epstein, & D.J. Spiro. (2020) Beyond Clinical Trials: Evolutionary and Epidemiological Considerations for Development of a Universal Flu Vaccine. <em>PLOS Pathogens</em> 16(9):e1008583. doi: <a href="https://doi.org/10.1371/journal.ppat.1008583">10.1371/journal.ppat.1008583</a>.
-
-<strong>Perofsky, A.C.</strong>, R.J. Lewis, & L.A. Meyers. (2018) Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. <em>The ISME Journal</em> 13:50–63. doi: <a href="https://doi.org/10.1038/s41396-018-0251-5">10.1038/s41396-018-0251-5</a>.
-
-<strong>Perofsky, A.C.</strong>, R.J. Lewis, L. Abondano, A. Di Fiore, & L.A. Meyers. (2017) Hierarchical social networks shape gut microbial composition in wild Verreaux's sifaka. <em>Proceedings of the Royal Society B</em> 284:20172274. doi: <a href="https://doi.org/10.1098/rspb.2017.2274">10.1098/rspb.2017.2274</a>.
-
-Rakotomalala, E.J., F. Rakotondraparany, <strong>A.C. Perofsky</strong>, & R.J. Lewis. (2017) Characterization of the tree holes used by <em>Lepilemur ruficaudatus</em> in the dry, deciduous forest of Kirindy Mitea National Park. <em>Folia Primatologica</em> 88:28-41. doi: <a href="https://doi.org/10.1159/000464406">10.1159/000464406</a>.
-
-Berry, B.S.†, K. Magori†, <strong>A.C. Perofsky</strong>, D.E. Stallknecht, & A.W. Park. (2013) Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. <em>Journal of Wildlife Diseases</em> 49(3):501-509. doi: <a href="https://doi.org/10.7589/2012-11-283">10.7589/2012-11-283</a>.
-
 ### Preprints and submitted manuscripts
 
-Bents, S. J., E. T. Martin, ... <strong>A. Perofsky</strong>, ... A. Waghmare, C. Viboud. (2025) Multiplex serology reveals age-specific immunodynamics of endemic respiratory pathogens in the wake of the COVID-19 pandemic. <em>medRxiv</em> 2025.03.26.25324738. doi: <a href="https://doi.org/10.1101/2025.03.26.25324738">10.1101/2025.03.26.25324738</a>. (Submitted, <em>Nature Communications</em>)
+1. Tran-Kiem, C., <strong>A.C. Perofsky</strong>, J. Lessler, T. Bedford. (2025) Characterizing the informativeness of pathogen genome sequence datasets about transmission between population groups. (Submitted, <em>Proceedings of the Royal Society B</em>)
 
-Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington. <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report)
+2. Bents, S.J., E.T. Martin, T. Steven-Ayers, C. Andrews, A. Adler, <strong>A. Perofsky</strong>, E.M. Krantz, R. Blazevic, L. Kimball, R. Prentice, C. Hansen, L. Starita, P. Han, J.A. Englund, N. Wolter, A. von Gottberg, L. Maake, J. Moyes, C. Cohen, M. Boeckh, J.A. Hay, A. Waghmare, C. Viboud. (2025) Multiplex serology reveals age-specific immunodynamics of endemic respiratory pathogens in the wake of the COVID-19 pandemic. <em>medRxiv</em> 2025.03.26.25324738. doi: <a href="https://doi.org/10.1101/2025.03.26.25324738">10.1101/2025.03.26.25324738</a>. (Submitted, <em>Nature Communications</em>)
 
-## Research Funding
-### Grants (PI)
-`2018`
-**Research Exchange Grant**, NSF Infectious Disease Evolution Across Scales (IDEAS) Research Coordination Network, $2800<br/>
+4. Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington. <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report, manuscript in prep)
 
-`2015`
-**Research Grant DBI-0939454**, BEACON: An NSF Science and Technology Center for the Study of Evolution in Action, $16,000 <br/>
-Co-PI with Lauren Ancel Meyers and Rebecca Lewis
+### Journal articles
 
-`2015`
-**Dissertation Improvement Grant**, Ecology, Evolution, & Behavior Graduate Program, UT Austin, $8000<br/>
+1. Elias-Warren, A., J.C. Bennett, C.D. Iwu , L.M. Starita, J. Stone, B. Capodanno, R. Prentice, P.D. Han, Z. Acker, S.B. Grindstaff, D. Reinhart, J.K. Logue, C.R. Wolf, M. Boeckh, K. Kong, H. Xie, G. Kim, A.L. Greninger,  <strong>A.C. Perofsky</strong>, C. Viboud, T.M. Uyeki, J.A. Englund, P. Roychoudhury, & H.Y. Chu. (2025) Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, WA, USA. <em>The Journal of Infectious Diseases</em> 232(Supplement_1):S78–S92. doi: <a href="https://doi.org/10.1093/infdis/jiaf142">10.1093/infdis/jiaf142</a>.
 
-`2012`
-**Small Research Grant**, American Society of Primatologists, $2000
+2. Hansen, C.L., L. Lee, S.J. Bents, <strong>A.C. Perofsky</strong>, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2025) Scenario Projections of Respiratory Syncytial Virus Hospitalizations Averted Due to New Immunizations. <em>JAMA Network Open</em> 8(6):e2514622. doi: <a href="https://doi.org/10.1001/jamanetworkopen.2025.14622">10.1001/jamanetworkopen.2025.14622</a>.
 
-`2012`
-**Small Research Grant**, International Primatological Society, $1500
+3. Kostandova, N., R. Corgel, S. Bansal, S. Bérubé, E. Cleary, C. Hansen, M.D.T. Hitchings, B. García-Carreras, L. Gardner, M.U.G. Kraemer, S. Lai, Y. Li, <strong>A.C. Perofsky</strong>, G. Pullano, J.M. Read, G. Ribeiro dos Santos, H. Salje, S. Takahashi, C. Viboud, J. Wang, D.A.T. Cummings, & A. Wesolowski. (2025) Improving mobility data for infectious disease research. <em>Nature Human Behaviour</em>. doi: <a href="https://doi.org/10.1038/s41562-025-02151-3">10.1038/s41562-025-02151-3</a>.
 
-`2011`
-**Startup Grant**, Ecology, Evolution, & Behavior Graduate Program, UT Austin, $2000
+4. Tran-Kiem, C., M.I. Paredes, <strong>A.C. Perofsky</strong>, L.A. Frisbie, H. Xie, K. Kong, A. Weixler, A.L. Greninger, P. Roychoudhury, J.M. Peterson, A. Delgado, H. Halstead, D. MacKellar, P. Dykema, L. Gamboa, C.D. Frazar, E. Ryke, J. Stone, D. Reinhart, L. Starita, A. Thibodeau, C. Yun, F. Aragona, A. Black, C. Viboud, & T. Bedford. (2025) Fine-scale patterns of SARS-CoV-2 spread from identical pathogen sequences. <em>Nature</em> 640, 176-185. doi: <a href="https://doi.org/10.1038/s41586-025-08637-4">10.1038/s41586-025-08637-4</a>.
 
-`2008`
-**NSF Research Experiences for Undergraduates (REU) Award**, NSF Coweeta Long Term Ecological Research Program, $3600
+5. <strong>Perofsky, A.C.</strong>, J. Huddleston, C.L. Hansen, J.R. Barnes, T. Rowe, X. Xu, R. Kondor, D.E. Wentworth, N. Lewis, L. Whittaker, B. Ermetal, R. Harvey, M. Galiano, R. Stuart Daniels, J.W. McCauley, S. Fujisaki, K. Nakamura, N. Kishida, S. Watanabe, H. Hasegawa, S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, & C. Viboud. (2024) Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States. <em>eLife</em> 13:RP91849. doi: <a href="https://doi.org/10.7554/eLife.91849">10.7554/eLife.91849</a>.
 
-### Contributions to other grants (non PI-status)
-`2022-2024`
-**BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program, $2M<br/> "Collaborative technology development, and analyses to support genetic epidemiology in Washington State"<br/> 
-PIs: Lea Starita and Trevor Bedford<br/>
-Role: Epidemiology Lead
+6. Mathis, S.M.†, A.E. Webber†, ... <strong>A.C. Perofsky</strong>, ... M. Biggerstaff, & R.K. Borchering (110 authors). (2024) Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations. <em>Nature Communications</em> 15, 6289. doi: <a href="https://doi.org/10.1038/s41467-024-50601-9">10.1038/s41467-024-50601-9</a>.
 
-`2021-2022`
-**Seattle Flu Study and Seattle Coronavirus Assessment Network**, Gates Ventures, $11.6M<br/>
-PIs: Trevor Bedford, Michael Boeckh, Helen Chu, Janet Englund, Tina Lockwood, Barry Lutz, Jay Shendure, Lea Starita, Cécile Viboud, Alpana Waghmare<br/>
-Role: Staff Scientist
+7. <strong>Perofsky, A.C.</strong>, C.L. Hansen, R. Burstein, S. Boyle, R. Prentice, C. Marshall, D. Reinhart, B. Capodanno, M. Truong, K. Schwabe-Fry, K. Kuchta, B. Pfau, Z. Acker, J. Lee, T.R. Sibley, E. McDermot, L. Rodriguez-Salas, J. Stone, L. Gamboa, P.D. Han, A. Adler, A. Waghmare, M.L. Jackson, , M. Famulare, J. Shendure, T. Bedford, H.Y. Chu, J.A. Englund, L.M. Starita, & C. Viboud. (2024) Impacts of human mobility on the citywide transmission dynamics of 18 respiratory viruses in pre- and post-COVID-19 pandemic years. <em>Nature Communications</em> 15, 4164. doi: <a href="https://doi.org/10.1038/s41467-024-48528-2">10.1038/s41467-024-48528-2</a>.
 
-## Honors and Awards
-`2023`
-**Director's Individual Merit Award**, Fogarty International Center, NIH. "For excellence in scientific research in epidemiological modeling with a focus on influenza antigenic evolution and the role of human mobility in COVID-19 disease dynamics."
+8. Paredes, M.I., <strong>A.C. Perofsky</strong>, L. Frisbie, L.H. Moncla, P. Roychoudhury, H. Xie, S.A. Mohamed Bakhash, K. Kong, I. Arnould, T.V. Nguyen, S.T. Wendm, P. Hajian, S. Ellis, P.C. Mathias, A.L. Greninger, L.M. Starita, C.D. Frazar, E. Ryke, W. Zhong, L. Gamboa, M. Threlkeld, J. Lee, J. Stone, E. McDermot, M. Truong, J. Shendure, H.N. Oltean, C. Viboud, H.Y. Chu, N.F. Müller, & T. Bedford. (2024) Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan U.S. county. <em>PLOS Pathogens</em> 20(3):e1012117. doi: <a href="https://doi.org/10.1371/journal.ppat.1012117">10.1371/journal.ppat.1012117</a>.
 
-`2020, 2021`	
-**Director’s Group Merit Award**, Fogarty International Center, NIH. "For outstanding modeling work to support the COVID-19 pandemic response domestically and internationally."
+9. Hansen, C.L., <strong>A.C. Perofsky</strong>, R. Burstein, M. Famulare, S. Boyle, R. Prentice, C. Marshall, B.J.J. McCormick, D. Reinhart, B. Capodanno, M. Truong, K. Schwabe-Fry, K. Kuchta, B. Pfau, Z. Acker, J. Lee, T.R. Sibley, E. McDermot, L. Rodriguez-Salas, J. Stone, L. Gamboa, P.D. Han, J.S. Duchin, A. Waghmare, J.A. Englund, J. Shendure, T. Bedford, H.Y. Chu, L.M. Starita, & C. Viboud. (2022) Trends in risk factors and symptoms associated with SARS-CoV-2 and Rhinovirus test positivity in King County, Washington: A Test-Negative Design Study of the Greater Seattle Coronavirus Assessment Network. <em>JAMA Network Open</em> 5(12):e2245861. doi: <a href="https://doi.org/10.1001/jamanetworkopen.2022.45861">10.1001/jamanetworkopen.2022.45861</a>.
 
-`2020`	
-**Young Scientist Award**, European Scientific Working group on Influenza (ESWI) Conference
+10. <strong>Perofsky, A.C.</strong>, S. Tempia, J. Bingham, C. Maslo, M. Toubkin, A. Laubscher, S. Walaza, J.R.C. Pulliam, C. Viboud, & C. Cohen. (2022) The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa. <em>Clinical Infectious Diseases</em> 75(1):e1000-e1010. doi: <a href="https://doi.org/10.1093/cid/ciac055">10.1093/cid/ciac055</a>.
 
-`2019`
-**Director's Individual Merit Award**, Fogarty International Center, NIH. "For outstanding efforts to forecast weekly influenza-like illness activity in 27 U.S. military facilities in collaboration with DoD."
+11. <strong>Perofsky, A.C.</strong>,  L.A. Meyers, L.A. Abondano, A. Di Fiore, & R.J. Lewis. (2021) Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. <em>Molecular Ecology</em> 30:6759–6775. doi: <a href="https://doi.org/10.1111/mec.16193">10.1111/mec.16193</a>.
 
-`2017, 2018`	
-**Graduate School Summer Semester Continuing Fellowship**, UT Austin
+12. McBride, D.S.†, <strong>A.C. Perofsky†</strong>, J.M. Nolting, M.I. Nelson, & A.S. Bowman. (2021) Tracing the source of influenza A virus zoonoses in interconnected circuits of swine exhibitions. <em>The Journal of Infectious Diseases</em> jiab122. doi: <a href="https://doi.org/10.1093/infdis/jiab122">10.1093/infdis/jiab122</a>. <strong>† co-first authors </strong>
 
-`2017`	
-**Course Fellowship, Network Modeling for Epidemics**, University of Washington, Seattle, WA
+13. <strong>Perofsky, A.C.</strong>, & M.I. Nelson. (2020) Seasonal influenza: The challenges of vaccine strain selection. <em>eLife</em> 9:e62955. doi: <a href="https://doi.org/10.7554/eLife.62955">10.7554/eLife.62955</a>. (Invited Insight article)
 
-`2017`
-**Graduate Student Professional Development Award**, College of Natural Sciences, UT Austin
+14. Nelson, M.I., <strong>A. Perofsky</strong>, D.S. McBride, B.L. Rambo-Martin, M.M. Wilson, J.R. Barnes, H. van Bakel, J.M. Nolting, & A.S. Bowman. (2020) A heterogenous swine show circuit drives zoonotic transmission of influenza A viruses in the United States. <em>Journal of Virology</em> 94(24):e01453-20. doi: <a href="https://doi.org/10.1128/JVI.01453-20">10.1128/JVI.01453-20</a>.
 
-`2014, 2015`	
-**Scholarship and Travel Award, Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)**, University of Washington, Seattle, WA
+15. Viboud, C., K. Gostic, M.I. Nelson, G.E. Price, <strong>A. Perofsky</strong>, K. Sun, N. Sequeira Trovão, B. Cowling, S. Epstein, & D.J. Spiro. (2020) Beyond Clinical Trials: Evolutionary and Epidemiological Considerations for Development of a Universal Flu Vaccine. <em>PLOS Pathogens</em> 16(9):e1008583. doi: <a href="https://doi.org/10.1371/journal.ppat.1008583">10.1371/journal.ppat.1008583</a>.
 
-`2011`
-**Scholarship and Travel Award, Meaningful Modeling of Epidemiological Data (MMED) Clinic**, African Institute for Mathematical Sciences, Cape Town, South Africa
+16. <strong>Perofsky, A.C.</strong>, R.J. Lewis, & L.A. Meyers. (2019) Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. <em>The ISME Journal</em> 13:50–63. doi: <a href="https://doi.org/10.1038/s41396-018-0251-5">10.1038/s41396-018-0251-5</a>.
 
-`2010, 2011`
-**Scholarship and Travel Award, Ecology and Evolution of Infectious Diseases (EEID) Conference Workshop**. Cornell University, Ithaca, NY (2010) and University of California, Santa Barbara, Isla Vista, CA (2011)
+17. <strong>Perofsky, A.C.</strong>, R.J. Lewis, L. Abondano, A. Di Fiore, & L.A. Meyers. (2017) Hierarchical social networks shape gut microbial composition in wild Verreaux's sifaka. <em>Proceedings of the Royal Society B</em> 284:20172274. doi: <a href="https://doi.org/10.1098/rspb.2017.2274">10.1098/rspb.2017.2274</a>.
 
-`2009`	
-**Center for Undergraduate Research (CURO) Scholar distinction**, University of Georgia
+18. Rakotomalala, E.J., F. Rakotondraparany, <strong>A.C. Perofsky</strong>, & R.J. Lewis. (2017) Characterization of the tree holes used by <em>Lepilemur ruficaudatus</em> in the dry, deciduous forest of Kirindy Mitea National Park. <em>Folia Primatologica</em> 88:28-41. doi: <a href="https://doi.org/10.1159/000464406">10.1159/000464406</a>.
 
-`2008`
-**Inducted, Phi Beta Kappa**
-
-`2007` 	
-**Honors International Scholarship**, University of Georgia Honors Program
-
-`2005–2009`
-**Georgia Governor's Scholarship**<br/>
-Awarded to high school valedictorians attending in-state universities.
-
-`2005–2009`	
-**Charter Scholarship**, University of Georgia Honors Program<br/>
-Awarded to 200 new students for outstanding achievement in academics.
-
-`2005–2009`	
-**National Merit Scholarship**, University of Georgia
-
-`2005–2009`
-**Georgia HOPE Scholarship**<br/>
-Merit-based full tuition scholarship awarded to Georgia residents attending in-state universities.
+19. Berry, B.S.†, K. Magori†, <strong>A.C. Perofsky</strong>, D.E. Stallknecht, & A.W. Park. (2013) Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. <em>Journal of Wildlife Diseases</em> 49(3):501-509. doi: <a href="https://doi.org/10.7589/2012-11-283">10.7589/2012-11-283</a>.
 
 ## Conferences
 ### Organization
@@ -359,6 +271,97 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 `2015`
 **Department of Integrative Biology, UT Austin**, Austin, TX. *Social networks shape the gut microbial communities of wild Verreaux’s sifaka.*
 
+## Research Funding
+### Grants (PI)
+`2018`
+**Research Exchange Grant**, NSF Infectious Disease Evolution Across Scales (IDEAS) Research Coordination Network, $2800<br/>
+
+`2015`
+**Research Grant DBI-0939454**, BEACON: An NSF Science and Technology Center for the Study of Evolution in Action, $16,000 <br/>
+Co-PI with Lauren Ancel Meyers and Rebecca Lewis
+
+`2015`
+**Dissertation Improvement Grant**, Ecology, Evolution, & Behavior Graduate Program, UT Austin, $8000<br/>
+
+`2012`
+**Small Research Grant**, American Society of Primatologists, $2000
+
+`2012`
+**Small Research Grant**, International Primatological Society, $1500
+
+`2011`
+**Startup Grant**, Ecology, Evolution, & Behavior Graduate Program, UT Austin, $2000
+
+`2008`
+**NSF Research Experiences for Undergraduates (REU) Award**, NSF Coweeta Long Term Ecological Research Program, $3600
+
+### Contributions to other grants (non PI-status)
+`2022-2024`
+**CDC BAA Contract 75D30122C14368**, U.S. CDC Advanced Molecular Detection Program, $2M<br/> "Collaborative technology development, and analyses to support genetic epidemiology in Washington State"<br/> 
+PIs: Lea Starita and Trevor Bedford<br/>
+Role: Epidemiology Lead
+
+`2021-2022`
+**Seattle Flu Study and Seattle Coronavirus Assessment Network**, Gates Ventures, $11.6M<br/>
+PIs: Trevor Bedford, Michael Boeckh, Helen Chu, Janet Englund, Tina Lockwood, Barry Lutz, Jay Shendure, Lea Starita, Cécile Viboud, Alpana Waghmare<br/>
+Role: Staff Scientist
+
+## Honors and Awards
+`2023`
+**Director's Individual Merit Award**, Fogarty International Center, NIH. "For excellence in scientific research in epidemiological modeling with a focus on influenza antigenic evolution and the role of human mobility in COVID-19 disease dynamics"
+
+`2020, 2021`	
+**Director’s Group Merit Award**, Fogarty International Center, NIH. "For outstanding modeling work to support the COVID-19 pandemic response domestically and internationally"
+
+`2020`	
+**Young Scientist Award**, European Scientific Working group on Influenza (ESWI) Conference
+
+`2019`
+**Director's Individual Merit Award**, Fogarty International Center, NIH. "For outstanding efforts to forecast weekly influenza-like illness activity in 27 U.S. military facilities in collaboration with DoD"
+
+`2017, 2018`	
+**Graduate School Summer Semester Continuing Fellowship**, UT Austin
+
+`2017`
+**Graduate Student Professional Development Award**, College of Natural Sciences, UT Austin
+
+`2009`	
+**Center for Undergraduate Research (CURO) Scholar distinction**, University of Georgia
+
+`2008`
+**Inducted, Phi Beta Kappa**
+
+`2007` 	
+**Honors International Scholarship**, University of Georgia Honors Program
+
+`2005–2009`
+**Georgia Governor's Scholarship**<br/>
+Awarded to high school valedictorians attending in-state universities
+
+`2005–2009`	
+**Charter Scholarship**, University of Georgia Honors Program<br/>
+Awarded to 200 new students for outstanding achievement in academics
+
+`2005–2009`	
+**National Merit Scholarship**, University of Georgia
+
+`2005–2009`
+**Georgia HOPE Scholarship**<br/>
+Merit-based full tuition scholarship awarded to Georgia residents attending in-state universities
+
+## Workshop Scholarships and Travel Awards
+`2017`	
+**Course Fellowship, Network Modeling for Epidemics**, University of Washington, Seattle, WA
+
+`2014, 2015`	
+**Scholarship and Travel Award, Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)**, University of Washington, Seattle, WA
+
+`2011`
+**Scholarship and Travel Award, Meaningful Modeling of Epidemiological Data (MMED) Clinic**, African Institute for Mathematical Sciences, Cape Town, South Africa
+
+`2010, 2011`
+**Scholarship and Travel Award, Ecology and Evolution of Infectious Diseases (EEID) Conference Workshop**. Cornell University, Ithaca, NY (2010) and University of California, Santa Barbara, Isla Vista, CA (2011)
+
 ## Teaching and Mentoring Experience
 ### Student mentoring
 `Jun 2024`
@@ -448,8 +451,8 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 
 **Tools**: Version control (git/GitHub), bash, high-performance computing, LaTeX, Markdown
 
-**Specialized Methods**: Probabilistic forecasting, infectious disease compartmental modeling, counterfactual analysis, network analysis, phylogenetic analysis
+**Specialized Methods**: Probabilistic forecasting, infectious disease compartmental modeling, counterfactual analysis, network analysis, phylogenetic analysis, 16S rRNA amplicon sequencing, microbial community analysis
 
 **Statistical & Computational Methods**: Bayesian methods (hierarchical models, MCMC sampling), frequentist methods (maximum likelihood estimation, hypothesis testing), time series analysis, Monte Carlo simulation, bootstrap resampling, numerical optimization
 
-**Machine Learning Methods**: Random forest (classification and regression), penalized regression, feature importance, dimensionality reduction, clustering analysis
+**Machine Learning Methods**: Random forest (classification and regression), penalized regression, feature importance, dimensionality reduction, cluster analysis

@@ -96,11 +96,11 @@ Advisor: Lauren Ancel Meyers<br/>
 
 ### Preprints and submitted manuscripts
 
-1. Tran-Kiem, C., <strong>A.C. Perofsky</strong>, J. Lessler, T. Bedford. (2025) Characterizing the informativeness of pathogen genome sequence datasets about transmission between population groups. (Submitted, <em>Proceedings of the Royal Society B</em>)
+1. Tran-Kiem, C., <strong>A.C. Perofsky</strong>, J. Lessler, T. Bedford. (2025) Characterizing the informativeness of pathogen genome sequence datasets about transmission between population groups. <em>medRxiv</em> 2025.08.07.25333239. doi: <a href="https://doi.org/10.1101/2025.08.07.25333239">10.1101/2025.08.07.25333239</a>. (Under review, <em>Proceedings of the Royal Society B</em>)
 
-2. Bents, S.J., E.T. Martin, T. Steven-Ayers, ... <strong>A. Perofsky</strong>, ... C. Cohen, M. Boeckh, J.A. Hay, A. Waghmare, C. Viboud. (2025) Multiplex serology reveals age-specific immunodynamics of endemic respiratory pathogens in the wake of the COVID-19 pandemic. <em>medRxiv</em> 2025.03.26.25324738. doi: <a href="https://doi.org/10.1101/2025.03.26.25324738">10.1101/2025.03.26.25324738</a>. (Submitted, <em>Nature Communications</em>)
+2. Bents, S.J., E.T. Martin, T. Steven-Ayers, ... <strong>A. Perofsky</strong>, ... C. Cohen, M. Boeckh, J.A. Hay, A. Waghmare, C. Viboud. (2025) Multiplex serology reveals age-specific immunodynamics of endemic respiratory pathogens in the wake of the COVID-19 pandemic. <em>medRxiv</em> 2025.03.26.25324738. doi: <a href="https://doi.org/10.1101/2025.03.26.25324738">10.1101/2025.03.26.25324738</a>. (In revision, <em>Nature Communications</em>)
 
-4. Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington. <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report, manuscript in prep)
+3. Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & <strong>A.C. Perofsky</strong>. (2024) Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington. <em>medRxiv</em> 2024.09.13.24313667. doi: <a href="https://doi.org/10.1101/2024.09.13.24313667">10.1101/2024.09.13.24313667</a>. (<a href="https://complexity72h.com/">Complexity 72h</a> report, manuscript in prep)
 
 ### Journal articles
 
@@ -404,7 +404,7 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 `2022–2024`
 **Led and coordinated monthly [Seattle Flu Study](https://seattleflu.org/) Data Analysis meetings**, promoting idea exchange and collaboration across epidemiology, laboratory, clinical, engineering, and operations teams
 
-`2022, 2023, 2024`
+`2022-2025`
 **Abstract reviewer**, NIH Modeling of Infectious Disease Agent Study (MIDAS) Annual Meetings
 
 `Feb 2020`
@@ -451,8 +451,8 @@ Merit-based full tuition scholarship awarded to Georgia residents attending in-s
 
 **Tools**: Version control (git/GitHub), bash, high-performance computing, LaTeX, Markdown
 
-**Specialized Methods**: Probabilistic forecasting, infectious disease compartmental modeling, counterfactual analysis, network analysis, phylogenetic analysis, 16S rRNA amplicon sequencing, microbial community analysis
+**Specialized Methods**: Probabilistic forecasting, infectious disease compartmental modeling, counterfactual analysis and scenario modeling, network analysis, phylogenetic analysis, 16S rRNA amplicon sequencing, microbial community analysis
 
 **Statistical & Computational Methods**: Bayesian methods (hierarchical models, MCMC sampling), frequentist methods (maximum likelihood estimation, hypothesis testing), time series analysis, Monte Carlo simulation, bootstrap resampling, numerical optimization
 
-**Machine Learning Methods**: Random forest (classification and regression), penalized regression, feature importance, dimensionality reduction, cluster analysis
+**Machine Learning Methods**: Random forest (classification and regression), penalized regression, feature selection, dimensionality reduction, cluster analysis
